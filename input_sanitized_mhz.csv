@@ -1,0 +1,4408 @@
+﻿"Banda de frecvenţe
+(MHz)","Atribuiri Regiunea 1 UIT şi
+note subsol aplicabile CEPT",Atribuiri în România,Column1,Column2,Utilizări în România,Column3,Column4,Column5,Column6,Statut utilizare,Column7
+"29,7000 – 30,0050",FIX MOBIL,MOBIL ECA36,,,Sisteme militare aeronautice Sisteme militare maritime Sisteme militare terestre ECA36,,,,,G(A)/G/NG,
+,,,,,Sisteme guvernamentale,,,,,,
+,,,,,"Implanturi medicale active (în banda 30,0-37,5 MHz)","ERC/REC 70-03
+EN 302 510
+Decizia 2010/368/UE (Nota 4)",,,,,
+,,,,,"Aplicaţii inductive (în banda 148,5 kHz–30 MHz)","ERC REC 70-03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)",,,,,
+,,,,,"Radiomicrofoane (cu acord de frecvenţă în banda 29,7 – 30,3 MHz)","ERC REC 70-03
+EN 300 422",,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+"30,0050 – 30,0100","FIX MOBIL
+EXPLOATARE SPAȚIALĂ
+(identificare sateliti)
+CERCETARE SPAȚIALĂ",MOBIL ECA36,,,Sisteme militare aeronautice Sisteme militare terestre Sisteme militare maritime Sisteme militare prin satelit ECA36,,,,,G(A)/G/NG,
+,,,,,Sisteme guvernamentale,,,,,,
+,,,,,"Implanturi medicale active (în banda 30,0 – 37,5 MHz)","ERC/REC 70-03
+EN 302 510
+Decizia 2010/368/UE (Nota 4)",,,,,
+,,,,,"Radiomicrofoane (cu acord de frecvenţă în banda 29,7 – 30,3 MHz)","ERC/REC 70-03
+EN 300 422",,,,,
+"30,0100 – 33,1000",FIX MOBIL,MOBIL ECA36,,,Sisteme militare aeronautice Sisteme militare terestre Sisteme militare maritime ECA36,,,,,G(A)/NG,
+,,,,,"Implanturi medicale active (în banda 30,0 – 37,5 MHz)","ERC/REC 70-03
+EN 302 510
+Decizia 2010/368/UE (Nota 4)",,,,,
+,,,,,"Radiomicrofoane (cu acord de frecvenţă în benzile 29,7-30,3 MHz, 30,5-32,15 MHz şi 32,45-
+33,1 MHz)","ERC REC 70-03;
+EN 300 422",,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+"33,1000 – 33,6000",,,,,PMR,"T/R 25-08
+EN 300 086,  EN 300 113
+EN 300 219,  EN 300 296
+EN 300 341,  EN 300 390
+EN 300 471,  EN 301 166
+EN 302 561,  EN 303 039",,,,NG,
+,,,,,"Implanturi medicale active (în banda 30,0 – 37,5 MHz)","ERC/REC 70-03
+EN 302 510
+Decizia 2010/368/UE (Nota 4)",,,,,
+"33,6000 – 34,9750",,,,,Sisteme militare aeronautice Sisteme militare terestre Sisteme militare maritime ECA36,,,,,G(A)/G/NG,
+,,,,,Sisteme guvernamentale,,,,,,
+,,,,,"Implanturi medicale active (în banda 30,0 – 37,5 MHz)","ERC/REC 70-03
+EN 302 510
+Decizia 2010/368/UE (Nota 4)",,,,,
+,,,,,"Radiomicrofoane (cu acord de frecvenţă în banda 33,6-34,975 MHz)","ERC REC 70-03;
+EN 300 422",,,,,
+"34,9750 – 35,2500",,,,,PMR,"T/R 25-08
+EN 300 086,  EN 300 113
+EN 300 219,  EN 300 296
+EN 300 341,  EN 300 390
+EN 300 471,  EN 301 166
+EN 302 561,  EN 303 039",,,,NG,
+,,,,,"Implanturi medicale active (în banda 30,0 – 37,5 MHz)","ERC/REC 70-03
+EN 302 510
+Decizia 2010/368/UE (Nota 4)",,,,,
+,,,,,"Controlul modelelor
+(in banda 34,995-35,225 MHz numai pentru aeromodele)","ERC DEC(01)11 ERC REC 70-03
+EN 300 220",,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+"35,2500 – 36,8000",,,,,"Sisteme militare aeronautice Sisteme militare terestre Sisteme militare maritime ECA36
+Sisteme guvernamentale","ERC/REC 70-03
+EN 302 510
+Decizia 2010/368/UE (Nota 4)",,,,G(A) / G,
+,,,,,"Implanturi medicale active (în banda 30,0 – 37,5 MHz)",,,,,,
+"36,8000 – 37,5000",,,,,PMR,"T/R 25-08
+EN 300 086,  EN 300 113
+EN 300 219,  EN 300 296
+EN 300 341,  EN 300 390
+EN 300 471,  EN 301 166
+EN 302 561,  EN 303 039",,,,NG,
+,,,,,"Implanturi medicale active (în banda 30,0 – 37,5 MHz)","ERC/REC 70-03
+EN 302 510
+Decizia 2010/368/UE (Nota 4)",,,,,
+"37,5000 – 38,2500","FIX MOBIL
+Radioastronomie 5.149","MOBIL
+Radioastronomie 5.149
+ECA36",,,"Sisteme militare aeronautice Sisteme militare terestre Sisteme militare maritimeECA36 Sisteme guvernamentale
+Aplicaţii pentru radioastronomie (Măsurări in domeniul continuu)
+Radiomicrofoane (cu acord de frecvenţă în banda 37,5-40,02 MHz)","ERC/REC 70-03
+EN 300 422",,,,G(A)/G/NG,
+"38,2500 – 39,0000",FIX MOBIL,MOBIL ECA36,,,"Sisteme militare aeronautice Sisteme militare terestre Sisteme militare maritime ECA36
+Sisteme guvernamentale Radiomicrofoane (cu acord de
+frecvenţă în banda 37,5-40,02
+MHz)","ERC REC 70-03
+EN 300 422",,,,G(A)/G/NG,
+,,,,,,,,,,,
+,,,,,,,,,,,
+"39,0000-39,5000","FIX MOBIL
+Radiolocație 5.132A
+5.159",MOBlL ECA36,,,"Sisteme militare aeronautice Sisteme militare terestre Sisteme militare maritime ECA36
+Sisteme guvernamentale
+Aplicații utilizând dispersia meteorică (în banda 39,0-39,2 MHz)
+Radiomicrofoane (cu acord de frecvenţă în banda 37,5-40,02 MHz)","ERC/REC/(00)04
+ERC REC 70-03
+EN 300 422",,,,G(A)/G/NG,
+"39,5000-39,9860",FIX MOBIL,MOBIL ECA36,,,"Sisteme militare aeronautice Sisteme militare terestre Sisteme militare maritime ECA36
+Sisteme guvernamentale Radiomicrofoane (cu acord de
+frecvenţă în banda 37,5-40,02 MHz)","ERC REC 70-03
+EN 300 422",,,,G(A)/G/NG,
+"39,9860 – 40,0200","FIX MOBIL
+Cercetare spațială","MOBIL
+Cercetare spațială
+ECA36",,,"Sisteme militare aeronautice Sisteme militare terestre Sisteme militare maritime ECA36
+Sisteme guvernamentale Radiomicrofoane (cu acord de
+frecvenţă în banda 37,5-40,02
+MHz)","ERC/REC 70-03
+EN 300 422",,,,G(A)/G/NG,
+"40,0200 – 40,3000",FIX MOBIL,MOBIL ECA36,,,"Sisteme militareaeronautice Sisteme militare terestre Sisteme militare maritime ECA36
+Sisteme guvernamentale",,,,,G(A) / G,
+,,,,,,,,,,,
+,,,,,,,,,,,
+"40,3000 – 40,6600",,,,,PMR,"T/R 25-08
+EN 300 086,  EN 300 113
+EN 300 219,  EN 300 296
+EN 300 341,  EN 300 390
+EN 300 471,  EN 301 166
+EN 302 561,  EN 303 039",,,,NG,
+"40,6600 – 40,7000",FIX,MOBIL,,,PMR,"T/R 25-08
+EN 300 086,  EN 300 113
+EN 300 219,  EN 300 296
+EN 300 341,  EN 300 390
+EN 300 471,  EN 301 166
+EN 302 561,  EN 301 039
+ERC/DEC (01)12
+ERC/REC 70-03
+EN 300 220
+ERC/REC 70-03
+EN 300 220
+Decizia 2006/771/CE (Nota 1)
+ERC/REC 70-03
+EN 300 422",,,,NG,
+,MOBIL,5.150,,,,,,,,,
+,5.150,,,,,,,,,,
+,,,,,"ISM (în banda 40,66-40,7 MHz)",,,,,,
+,,,,,"Controlul modelelor (în benzile 40,66-40,67 MHz; 40,67-40,68
+MHz; 40,68-40,69 MHz; 40,69-
+40,7 MHz)",,,,,,
+,,,,,SRD nespecifice,,,,,,
+,,,,,"Radiomicrofoane (cu acord de frecvenţă în banda 40,66-41,015 MHz)",,,,,,
+"40,7000 – 40,9800",FIX MOBIL,MOBIL,,,PMR,"T/R 25-08
+EN 300 086,  EN 300 113
+EN 300 219,  EN 300 296
+EN 300 341,  EN 300 390
+EN 300 471,  EN 301 166
+EN 302 561,  EN 303 039",,,,NG,
+,,,,,"Radiomicrofoane (cu acord de frecvenţă în banda 40,66-41,015 MHz)","ERC/REC 70-03
+EN 300 422",,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+"40,9800 – 41,0150",FIX,MOBIL,,,PMR,"T/R 25-08
+EN 300 086,  EN 300 113
+EN 300 219,  EN 300 296
+EN 300 341,  EN 300 390
+EN 300 471,  EN 301 166
+EN 302 561,  EN 303 039
+ERC/REC 70-03
+EN 300 422",,,,NG,
+,MOBIL,Cercetare spațială,,,,,,,,,
+,Cercetare spațială,,,,,,,,,,
+,5.160,,,,,,,,,,
+,5.161,,,,,,,,,,
+,,,,,"Radiomicrofoane (cu acord de
+frecvenţă în banda 40,66-41,015 MHz)",,,,,,
+"41,0150 – 42,0000",FIX,MOBIL,,,Sisteme militare aeronautice Sisteme militare terestre Sisteme militare maritime ECA36,,,,,G(A),
+,MOBIL,ECA36,,,,,,,,,
+,5.160,,,,,,,,,,
+,5.161,,,,,,,,,,
+,5.161A,,,,,,,,,,
+"42,0000 – 42,5000",FIX,FIX,,,Sisteme militare aeronautice Sisteme militare terestre Sisteme militare maritime,,,,,G(A),
+,MOBIL,MOBIL,,,,,,,,,
+,Radiolocație   5.132A,5.161B,,,,,,,,,
+,5.160,ECA36,,,,,,,,,
+,5.161B,,,,,,,,,,
+"42,5000 – 44,0000",FIX,MOBIL,,,Sisteme militare aeronautice Sisteme militare maritime Sisteme militare terestre ECA36,,,,,G(A),
+,MOBIL,ECA36,,,,,,,,,
+,5.160,,,,,,,,,,
+,5.161,,,,,,,,,,
+,5.161A,,,,,,,,,,
+"44,0000 – 44,5000",FIX MOBIL 5.162A,MOBIL 5.162A ECA36,,,Sisteme militare aeronautice Sisteme militare maritime Sisteme militare terestre ECA36,,,,,G(A),
+,,,,,,,,,,,
+,,,,,,,,,,,
+"44,5000 – 45,2000",,,,,PMR,"T/R 25-08
+EN 300 086,  EN 300 113
+EN 300 219,  EN 300 296
+EN 300 341,  EN 300 390
+EN 300 471,  EN 301 166
+EN 302 561,  EN 303 039",,,,NG,
+,,,,,"Radiomicrofoane (cu acord de frecvenţă în banda 44,5-45,2 MHz)","ERC/REC 70-03
+EN 300 422",,,,,
+"45,2000 – 46,4000",,,,,Sisteme militare aeronautice Sisteme militare terestre Sisteme militare maritime ECA36,,,,,G(A) / NG,
+,,,,,"Radare profil de vânt
+(în gama 46-68 MHz, partaj geografic cu alte servicii)",,,,,,
+"46,4000 – 47,0000",,,,,Sisteme militare aeronautice Sisteme militare terestre Sisteme militare maritime ECA36,,,,,G(A) / NG,
+,,,,,"Radare profil de vânt
+(în gama 46-68 MHz, partaj geografic cu alte servicii)",,,,,,
+"47,0000 – 48,0000","RADIODIFUZIUNE
+5.162A","MOBIL TERESTRU
+5.162A",,,Sisteme militare terestre ECA36,,,,,G(A)/G/NG,
+,"5.163
+5.164","5.164
+ECA36",,,Sisteme guvernamentale,,,,,,
+,5.165,,,,"Paging de incintă
+(în banda 47,00-47,25 MHz)",EN 300 224,,,,,
+,,,,,Radare profil de vânt,,,,,,
+,,,,,"(în gama 46-68 MHz, partaj",,,,,,
+,,,,,geografic cu alte servicii),,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+"48,0000 – 49,0000",,,,,"Explorarea Pământului prin satelit (48,5 – 50 MHz; cercetare spațială în cadrul Serviciului de
+Explorare a Pământului prin
+satelit)",,,,,NG,
+,,,,,PMR,"T/R 25-08
+EN 300 086,  EN 300 113
+EN 300 219,  EN 300 296
+EN 300 341,  EN 300 390
+EN 300 471,  EN 301 166
+EN 302 561,  EN 303 039",,,,,
+"49,0000 – 50,0000",,,,,Sisteme militare terestre ECA36,,,,,G(A)/G/NG,
+,,,,,Sisteme guvernamentale,,,,,,
+,,,,,"Radare profil de vânt
+(în gama 46-68 MHz, partaj geografic cu alte servicii)",,,,,,
+"50,0000 – 52,0000",RADIODIFUZIUNE,MOBIL TERESTRU,,,Aplicaţii pentru amatori,EN 301 783,,,,G(A)/NG,
+,"5.162A
+5.164
+5.165","Amator 5.162A
+5.164",,,Sisteme militare terestre ECA36,,,,,,
+,5.169,ECA36,,,"Radare profil de vânt
+(în gama 46-68 MHz, partaj",,,,,,
+,,,,,geografic cu alte servicii),,,,,,
+"52,0000 – 54,0000",RADIODIFUZIUNE,MOBIL TERESTRU,,,"Sisteme militare terestre ECA36
+Sisteme guvernamentale Radare profil de vânt
+(46-68 MHz, partaj geografic cu
+alte servicii)",,,,,G(A)/G/NG,
+,5.162A,5.162A,,,,,,,,,
+,5.163,5.163,,,,,,,,,
+,5.164,5.164,,,,,,,,,
+,5.165,ECA36,,,,,,,,,
+,5.169,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+"54,0000 –54,5000",,,,,PMR,"T/R 25-08
+EN 300 086,  EN 300 113
+EN 300 219,  EN 300 296
+EN 300 341,  EN 300 390
+EN 300 471,  EN 301 166
+EN 302 561,  EN 303 039",,,,NG,
+,,,,,"Radare profil de vânt
+(în gama 46-68 MHz, partaj geografic cu alte servicii)",,,,,,
+"54,5000 – 61,0000",,,,,PMR,"T/R 25-08
+EN 300 086,  EN 300 113
+EN 300 219,  EN 300 296
+EN 300 341,  EN 300 390
+EN 300 471,  EN 301 166
+EN 302 561,  EN 303 039",,,,G(A)/NG,
+,,,,,Sisteme militare terestre ECA36,,,,,,
+"61,0000 – 61,5000",,,,,PMR,"T/R 25-08
+EN 300 086,  EN 300 113
+EN 300 219,  EN 300 296
+EN 300 341,  EN 300 390
+EN 300 471,  EN 301 166
+EN 302 561,  EN 303 039",,,,NG,
+"61,5000 – 68,0000",,,,,Sisteme militare terestre ECA36,,,,,G(A)/NG,
+,,,,,"Radare profil de vânt
+(în gama 46-68 MHz, partaj geografic cu alte servicii)",,,,,,
+,,,,,PMR,"T/R 25-08
+EN 300 086,  EN 300 113
+EN 300 219,  EN 300 296
+EN 300 341,  EN 300 390
+EN 300 471,  EN 301 166
+EN 302 561,  EN 303 039",,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+"68,0000 – 70,4500","FIX
+MOBIL cu exceptia mobil aeronautic
+5.175","MOBIL
+Amator ECA9 5.175
+ECA36",,,"Sisteme militare terestre ECA36
+PMR/PAMR de bandă îngustă
+Aplicaţii pentru amatori
+(în banda 70 – 70.3 MHz, în baza obținerii acordului prealabil individual)","ECC/DEC/(19)02 T/R 25-08
+EN 300 086,  EN 300 113
+EN 300 219,  EN 300 296
+EN 300 341,  EN 300 390
+EN 300 471,  EN 301 166
+EN 302 561,  EN 303 039
+EN 301 783",,,,G(A)/NG,
+"70,4500 – 72,0000","FIX
+MOBIL cu exceptia mobil aeronautic
+5.149
+5.175
+5.177
+5.178
+5.179","MOBIL cu exceptia mobil aeronautic
+Radioastronomie 5.149
+ECA36",,,PMR/PAMR de bandă îngustă,"ECC/DEC/(19)02 T/R 25-08
+EN 300 086,  EN 300 113
+EN 300 219,  EN 300 296
+EN 300 341,  EN 300 390
+EN 300 471,  EN 301 166
+EN 302 561,  EN 303 039",,,,NG,
+"72,0000 – 73,0000",,,,,"Sisteme militare terestre ECA36
+Aplicaţii pentru radioastronomie (Măsurări in domeniul continuu, în banda 73,0-74,6 MHz, radioastronomie pentru monitorizarea vânturilor solare)",,,,,G(A)/NG,
+"73,0000 – 73,3000",,,,,PMR/PAMR de bandă îngustă,"ECC/DEC/(19)02 T/R 25-08
+EN 300 086,  EN 300 113
+EN 300 219,  EN 300 296
+EN 300 341,  EN 300 390
+EN 300 471,  EN 301 166
+EN 302 561,  EN 303 039",,,,NG,
+"73,3000 – 74,1000",,,,,Sisteme militare terestre ECA36,,,,,G(A),
+,,,,,,,,,,,
+,,,,,,,,,,,
+"74,1000 – 74,8000",,,,,PMR/PAMR de bandă îngustă,"ECC/DEC/(19)02 T/R 25-08
+EN 300 086,  EN 300 113
+EN 300 219,  EN 300 296
+EN 300 341,  EN 300 390
+EN 300 471,  EN 301 166
+EN 302 561,  EN 303 039",,,,NG,
+"74,8000 – 75.2000","RADIONAVIGATIE AERONAUTICA
+5.180
+5.181","RADIONAVIGATIE AERONAUTICA
+5.180",,,ILS/radiobaliza de marcare,,,,,G(A)/NG,
+"75.2000 – 76,0000","FIX
+MOBIL cu exceptia mobil aeronautic
+5.175
+5.179
+5.187
+FIX","MOBIL 5.175
+5.179
+5.187
+ECA36",,,PMR/PAMR de bandă îngustă,"ECC/DEC/(19)02 T/R 25-08
+EN 300 086,  EN 300 113
+EN 300 219,  EN 300 296
+EN 300 341,  EN 300 390
+EN 300 471,  EN 301 166
+EN 302 561,  EN 303-039",,,,NG,
+"76,0000 -77,8000",,,,,"PMR/PAMR de bandă îngustă
+Sisteme militare terestre Sisteme militare maritime ECA36","ECC/DEC/(19)02 T/R 25-08
+EN 300 086,  EN 300 113
+EN 300 219,  EN 300 296
+EN 300 341,  EN 300 390
+EN 300 471,  EN 301 166
+EN 302 561,  EN 303039",,,,G(A)/NG,
+"77,8000 – 79,0000",,,,,PMR/PAMR de bandă îngustă,"ECC/DEC/(19)02 T/R 25-08
+EN 300 086,  EN 300 113
+EN 300 219,  EN 300 296
+EN 300 341,  EN 300 390
+EN 300 471,  EN 301 166
+EN 302 561,  EN 303 039",,,,NG,
+"79,0000 – 79,7000",,,,,Sisteme militare terestre Sisteme militare maritime ECA36,,,,,G(A),
+,,,,,,,,,,,
+,,,,,,,,,,,
+"79,7000 – 84,6000",,,,,PMR/PAMR de bandă îngustă,"ECC/DEC/(19)02 T/R 25-08
+EN 300 086,  EN 300 113
+EN 300 219,  EN 300 296
+EN 300 341,  EN 300 390
+EN 300 471,  EN 301 166
+EN 302 561,  EN 030 039",,,,NG,
+"84,6000 – 85,0000",,"MOBIL 5.175
+5.179
+5.187
+ECA36",,,"Sisteme militare maritime Sisteme militare terestre ECA36
+PMR/PAMR de bandă îngustă","ECC/DEC/(19)02 T/R 25-08
+EN 300 086,  EN 300 113
+EN 300 219,  EN 300 296
+EN 300 341,  EN 300 390
+EN 300 471,  EN 301 166
+EN 302 561,  EN 303 039",,,,G(A)/NG,
+"85,0000 – 85,8000",,,,,PMR/PAMR de bandă îngustă,"ECC/DEC/(19)02 T/R 25-08
+EN 300 086,  EN 300 113
+EN 300 219,  EN 300 296
+EN 300 341,  EN 300 390
+EN 300 471,  EN 301 166
+EN 302 561,  EN 303 039",,,,NG,
+"85,8000 – 87,5000",,,,,"Sisteme militare terestre Sisteme militare maritime ECA36
+PMR/PAMR de bandă îngustă","ECC/DEC/(19)02 T/R 25-08
+EN 300 086,  EN 300 113
+EN 300 219,  EN 300 296
+EN 300 341,  EN 300 390
+EN 300 471,  EN 301 166
+EN 302 561,  EN 303 039",,,,G(A)/NG,
+"87,5000 – 100,0000",RADIODIFUZIUNE 5.190,RADIODIFUZIUNE,,,"Radiodifuziune sonoră FM
+(Acordul Geneva 1984)
+Aplicaţii audio/multimedia pe suport radio
+(în banda 87,5-108,0 MHz)","EN 302 018
+ERC/REC 70-03
+EN 301 357
+Decizia 2008/432/CE (Nota 2)",,,,NG,
+,,,,,,,,,,,
+,,,,,,,,,,,
+"100,0000 – 108,0000","RADIODIFUZIUNE
+5.192",RADIODIFUZIUNE,,,"Radiodifuziune sonoră FM
+(Acordul Geneva 1984)",EN 302 018,,,,NG,
+,5.194,,,,"Aplicaţii audio/multimedia pe suport radio
+(în banda 87,5-108,0 MHz)","ERC/REC 70-03
+EN 301 357
+Decizia 2008/432/CE (Nota 2)",,,,,
+"108,0000 – 117,9750","RADIONAVIGAȚIE AERONAUTICĂ5.197
+5.197A","RADIONAVIGAȚIE AERONAUTICĂ
+MOBIL AERONAUTIC (R) 5.197A",,,"Comunicații aeronautice (siguranţă şi regularizarea zborurilor;sub 112 MHz limitat la emiţătoare la sol, pentru legături de date)",EN 301 842,,,,G(A)/NG,
+,,,,,ILS / radiofar de directie (în banda 108-112 MHz),,,,,,
+,,,,,"VOR (în banda 108-117,975 MHz)",,,,,,
+,,,,,"GBAS (GBAS/VDB în banda 112- 117,975 MHz)
+EN 303 084",,,,,,
+"117,9750 – 121,4500",MOBIL AERONAUTIC (R) 5.200,"MOBIL AERONAUTIC (R) 5.200
+ECA5",,,Comunicații aeronautice (siguranţă şi regularizarea zborurilor; EN 301 841-3 este pentru echipamente la sol) ECA5,"EN 300 676
+EN 301 841
+EN 301 842",,,,G(A)/NG,
+"121,4500 – 121,5500","MOBIL AERONAUTIC (R)
+5.111","MOBIL AERONAUTIC (R)
+5.111",,,"EPIRB (Bandă disponibilă numai
+pentru primejdie şi siguranţă)",EN 300 152,,,,G(A)/NG,
+,5.200,5.200,,,"(EN 301 841-3 este pentru echipamente la sol.
+Semnal de localizare pentru balize de aviație, maritime și personale  pentru scopuri de căutare și salvare)","EN 300 676
+EN 301 841
+EN 301 842",,,,,
+"121,5500 – 136,0000","MOBIL AERONAUTIC (R) 5.200
+5.201","MOBIL AERONAUTIC (R), (OR) 5.200
+5.201
+ECA5",,,"Comunicaţii aeronautice (123,1 MHz pentru comunicaţii mobile aeronautice în caz de primejdie; EN 301 841-3 este pentru echipamente la sol) ECA5","EN 300 676
+EN 301 841
+EN 301 842",,,,G(A)/NG,
+,,,,,,,,,,,
+,,,,,,,,,,,
+"136,0000 – 137,0000",MOBIL AERONAUTIC (R) 5.202,"MOBIL AERONAUTIC (R) 5.202
+ECA5",,,"Comunicaţii aeronautice (EN 301 841-3 este pentru echipamente la sol)
+ECA5","EN 300 676
+EN 301 841
+EN 301 842",,,,G(A)/NG,
+"137,0000 – 137,0250","METEOROLOGIC PRIN
+SATELIT (spațiu-Pământ)","METEOROLOGIC PRIN SATELIT
+(spațiu-Pământ) MOBIL
+MOBIL PRIN SATELIT (spațiu- Pământ)  5.208A  5.208B  5.209
+Exploatare spațială (spațiu- Pământ)
+Cercetare spațială (spațiu-Pământ) 5.206
+5.208
+ECA6 ECA36",,,"Sisteme de comunicații personale prin satelit (Sateliţi non- geostaționari)
+ECA6
+Aplicații mobile (Mobil Aeronautic (OR), inclusiv aviație sportivă)
+Aplicații prin satelit pentru meteorologie
+Sisteme militare aeronautice Sisteme militare terestre ECA36
+Sisteme prin satelit (militare)","ERC DEC (99)06
+EN 301 721",,,,G(A)/NG,
+,MOBIL PRIN SATELIT (spațiu- Pământ)  5.208A  5.208B  5.209,,,,,,,,,,
+,"EXPLOATARE SPAȚIALĂ
+(spațiu-Pământ)",,,,,,,,,,
+,"CERCETARE SPAȚIALĂ
+(spațiu-Pământ)",,,,,,,,,,
+,Fix,,,,,,,,,,
+,Mobil cu excepția mobil aeronautic (R),,,,,,,,,,
+,"5.204  5.205  5.206  5.207
+5.208",,,,,,,,,,
+"137,0250- 137,1750","METEOROLOGIC PRIN
+SATELIT (spațiu-Pământ)","METEOROLOGIC PRIN SATELIT
+(spațiu-Pământ) MOBIL
+MOBIL PRIN SATELIT (spațiu- Pământ) 5.208A  5.208B  5.209
+Exploatare spațială (spațiu- Pământ)
+Cercetare spațială (spațiu-Pământ)
+5.206
+5.208
+ECA6 ECA36",,,"Sisteme de comunicații personale prin satelit (sateliţi non- geostaționari)
+ECA6
+Aplicații mobile (Mobil Aeronautic (OR), inclusiv aviație sportivă)
+Aplicatii prin satelit pentru meteorologie
+Sisteme militare aeronautice Sisteme militare terestre ECA36
+Sisteme prin satelit (militare)","ERC DEC (99)06
+EN 301 721",,,,G(A)/NG,
+,"EXPLOATARE SPAȚIALĂ
+(spațiu-Pământ)",,,,,,,,,,
+,"CERCETARE SPAȚIALĂ
+(spațiu-Pământ)",,,,,,,,,,
+,Fix,,,,,,,,,,
+,Mobil cu excepția mobil aeronautic (R),,,,,,,,,,
+,"Mobil prin satelit (spațiu-
+Pământ)  5.208A  5.208B  5.209",,,,,,,,,,
+,"5.204  5.205  5.206 5.207
+5.208",,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+"137,1750 – 137,8250","METEOROLOGIC PRIN
+SATELIT (spațiu-Pământ)","METEOROLOGIC PRIN SATELIT
+(spațiu-Pământ) MOBIL
+MOBIL PRIN SATELIT (spațiu- Pământ)  5.208A  5.208B  5.209
+Exploatare spațială (spațiu- Pământ)
+Cercetare spațială (spațiu-Pământ)
+5.206
+5.208
+ECA6 ECA36",,,"Sisteme de comunicații personale prin satelit (sateliţi non- geostaționari)
+ECA6
+Aplicații mobile (Mobil Aeronautic (OR), inclusiv aviație sportivă)
+Sisteme militare aeronautice Sisteme militare terestre ECA36
+Sisteme prin satelit (militare)
+Aplicatii prin satelit pentru meteorologie","ERC DEC (99)06
+EN 301 721",,,,G(A)/NG,
+,MOBIL PRIN SATELIT (spațiu- Pământ)  5.208A  5.208B  5.209,,,,,,,,,,
+,"EXPLOATARE SPAȚIALĂ
+(spațiu-Pământ)",,,,,,,,,,
+,"CERCETARE SPAŢIALĂ
+spațiu-Pământ)",,,,,,,,,,
+,Fix,,,,,,,,,,
+,Mobil cu excepția mobil aeronautic (R),,,,,,,,,,
+,"5.204  5.205  5.206  5.207
+5.208",,,,,,,,,,
+"137,8250 – 138,0000","METEOROLOGIC PRIN
+SATELIT (spațiu-Pământ)","METEOROLOGIC PRIN SATELIT
+(spațiu-Pământ) MOBIL
+Mobil prin satelit (spațiu-Pământ) 5.208A  5.208B  5.209
+Exploatare spațială (spațiu- Pământ)
+Cercetare spațială (spațiu-Pământ)
+5.206
+5.208
+ECA6 ECA36",,,"Sisteme de comunicații personale prin satelit (sateliţi non- geostaționari)
+ECA6
+Aplicații mobile (Mobil Aeronautic (OR), inclusiv aviație sportivă)
+Sisteme militare aeronautice Sisteme militare terestre ECA36
+Sisteme prin satelit (militare)
+Aplicatii prin satelit pentru meteorologie","ERC DEC (99)06
+EN 301 721",,,,G(A)/NG,
+,"EXPLOATARE SPAȚIALĂ
+(spațiu-Pământ)",,,,,,,,,,
+,"CERCETARE SPAȚIALĂ
+(spațiu-Pământ)",,,,,,,,,,
+,Fix,,,,,,,,,,
+,"Mobil prin satelit (spațiu-
+Pământ) 5.208A  5.208B  5.209",,,,,,,,,,
+,Mobil cu excepția mobil aeronautic (R),,,,,,,,,,
+,"5.204  5.205  5.206  5.207
+5.208",,,,,,,,,,
+"138,0000 – 143,6000",MOBIL AERONAUTIC (OR),MOBIL AERONAUTIC (OR),,,"Sisteme militare aeronautice Sisteme militare maritime Sisteme militare terestre ECA5
+ECA36
+SRD nespecifice (în banda 138,20-138,45 MHz)","ERC REC 70-03
+EN 300 220",,,,G(A)/NG,
+,5.210,MOBIL TERESTRU,,,,,,,,,
+,5.211,Cercetare spațială,,,,,,,,,
+,5.212,(spațiu-Pământ),,,,,,,,,
+,5.214,5.211,,,,,,,,,
+,,ECA5,,,,,,,,,
+,,ECA36,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+"143,6000 – 143,6500","MOBIL AERONAUTIC (OR)
+CERCETARE SPAȚIALĂ
+(spațiu-Pământ)
+5.211","MOBIL AERONAUTIC (OR) MOBIL TERESTRU
+CERCETARE SPAȚIALĂ (spațiu-
+Pământ)",,,"Sisteme militare aeronautice ECA5
+Aplicaţii mobile terestre",,,,,G(A)/NG,
+,5.212,5.211,,,,,,,,,
+,5.214,ECA5,,,,,,,,,
+,,ECA36,,,,,,,,,
+"143,6500 – 144,0000",MOBIL AERONAUTIC (OR),MOBIL AERONAUTIC (OR),,,Sisteme militare aeronautice,,,,,G(A)/NG,
+,5.210,MOBIL TERESTRU,,,,,,,,,
+,"5.211
+5.212","5.211
+ECA5",,,Aplicaţii mobile terestre,,,,,,
+,5.214,ECA36,,,,,,,,,
+"144,0000 – 146,0000","AMATOR
+AMATOR PRIN SATELIT 5.216","AMATOR
+AMATOR PRIN SATELIT",,,"Aplicaţii pentru amatori
+Aplicaţii prin satelit pentru amatori",EN 301 783,,,,NG,
+"146,0000 – 146,8000","FIX
+MOBIL cu exceptia mobil aeronautic (R)",MOBIL ECA7,,,"PMR de bandă îngustă
+ECA7","ECC/DEC/(19)02 T/R 25-08
+EN 300 086,  EN 300 113
+EN 300 219,  EN 300 296
+EN 300 341,  EN 300 390
+EN 300 471,  EN 301 166
+EN 302 561,  EN 303 039",,,,NG,
+"146,8000 – 148,0000","FIX
+MOBIL cu exceptia mobil aeronautic (R)",MOBIL ECA7,,,"PMR/PAMR de bandă îngustă
+ECA7","ECC/DEC/(19)02 T/R 25-08
+EN 300 086,  EN 300 113
+EN 300 219,  EN 300 296
+EN 300 341,  EN 300 390
+EN 300 471,  EN 301 166
+EN 302 561,  EN 303 039",,,,NG,
+,,,,,,,,,,,
+,,,,,,,,,,,
+"148,0000 – 149,0000",FIX,"MOBIL
+MOBIL PRIN SATELIT (Pamânt-
+spațiu)  5.209
+5.218
+5.219
+5.221
+ECA6 ECA7",,,"PMR/PAMR de bandă îngustă
+ECA7
+Sisteme de comunicații personale prin satelit (Sateliţi non- geostaționari)
+ECA6","ECC/DEC/(19)02 T/R 25-08
+EN 300 086,  EN 300 113
+EN 300 219,  EN 300 296
+EN 300 341,  EN 300 390
+EN 300 471,  EN 301 166
+EN 302 561,  EN 303 039
+ERC/DEC/(99)06 EN 301 721",,,,NG,
+,"MOBIL PRIN SATELIT
+(Pamânt-spațiu)  5.209MOBIL cu excepția mobil aeronautic (R)",,,,,,,,,,
+,5.218,,,,,,,,,,
+,5.219,,,,,,,,,,
+,5.221,,,,,,,,,,
+"149,0000-149,5500","FIX
+MOBIL PRIN SATELIT
+(Pamânt-spațiu)  5.209
+MOBIL cu excepția mobil
+aeronautic (R) 5.218
+5.219
+5.221","MOBIL
+MOBIL PRIN SATELIT (Pamânt-
+spatiu)  5.209
+5.218
+5.219
+5.221
+ECA6 ECA7",,,"Sisteme de comunicații personale prin satelit (sateliţi non- geostaționari)
+ECA6
+Sisteme militare","ERC DEC (99)06
+EN 301 721",,,,G(A)/NG,
+"149,5500-149,8000",,,,,"PMR/PAMR de bandă îngustă
+ECA7","ECC/DEC/(19)02 T/R 25-08
+EN 300 086,  EN 300 113
+EN 300 219,  EN 300 296
+EN 300 341,  EN 300 390
+EN 300 471,  EN 301 166
+EN 302 561,  EN 303 039",,,,NG,
+,,,,,"Sisteme de comunicații
+personale prin satelit (sateliţi non-
+geostaționari)
+ECA6","ERC DEC (99)06
+EN 301 721",,,,,
+"149,8000-149,9000",,,,,"Sisteme de comunicații personale prin satelit (sateliţi non- geostaționari)
+ECA6","ERC DEC (99)06
+EN 301 721",,,,G(A)/NG,
+,,,,,Sisteme militare,,,,,,
+"149,9000 – 150,0500","MOBIL PRIN SATELIT
+(Pamânt-spațiu)  5.209
+5.220","MOBIL
+MOBIL PRIN SATELIT (Pământ-
+spațiu)  5.209  5.220 ECA6",,,"Sisteme militare
+Sisteme de comunicații personale prin satelit (sateliţi non- geostaționari)
+ECA6","ERC DEC (99)06
+EN 301 721",,,,G(A)/NG,
+,,,,,,,,,,,
+,,,,,,,,,,,
+"150,0500 – 152,8500","FIX
+MOBIL cu excepția mobil aeronautic
+RADIOASTRONOMIE 5.149","MOBIL cu excepția mobil aeronautic
+RADIOASTRONOMIE 5.149
+ECA7",,,"PMR/PAMR de bandă îngustă
+ECA7","ECC/DEC/(19)02 T/R 25-08
+EN 300 086,  EN 300 113
+EN 300 219,  EN 300 296
+EN 300 341,  EN 300 390
+EN 300 471,  EN 301 166
+EN 302 561,  EN 303 039",,,,NG,
+"152,8500-152,9500",,,,,"Aplicaţii guvernamentale
+PMR /PAMR de bandă îngustă
+ECA7","ECC/DEC/(19)02 T/R 25-08
+EN 300 086,  EN 300 113
+EN 300 219,  EN 300 296
+EN 300 341,  EN 300 390
+EN 300 471,  EN 301 166
+EN 302 561,  EN 303 039",,,,G/NG,
+"152,9500 - 153,0000",,,,,"PMR/PAMR de bandă îngustă
+ECA7","ECC/DEC/(19)02 T/R 25-08
+EN 300 086,  EN 300 113
+EN 300 219,  EN 300 296
+EN 300 341,  EN 300 390
+EN 300 471,  EN 301 166
+EN 302 561,  EN 303 039",,,,NG,
+"153,0000 - 153,2500","FIX
+MOBIL cu exceptia mobil aeronautic (R)
+Auxiliar meteorologic","MOBIL cu excepția mobil aeronautic (R)
+ECA7",,,"Aplicaţii guvernamentale
+PMR/PAMR de bandă îngustă
+ECA7","ECC/DEC/(19)02 T/R 25-08
+EN 300 086,  EN 300 113
+EN 300 219,  EN 300 296
+EN 300 341,  EN 300 390
+EN 300 471,  EN 301 166
+EN 302 561,  EN 303 039",,,,G/NG,
+"153,2500 – 154,0000",,,,,"PMR/PAMR de bandă îngustă
+ECA7",,,,,NG,
+,,,,,,,,,,,
+,,,,,,,,,,,
+"154,0000 – 154,1000","FIX
+MOBIL cu excepția mobil aeronautic (R)
+5.225A
+5.226","MOBIL cu excepția mobil aeronautic (R)
+5.226
+ECA7 ECA8",,,"PMR/PAMR de bandă îngustă
+ECA7","ECC/DEC/(19)02 T/R 25-08
+EN 300 086,  EN 300 113
+EN 300 219,  EN 300 296
+EN 300 341,  EN 300 390
+EN 300 471,  EN 301 166
+EN 302 561,  EN 303 039",,,,NG,
+"154,1000 - 154,4500",,,,,"Sisteme militare
+Aplicaţii guvernamentale
+PMR/PAMR de bandă îngustă
+ECA7","ECC/DEC/(19)02 T/R 25-08
+EN 300 086,  EN 300 113
+EN 300 219,  EN 300 296
+EN 300 341,  EN 300 390
+EN 300 471,  EN 301 166
+EN 302 561,  EN 303 039",,,,G(A)/G/NG,
+"154,4500 - 154,850",,,,,"PMR/PAMR de bandă îngustă
+ECA7","ECC/DEC/(19)02 T/R 25-08
+EN 300 086,  EN 300 113
+EN 300 219,  EN 300 296
+EN 300 341,  EN 300 390
+EN 300 471,  EN 301 166
+EN 302 561,  EN 303 039",,,,NG,
+,,,,,,,,,,,
+,,,,,,,,,,,
+"154,8500 – 155,1000","FIX
+MOBIL cu excepția mobil aeronautic (R)
+5.225A
+5.226","MOBIL cu excepția mobil aeronautic (R)
+5.226
+ECA7 ECA8",,,"PMR/PAMR de bandă îngustă
+ECA7
+Sisteme militare","ECC/DEC/(19)02 T/R 25-08
+EN 300 086,  EN 300 113
+EN 300 219,  EN 300 296
+EN 300 341,  EN 300 390
+EN 300 471,  EN 301 166
+EN 302 561,  EN 303 039",,,,G(A)/NG,
+"155,1000 – 155,4000",,,,,"PMR/PAMR de bandă îngustă
+ECA7","ECC/DEC/(19)02 T/R 25-08
+EN 300 086,  EN 300 113
+EN 300 219,  EN 300 296
+EN 300 341,  EN 300 390
+EN 300 471,  EN 301 166
+EN 302 561,  EN 303 039",,,,NG,
+"155,4000 – 155,6000",,,,,"PMR/PAMR de bandă îngustă
+ECA7
+Sisteme militare","ECC/DEC/(19)02 T/R 25-08
+EN 300 086,  EN 300 113
+EN 300 219,  EN 300 296
+EN 300 341,  EN 300 390
+EN 300 471,  EN 301 166
+EN 302 561,  EN 303 039",,,,G(A)/NG,
+"155,6000 – 156,0000",,,,,"PMR/PAMR de bandă îngustă
+ECA7","ECC/DEC/(19)02 T/R 25-08
+EN 300 086,  EN 300 113
+EN 300 219,  EN 300 296
+EN 300 341,  EN 300 390
+EN 300 471,  EN 301 166
+EN 302 561,  EN 303 039",,,,NG,
+"156,0000 –  156,4875",,,,,"Comunicații maritime
+(Apendicele 18 al Regulamentului Radio al UIT)","EN 300 162,  EN 300 698
+EN 301 178,  EN 301 025
+EN 301 929",,,,G(A)/NG,
+,,,,,,,,,,,
+,,,,,,,,,,,
+"156,4875 – 156,5125","MOBIL MARITIM (primejdie şi
+apel prin DSC) 5.226
+5.227","MOBIL MARITIM (primejdie şi apel
+prin DSC) 5.226
+5.227
+ECA7 ECA8",,,Comunicații maritime (Apendicele 18 al Regulamentului Radio al UIT),"EN 300 162
+EN 300 698
+EN 301 025
+EN 301 178
+EN 301 929",,,,G(A)/NG,
+"156,5125 – 156,5375","MOBIL MARITIM (primejdie şi
+apel prin DSC) 5.111
+5.226","MOBIL MARITIM (primejdie și
+apel) 5.111
+5.226",,,"Apel selectiv numeric (DSC) pentru primejdie, siguranță şi apel (156,525 MHz, Apendicele 18 al Regulamentului Radio al
+UIT)","EN 301 025
+EN 301 929
+EN 302 885
+EN 303 132",,,,G(A)/NG,
+"156,5375 - 156,5625","MOBIL  MARITM ( primejdie şi
+apel prin DSC) 5.226
+5.227","MOBIL cu excepţia mobil
+aeronautic (R)
+MOBIL MARITIM (primejdie şi apel
+via DSC) 5.226
+5.227
+ECA7 ECA8",,,"Comunicații maritime
+(Apendicele 18 al Regulamentului Radio al UIT)
+ECA7 ECA8","EN 300 162,  EN 300 698
+EN 301 178,  EN 301 025
+EN 301 929",,,,G(A)/NG,
+"156,5625 – 156,7625","FIX
+MOBIL cu excepţia mobil aeronautuc (R)
+5.226","MOBIL cu excepţia mobil
+aeronautic (R) 5.226
+ECA7
+ECA8",,,"Comunicații maritime
+(Apendicele 18 al Regulamentului Radio al UIT)","EN 300 162, EN 300 698
+EN 301 178, EN 301 025
+EN 301 929",,,,G(A)/NG,
+"156,7625 – 156,7875","MOBIL MARITIM
+Mobil prin satelit (Pământ- spațiu)
+5.111
+5.226
+5.228","MOBIL MARITIM (primejdie şi
+apel) 5.111
+5.226
+5.228",,,"Comunicații maritime
+(Apendicele 18 al Regulamentului Radio UIT; sistem de identificare automată (AIS) prin satelit
+Pământ – spațiu)",EN 301 929,,,,G(A)/NG,
+"156,7875 – 156,8125","MOBIL MARITIM (primejdie şi
+apel) 5.111
+5.226","MOBIL MARITIM (primejdie şi
+apel) 5.111
+5.226",,,"Comunicații maritime
+(Apendicele 18 al Regulamentului Radio UIT; primejdie, siguranță și apel, 156,8 MHz pentru serviciul de radiotelefonie mobil maritim VHF)",EN 300 162,,,,G(A)/NG,
+,,,,,,,,,,,
+,,,,,,,,,,,
+"156,8125 – 156,8375","MOBIL MARITIM
+Mobil prin satelit (Pământ -
+spațiu)
+5.111
+5.226
+5.228","MOBIL MARITIM
+Mobil prin satelit (Pământ -spațiu) 5.111
+5.226
+5.228",,,"Comunicații maritime
+(Apendicele 18 al Regulamentului Radio UIT; sistem de identificare automată (AIS) prin satelit
+Pământ – spațiu)",EN 301 929,,,,G(A)/NG,
+"156,8375 – 157,4500","FIX
+MOBIL cu exceptia mobil aeronautic
+5.226","MOBIL cu excepția mobil aeronautic
+5.226
+ECA7 ECA8",,,"Comunicații maritime
+(Apendicele 18 al Regulamentului Radio UIT)
+ECA7 ECA8","EN 300 162,  EN 300 698
+EN 301 178,  EN 301 025
+EN 301 929",,,,NG,
+"157,4500 – 159,1750",,,,,Aplicaţii guvernamentale,,,,,G,
+"159,1750 – 159,5000",,,,,"Sisteme militare
+PMR/PAMR de bandă îngustă
+ECA7","ECC/DEC/(19)02 T/R 25-08
+EN 300 086,  EN 300 113
+EN 300 219,  EN 300 296
+EN 300 341,  EN 300 390
+EN 300 471,  EN 301 166
+EN 302 561,  EN 303 039",,,,G(A)/NG,
+"159,5000 – 160,0000",,,,,Aplicaţii guvernamentale,,,,,G,
+"160,0000 – 160,6000",,,,,"PMR/PAMR de bandă îngustă
+ECA7","ECC/DEC/(19)02 T/R 25-08
+EN 300 086,  EN 300 113
+EN 300 219,  EN 300 296
+EN 300 341,  EN 300 390
+EN 300 471,  EN 301 166
+EN 302 561,  EN 303 039",,,,NG,
+"160,6000 – 160,9750",,,,,"Comunicații maritime
+(Apendicele 18 al Regulamentului Radio UIT)
+ECA7 ECA8","EN 300 162,  EN 300 698
+EN 301 178,  EN 301 025
+EN 301 929",,,,NG,
+,,,,,,,,,,,
+,,,,,,,,,,,
+"160,9750 – 161,1250",,,,,"PMR/PAMR de bandă îngustă
+ECA7","ECC/DEC/(19)02 T/R 25-08
+EN 300 086,  EN 300 113
+EN 300 219,  EN 300 296
+EN 300 341,  EN 300 390
+EN 300 471,  EN 301 166
+EN 302 561,  EN 303 039",,,,NG,
+"161,1250 – 161,2750",,,,,"Aplicaţii guvernamentale
+Sisteme militare",,,,,G(A)/G,
+"161,2750 - 161,4750",,,,,PMR/PAMR ECA7,"ECC/DEC/(19)02 T/R 25-08
+EN 300 086,  EN 300 113
+EN 300 219,  EN 300 296
+EN 300 341,  EN 300 390
+EN 300 471,  EN 301 166
+EN 302 561,  EN 303 039",,,,NG,
+"161,4750-161,9375",,,,,"Comunicații maritime
+(Apendicele 18 al Regulamentului Radio UIT)","EN 300 162,  EN 300 698
+EN 301 178,  EN 301 025
+EN 301 929",,,,NG,
+"161,9375 - 161,9625","FIX
+MOBIL cu exceptia mobil aeronautic
+MOBIL MARITIM PRIN
+SATELIT  (Pământ- spațiu)
+5.228AA
+5.226","MOBIL cu excepția mobil aeronautic
+Mobil maritim prin satelit (Pământ- spatiu) 5.228AA
+5.226
+ECA7 ECA8",,,"Comunicații maritime
+(Apendicele 18 al Regulamentului Radio UIT)
+ECA7 ECA8","EN 300 162, EN 301 025
+EN 300 698, EN 301 178
+EN 301 929",,,,NG,
+"161,9625 - 161,9875","FIX
+MOBIL cu excepția mobil
+aeronautic
+Mobil prin satelit (Pământ- spațiu) 5.228F
+5.226
+5.228A
+5.228B","MOBIL cu excepția mobil aeronautic
+Mobil prin satelit (Pământ-spațiu)
+5.228F
+5.226
+ECA7 ECA8",,,"Sistem de identificare automată la bordul navelor (AIS) (161,975 MHz)
+Comunicații maritime
+(Apendicele 18 al Regulamentului Radio UIT)
+ECA7 ECA8","EN 303 098
+EN 300 162, EN 300 698
+EN 301 025, EN 301 178
+EN 301 929",,,,NG,
+,,,,,,,,,,,
+,,,,,,,,,,,
+"161,9875 - 162,0125","FIX
+MOBIL MARITIM PRIN
+SATELIT (Pământ-spațiu) 5.228AA
+MOBIL cu excepția mobil
+aeronautic 5.226
+5.229","MOBIL MARITIM PRIN SATELIT
+(Pământ-spațiu) 5.228AA
+MOBIL cu excepția mobil
+aeronautic 5.226 ECA7 ECA8",,,"Comunicații maritime
+(Apendicele 18 al Regulamentului Radio UIT)
+ECA7 ECA8","EN 300 162, EN 300 698
+EN 301 025, EN 301 178
+EN 301 929",,,,NG,
+"162,0125-162,0375","FIX
+MOBIL cu excepția mobil
+aeronautic
+Mobil prin satelit (Pământ- spațiu) 5.228F
+5.226
+5.228A
+5.228B
+5.229","MOBIL cu excepția mobil
+aeronautic 5.226 ECA7 ECA8",,,"Sistem de identificare automată la bordul navelor (AIS) (162,025 MHz)
+Comunicații maritime
+(Apendicele 18 al Regulamentului Radio UIT)
+EN 300 162, EN 300 698
+EN 301 025, EN 301 178
+EN 301 929 ECA7
+ECA8","EN 303 098
+EN 300 162, EN 300 698
+EN 301 025, EN 301 178
+EN 301 929",,,,NG,
+"162,0375-162,0500","FIX
+Mobil cu excepția mobil
+aeronautic 5.226
+5.229","Mobil cu excepția mobil aeronautic
+ECA7",,,"PMR/PAMR de bandă îngustă
+ECA7","ECC/DEC/(19)02 T/R 25-08
+EN 300 086,  EN 300 113
+EN 300 219,  EN 300 296
+EN 300 341,  EN 300 390
+EN 300 471,  EN 301 166
+EN 302 561,  EN 303 039",,,,NG,
+"162,0500 – 164,0500",,,,,Aplicaţii guvernamentale,,,,,G,
+"164,0500 - 164,3000",,,,,"PMR/PAMR de bandă îngustă
+ECA7
+Sisteme militare","ECC/DEC/(19)02 T/R 25-08
+EN 300 086,  EN 300 113
+EN 300 219,  EN 300 296
+EN 300 341,  EN 300 390
+EN 300 471,  EN 301 166
+EN 302 561,  EN 303 039",,,,G(A)/NG,
+"164,3000 - 165,2000",,,,,Aplicații guvernamentale,,,,,G,
+,,,,,,,,,,,
+,,,,,,,,,,,
+"165,2000 - 165,2250",,,,,"PMR/PAMR de bandă îngustă
+ECA7","ECC/DEC/(19)02 T/R 25-08
+EN 300 086,  EN 300 113
+EN 300 219,  EN 300 296
+EN 300 341,  EN 300 390
+EN 300 471,  EN 301 166
+EN 302 561,  EN 303 039",,,,NG,
+"165,2250 – 165,4250",,,,,"PMR/PAMR de bandă îngustă
+ECA7","ECC/DEC/(19)02 T/R 25-08
+EN 300 086,  EN 300 113
+EN 300 219,  EN 300 296
+EN 300 341,  EN 300 390
+EN 300 471,  EN 301 166
+EN 302 561,  EN 303 039",,,,NG,
+"165,4250 – 165,7750",,,,,Sisteme militare,"ECC/DEC/(19)02 T/R 25-08
+EN 300 086,  EN 300 113
+EN 300 219,  EN 300 296
+EN 300 341,  EN 300 390
+EN 300 471,  EN 301 166
+EN 302 561,  EN 303 039",,,,G(A)/G/NG,
+,,,,,Aplicaţii guvernamentale,,,,,,
+,,,,,"PMR/PAMR de bandă îngustă
+ECA7",,,,,,
+"165,7750 – 167,0000",,,,,Sisteme militare,"ECC/DEC/(19)02 T/R 25-08
+EN 300 086,  EN 300 113
+EN 300 219,  EN 300 296
+EN 300 341,  EN 300 390
+EN 300 471,  EN 301 166
+EN 302 561,  EN 303 039",,,,G(A) / NG,
+,,,,,"PMR/PAMR de bandă îngustă
+ECA7",,,,,,
+"167,0000 - 169,4000",,,,,"PMR/PAMR de bandă îngustă
+ECA7","ECC/DEC/(19)02 T/R 25-08
+EN 300 086,  EN 300 113
+EN 300 219,  EN 300 296
+EN 300 341,  EN 300 390
+EN 300 471,  EN 301 166
+EN 302 561,  EN 303 039",,,,NG,
+,,,,,,,,,,,
+,,,,,,,,,,,
+"169,4000 - 169,8125","FIX
+MOBIL cu excepţia mobil aeronautic
+5.226
+5.229",MOBIL cu excepția mobil aeronautic,,,"Dispozitive de asistenţă pentru ascultare (ALD) (în benzile 169,400-169,475 MHz şi
+169,4875-169,5875 MHz conform
+Deciziei 2013/752/UE; în cadrul benzii 169,4-174,0 MHz, cu acord","ECC/DEC/(05)02 ERC/REC 70-03
+EN 300 422
+Decizia 2013/752/UE (Nota 6)",,,,G / NG,
+,,,,,"de frecvenţă, conform ERC/REC",,,,,,
+,,,,,70-03),,,,,,
+,,,,,Dispozitive pentru citirea la,ECC/DEC/(05)02,,,,,
+,,,,,distanţă a contoarelor (în banda,ERC/REC 70-03,,,,,
+,,,,,"169,400-169,475 MHz)",EN 300 220,,,,,
+,,,,,,Decizia 2013/752/UE,,,,,
+,,,,,,(Nota 6),,,,,
+,,,,,SRD nespecifice (în benzile,ECC/DEC/(05)02,,,,,
+,,,,,"169,400-169,475 MHz, 169,400-",ERC/REC 70-03,,,,,
+,,,,,"169,4875 MHz, 169,4875-",EN 300 220,,,,,
+,,,,,"169,5875 MHz, 169,5875-",Decizia 2013/752/UE,,,,,
+,,,,,"169,8125 MHz)",(Nota 6),,,,,
+,,,,,Sisteme paging (existente),,,,,,
+,,,,,"(169,6500 MHz, 169,6750 MHz,",,,,,,
+,,,,,"169,7000 MHz și 169,7750 MHz)",,,,,,
+"169,8125 – 170,0000","FIX
+MOBIL cu exceptia mobil aeronautic 5.226
+5.229","MOBIL cu exceptia mobil aeronautic
+ECA7",,,"Dispozitive de asistenţă pentru ascultare (ALD) (în cadrul benzii 169,4 – 174,0 MHz, cu acord de frecvenţă în bandă)","ERC/REC 70-03
+EN 300 422",,,,NG,
+,,,,,"PMR/PAMR de bandă îngustă
+ECA7","ECC/DEC/(19)02 T/R 25-08
+EN 300 086,  EN 300 113
+EN 300 219,  EN 300 296
+EN 300 341,  EN 300 390
+EN 300 471,  EN 301 166
+EN 302 561,  EN 303 039",,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+"170,0000 - 171,0000",,,,,Sisteme militare,,,,,G(A)/NG,
+,,,,,"PMR/PAMR de bandă îngustă
+ECA7","ECC/DEC/(19)02 T/R 25-08
+EN 300 086,  EN 300 113
+EN 300 219,  EN 300 296
+EN 300 341,  EN 300 390
+EN 300 471,  EN 301 166
+EN 302 561,  EN 303 039",,,,,
+,,,,,"Dispozitive de asistenţă pentru ascultare (ALD) (în cadrul benzii 169,4 – 174,0 MHz, cu acord de frecvenţă în bandă)","ERC/REC 70-03
+EN 300 422",,,,,
+"171,0000 – 171,4000",,,,,PMR/PAMR ECA7,"ECC/DEC/(19)02 T/R 25-08
+EN 300 086,  EN 300 113
+EN 300 219,  EN 300 296
+EN 300 341,  EN 300 390
+EN 300 471,  EN 301 166
+EN 302 561,  EN 303 039",,,,NG,
+,,,,,"Dispozitive de asistenţă pentru ascultare (ALD) (în cadrul benzii 169,4 – 174,0 MHz, cu acord de frecvenţă în bandă)","ERC/REC 70-03
+EN 300 422",,,,,
+"171,4000 – 171,6000",,,,,Sisteme militare,,,,,G(A)NG,
+,,,,,PMR/PAMR ECA7,"ECC/DEC/(19)02 T/R 25-08
+EN 300 086,  EN 300 113
+EN 300 219,  EN 300 296
+EN 300 341,  EN 300 390
+EN 300 471,  EN 301 166
+EN 302 561,  EN 303 039",,,,,
+,,,,,"Dispozitive de asistenţă pentru ascultare (ALD) (în cadrul benzii 169,4 – 174,0 MHz, cu acord de frecvenţă în bandă)","ERC/REC 70-03
+EN 300 422",,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+"171,6000 - 174,0000",,,,,"Dispozitive de asistenţă pentru ascultare (ALD) (în banda 169,4- 174,0 MHz cu acord de frecvenţă în bandă; în banda 173,965-216 MHz conform Deciziei din 2017,
+cu acord de frecvenţă în bandă)","ERC/REC 70-03
+EN 300 422
+Decizia 2017/1483/UE (Nota 14)",,,,NG,
+"174,0000 - 216,0000","RADIODIFUZIUNE 5.235
+5.237",RADIODIFUZIUNE,,,"PMSE audio (include radiomicrofoane în banda 174- 216 MHz, cu acord de frecvenţă în bandă)","ERC/REC 25-10
+ERC/REC 70-03
+EN 300 422",,,,NG,
+,,,,,"Dispozitive de asistenţă pentru ascultare (ALD) (cu acord de frecvență în banda 173,965-216 MHz)","ERC/REC 70-03
+EN 300 422
+Decizia 2017/1483/UE (Nota 14)",,,,,
+,,,,,"Acord Geneva 2006. Televiziune
+digitală terestră  Radiodifuziune digitală terestră (T-DAB)","EN 302 296
+EN 302 077",,,,,
+"216,0000 - 223,0000","RADIODIFUZIUNE 5.235
+5.237",RADIODIFUZIUNE,,,Acord Geneva 2006 Radiodifuziune digitală terestră (T-DAB),EN 302 077,,,,NG,
+"223,0000 - 225,0000","RADIODIFUZIUNE
+Fix Mobil",RADIODIFUZIUNE,,,Acord Geneva 2006. Radiodifuziune digitală terestră (T-DAB),EN 302 077,,,,NG,
+,5.243,,,,,,,,,,
+,5.246,,,,,,,,,,
+,5.247,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+"225,0000 -230,0000",RADIODIFUZIUNE,RADIODIFUZIUNE,,,"Acord Geneva 2006. Radiodifuziune digitală terestră (T-DAB)
+(Această bandă este în gama de acord de frecvenţe pentru uz militar 225-400 MHz; partaj cu apărarea din considerente
+naţionale)",EN 302 077,,,,G(A)/NG,
+,Fix,Mobil terestru,,,,,,,,,
+,Mobil,ECA10,,,,,,,,,
+,5.246,ECA 36,,,,,,,,,
+,5.247,,,,,,,,,,
+"230,0000 - 235,0000","FIX
+MOBIL","MOBIL
+ECA10",,,"Sisteme militare
+(Bandă militară armonizată)",,,,,G(A),
+,5.247,ECA36,,,,,,,,,
+,5.251,,,,,,,,,,
+,5.252,,,,,,,,,,
+"235,0000 - 240,0000","FIX
+MOBIL","MOBIL
+5.254",,,"Sisteme militare
+(Bandă militară armonizată)",,,,,G(A),
+,5.252,ECA10,,,,,,,,,
+,5.254,ECA36,,,,,,,,,
+"240,0000 - 242,9500","FIX
+MOBIL","MOBIL
+5.254",,,"Sisteme militare
+(Banda militară armonizată)",EN 302 617,,,,G(A),
+,5.111,ECA10,,,,,,,,,
+,5.254,ECA36,,,,,,,,,
+,5.256,,,,,,,,,,
+"242,9500 - 243,0500",FIX,MOBIL AERONAUTIC,,,"EPIRB
+(Bandă disponibilă numai pentru primejdie şi siguranţă, 243,0 MHz)",EN 300 152,,,,G(A)/NG,
+,MOBIL,,,,,,,,,,
+,5.111,"5.111, 5.254, 5.256",,,,,,,,,
+,5.254,,,,,,,,,,
+,5.256,,,,,,,,,,
+"243,0500 - 267,0000","FIX
+MOBIL cu excepţia mobil
+aeronautic","MOBIL 5.254
+ECA10",,,"Sisteme militare
+(Bandă militară armonizată)",EN 302 617,,,,G(A),
+,"5.111, 5.252, 5.254, 5.256,
+5.256A",ECA36,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+"267,0000 - 272,0000","FIX MOBIL
+Exploatare spațială (spațiu- Pământ)
+5.254
+5.257","MOBIL 5.254
+5.257
+ECA10 ECA36",,,"Sisteme militare
+(Bandă militară armonizată)",EN 302 617,,,,G(A),
+"272,0000 - 273,0000","FIX MOBIL
+EXPLOATARE SPAȚIALĂ
+(spațiu-Pământ) 5.254",MOBIL 5.254 ECA10 ECA36,,,"Sisteme militare
+(Bandă militară armonizată)",EN 302 617,,,,G(A),
+"273,0000 - 312,0000",FIX MOBIL 5.254,"MOBIL 5.254 ECA10
+ECA36",,,"Sisteme militare
+(Bandă militară armonizată)",EN 302 617,,,,G(A),
+"312,0000 - 315,0000","FIX MOBIL
+Mobil prin satelit (Pământ- spațiu)
+5.254, 5.255","MOBIL 5.254, 5.255 ECA10 ECA36",,,"Sisteme militare
+(Bandă militară armonizată)",EN 302 617,,,,G(A),
+"315,0000 - 322,0000",FIX MOBIL 5.254,"MOBIL 5.254 ECA10
+EN 302 617",,,"Sisteme militare
+(Bandă militară armonizată)",EN 302 617,,,,G(A),
+"322,0000 - 328,6000","FIX MOBIL
+RADIOASTRONOMIE 5.149","MOBIL RADIOASTRONOMIE 5.149
+ECA10 ECA36",,,"Sisteme militare
+(Bandă militară armonizată)
+Aplicaţii pentru radioastronomie (Măsurări în domeniul continuu şi linii spectrale, de exemplu: deuteriu; VLBI)",,,,,G(A),
+"328,6000 - 335,4000","RADIONAVIGATIE AERONAUTICA
+5.258, 5.259","RADIONAVIGATIE AERONAUTICA
+5.258",,,ILS/radiofar de panta,,,,,G(A)/NG,
+,,,,,,,,,,,
+,,,,,,,,,,,
+"335,4000 - 380,0000",FIX MOBIL 5.254,MOBIL 5.254 ECA10 ECA36,,,"Sisteme militare
+(Bandă militară armonizată)",EN 302 617,,,,G(A),
+"380,0000 - 385,0000",FIX MOBIL 5.254,MOBIL ECA10 ECA36,,,"Sisteme de comunicaţii de urgenţă aer-sol-aer (AGA) (în benzile 384,8-385/394,8-395 MHz; benzile 384,750-384,800 MHz si 394,750-394,800 MHz pot
+fi utilizate ca benzi preferate de extindere pentru AGA)","ECC/DEC/(06)05 EN 300 113
+EN 300 390
+ERC/DEC/(01)19 EN 300 113
+EN 300 390
+EN 301 166
+EN 302 561
+EN 303 039
+ECC/DEC/(08)05 T/R 25-08
+EN 300 113
+EN 300 390
+EN 301 166
+EN 302 561
+EN 303 039",,,,G,
+,,,,,"Sisteme de comunicaţii de urgenţă cu operare în modul direct (DMO)
+(benzile 380,0-380,15 / 390,0-
+390,15 MHz",,,,,,
+,,,,,"PPDR
+(380,0-385,0 MHz pentru emisia stației mobile, pereche cu 390,0- 395,0 MHz)",,,,,,
+"385,0000 – 387,0000",FIX MOBIL 5.254,MOBIL 5.254 ECA10 ECA36,,,"Sisteme militare
+(Bandă militară armonizată)",,,,,G(A),
+"387,0000 –390,0000","FIX MOBIL
+Mobil prin satelit (spațiu- Pământ) 5.208A  5.208B  5.254 5.255 5.208B",MOBIL ECA10 ECA36,,,"Sisteme militare
+(Bandă militară armonizată)",,,,,G(A),
+,,,,,,,,,,,
+,,,,,,,,,,,
+"390,0000 – 395,0000",FIX MOBIL 5.254,MOBIL ECA10 ECA36,,,"PPDR
+(Sisteme de comunicaţii de urgenţă aer-sol-aer (AGA) în benzile 384,8-385/394,8-395 MHz benzile 384,750-384,800 MHz / 394,750-394,800 MHz pot fi
+utilizate ca benzi preferate de extindere pentru AGA)","ECC/ DEC/(06)05 EN 300 113
+EN 300 390",,,,G,
+,,,,,"PPDR
+(Sisteme de comunicaţii de urgenţă în modul direct de operare (DMO) (în benzile 380,0- 380,15/390,0-390,15 MHz )","ERC/DEC/(01)19 EN 300 113
+EN 300 390
+EN 301 166
+EN 302 561
+EN 303 039",,,,,
+,,,,,"PPDR
+(390-395 MHz pentru emisia stației de bază, pereche cu 380-385 MHz)","ECC/DEC/(08)05 T/R 25-08
+EN 300 113
+EN 300 390
+EN 301 166
+EN 302 561
+EN 303 039",,,,,
+"395,0000 – 399,9000",FIX MOBIL 5.254,MOBIL 5.254 ECA10 ECA36,,,"Sisteme militare
+(Bandă militară armonizată)",,,,,G(A),
+"399,9000 - 400,0500","MOBIL PRIN SATELIT
+(Pamânt-spațiu) 5.209 5.220","MOBIL PRIN SATELIT (Pamânt-
+spațiu) 5.209 5.220",,,PPDR,ECC/DEC/(08)05,,,,G(A)/NG,
+"400,0500 - 400,1500","FRECVENȚE ETALON ȘI SEMNALE ORARE PRIN SATELIT (400,1 MHz)","FRECVENȚE ETALON ȘI SEMNALE ORARE PRIN SATELIT (400,1 MHz)",,,PPDR,ECC/DEC/(08)05,,,,NG,
+,5.261  5.262,5.261  5.262,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+"400,1500 - 401,0000",AUXILIAR METEOROLOGIC,AUXILIAR METEOROLOGIC,,,"S-PCS
+(sateliţi non-geostaționari) Radiosonde meteorologice Sateliţi meteorologici","ERC/DEC/(99)06 EN 301 721
+EN 302 054",,,,NG,
+,"METEOROLOGIC PRIN
+SATELIT (spațiu-Pământ)","METEOROLOGIC PRIN SATELIT
+(Pământ-spațiu)",,,,,,,,,
+,MOBIL PRIN SATELIT (spațiu- Pământ) 5.208A  5.208B  5.209,MOBIL PRIN SATELIT (spațiu- Pământ) 5.208A  5.208B  5.209,,,,,,,,,
+,"CERCETARE SPAȚIALĂ
+(spațiu-Pământ) 5.263","CERCETARE SPAȚIALĂ (spațiu-
+Pământ) 5.263",,,,,,,,,
+,Exploatare spațială (spațiu- Pământ),"EXPLOATARE SPAȚIALĂ (spațiu-
+Pământ)",,,,,,,,,
+,5.262  5.264,5.262  5.264,,,,,,,,,
+"401,0000 - 402,0000","EXPLORAREA PĂMÂNTULUI
+PRIN SATELIT (Pământ-spațiu)","EXPLORAREA PAMÂNTULUI
+PRIN SATELIT  (Pământ-spațiu)",,,"Radiosonde meteorologice
+Sateliţi meteorologici (telemetrie prin platforme pentru colectarea datelor)
+Implanturi medicale active de putere foarte mică (ULP-AMI în banda 401-406 MHz)","EN 302 054
+ERC/DEC/(01)17 EN 302 537
+Decizia 2010/368/UE (Nota 4)",,,,G(A)/NG,
+,AUXILIAR METEOROLOGIC,AUXILIAR METEOROLOGIC,,,,,,,,,
+,"METEOROLOGIC PRIN
+SATELIT (Pământ-spațiu)","METEOROLOGIC PRIN SATELIT
+(Pământ-spațiu)",,,,,,,,,
+,"EXPLOATARE SPAȚIALĂ
+(spațiu-Pământ)",,,,,,,,,,
+,Fix,,,,,,,,,,
+,Mobil cu excepția mobil aeronautic,,,,,,,,,,
+"402,0000 - 403,0000","EXPLORAREA PĂMÂNTULUI
+PRIN SATELIT (Pământ-spațiu) AUXILIAR METEOROLOGIC
+METEOROLOGIC PRIN
+SATELIT (Pământ-spațiu)
+Fix","AUXILIAR METEOROLOGIC
+EXPLORAREA PAMINTULUI
+PRIN SATELIT  (Pământ-spațiu)
+METEOROLOGIC PRIN SATELIT
+(Pământ-spațiu)",,,"Sisteme militare
+Implanturi medicale active de putere foarte mică (ULP-AMI în banda 401-406 MHz)","ERC/DEC/(01)17 EN 301 839
+Decizia 2006/771/CE (Nota 1)",,,,G(A)/NG,
+,Mobil cu exceptia mobil aeronautic,,,,"Radiosonde meteorologice
+Sateliţi meteorologici (telemetrie prin platforme pentru colectarea datelor)",EN 302 054,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+"403,0000 – 404,0000",AUXILIAR METEOROLOGIC,AUXILIAR METEOROLOGIC,,,Radiosonde meteorologice,"EN 302 054
+ECC/DEC/(19)02 T/R 25-08
+EN 300 086,  EN 300 113
+EN 300 219,  EN 300 296
+EN 300 341,  EN 300 390
+EN 300 471,  EN 301 166
+EN 302 561,  EN 303 039
+ERC/DEC/(01)17 EN 301 839
+Decizia 2006/771/CE (Nota 1)
+EN 302 054",,,,NG,
+,"Fix
+Mobil cu excepția mobil aeronautic",MOBIL TERESTRU 5.265,,,"PMR de bandă îngustă (în banda 403,0-403,4 MHz)",,,,,,
+,5.265,,,,,,,,,,
+,,,,,Implanturi medicale active de putere foarte mică (ULP-AMI în banda 401-406 MHz),,,,,,
+,,,,,Radiosonde meteorologice,,,,,,
+"404,0000 – 405,0000",,AUXILIAR METEOROLOGIC 5.265,,,Implanturi medicale active de putere foarte mică (ULP-AMI în banda 401-406 MHz),"ERC/DEC/(01)17 EN 301 839
+Decizia 2006/771/CE (Nota 1)",,,,NG,
+,,,,,Radiosonde meteorologice,EN 302 054,,,,,
+"405,0000 – 406,0000",,AUXILIAR METEOROLOGIC,,,Sisteme militare,,,,,G(A),
+,,5.265,,,Implanturi medicale active de putere foarte mică (ULP-AMI in banda 401-406 MHz),"ERC/DEC/(01)17 EN 302 537
+Decizia 2010/368/UE (Nota 4)",,,,,
+,,,,,Radiosonde meteorologice,EN 302 054,,,,,
+"406,0000 – 406,1000","MOBIL PRIN SATELIT
+(Pământ-spațiu) 5.265 5.266 5.267","MOBIL PRIN SATELIT (Pământ-
+spațiu)
+5.265 5.266 5.267",,,"EPIRB
+(Bandă disponibilă numai pentru
+primejdie şi siguranţă)","EN 300 066
+EN 302 152",,,,G(A)/NG,
+,,,,,,,,,,,
+,,,,,,,,,,,
+"406,1000 – 408,0000","FIX
+MOBIL cu excepția mobil aeronautic
+RADIOASTRONOMIE 5.149
+5.265","MOBIL TERESTRU RADIOASTRONOMIE 5.149
+5.265
+ECA36",,,"Sisteme militare terestre Sisteme militare maritime
+Aplicaţii pentru radioastronomie
+(Măsurări în domeniul continuu,VLBI)",,,,,G(A) / NG,
+"408,0000 – 410,0000",,,,,"PMR/PAMR de bandă îngustă
+Aplicaţii pentru radioastronomie (Măsurări în domeniul continuu,VLBI)","ECC/DEC/(19)02 T/R 25-08
+EN 300 086,  EN 300 113
+EN 300 219,  EN 300 296
+EN 300 341,  EN 300 390
+EN 300 471,  EN 301 166
+EN 302 561,  EN 303 039",,,,NG,
+"410,0000 – 411,0000","FIX
+MOBIL cu excepția mobil aeronautic
+CERCETARE SPAȚIALĂ
+(spațiu-spațiu) 5.268","MOBIL cu exceptia mobil aeronautic
+ECA36",,,"PMR/PAMR de bandă îngustă
+(410,000-410,0000 MHz pentu
+emisia stației mobile, pereche cu 420,0000 – 421,0000 MHz)","ECC/DEC/(19)02 T/R 25-08
+EN 300 086,  EN 300 113
+EN 300 219,  EN 300 296
+EN 300 341,  EN 300 390
+EN 300 471,  EN 301 166,
+EN 302 561,  EN 303 039",,,,NG,
+"410,1000 – 415,0000",,,,,PMR/PAMR ECA7,"ECC/DEC/(19)02 T/R 25-08
+EN 300 086, EN 300 113
+EN 300 219, EN 300 296
+EN 300 341, EN 300 390
+EN 300 471, EN 301 166
+EN 302 561, EN 303 039",,,,NG,
+,,,,,,,,,,,
+,,,,,,,,,,,
+"415,0000 – 420,0000",,,,,"Sisteme militare terestre Sisteme militare maritime
+PMR/PAMR de bandă îngustă","ECC/DEC/(19)02 T/R 25-08
+EN 300 086,  EN 300 113
+EN 300 219,  EN 300 296
+EN 300 341,  EN 300 390
+EN 300 471,  EN 301 166,
+EN 302 561,  EN 303 039",,,,G(A)/NG,
+"420,0000 – 421,0000","FIX
+MOBIL cu excepția mobil aeronautic
+Radiolocație 5.269
+5.270
+5.271","MOBIL cu excepția mobil aeronautic
+Radiolocație ECA7 ECA36",,,"PMR/PAMR de bandă îngustă
+(420,0000-421,0000 MHz pentru
+emisia stației de bază, pereche cu 410,0000 – 411,0000 MHz)
+ECA7","ECC/DEC/(19)02 T/R 25-08
+EN 300 086,  EN 300 113
+EN 300 219,  EN 300 296
+EN 300 341,  EN 300 390
+EN 300 471,  EN 301 166,
+EN 302 561,  EN 303 039",,,,NG,
+"421,0000 – 425,0000",,,,,PMR/PAMR ECA7,"ECC/DEC/(19)02 T/R 25-08
+EN 300 086, EN 300 113
+EN 300 219, EN 300 296
+EN 300 341, EN 300 390
+EN 300 471, EN 301 166
+EN 302 561, EN 303 039",,,,NG,
+"425,0000 – 429,8000",,,,,"PMR/PAMR de bandă îngustă
+ECA7","ECC/DEC/(19)02 T/R 25-08
+EN 300 086,  EN 300 113
+EN 300 219,  EN 300 296
+EN 300 341,  EN 300 390
+EN 300 471,  EN 301 166,
+EN 302 561,  EN 303 039",,,,NG,
+"429,8000 – 430,0000",,,,,Sisteme paging existente,,,,,G,
+,,,,,,,,,,,
+,,,,,,,,,,,
+"430,0000 – 432,0000","AMATOR
+RADIOLOCAȚIE","AMATOR
+RADIOLOCAȚIE",,,"Aplicaţii pentru amatori (în banda 431,200-432,000 MHz)",EN 301 783,,,,NG,
+,"5.271  5.274  5.275  5.276
+5.277","MOBIL TERESTRU 5.277
+ECA12",,,"PMR de bandă îngustă (în banda
+430,000-431,200 MHz)","ECC/DEC/(19)02 T/R 25-08
+EN 300 086,  EN 300 113
+EN 300 219,  EN 300 296
+EN 300 341,  EN 300 390
+EN 300 471,  EN 301 166
+EN 302 561,  EN 303 039",,,,,
+,,,,,"Dispozitive pentru achiziția
+datelor medicale
+(în banda 430-440 MHz, pentru ULP-WMCE)","ERC/REC 70-03
+EN 303 520
+Decizia 2019/1345/UE (Nota 15)",,,,,
+"432,0000 – 433,0500",AMATOR,AMATOR,,,"Senzori activi (satelit) (în conformitate cu
+Recomandarea ITU-R SA 1260-1)
+Aplicaţii pentru amatori Dispozitive pentru achiziția
+datelor medicale
+(în banda 430-440 MHz, pentru ULP-WMCE)",,,,,NG,
+,RADIOLOCAȚIE,RADIOLOCATIE,,,,,,,,,
+,Explorarea Pământului prin satelit (activ)  5.279A,"Explorarea Pământului prin satelit (activ) 5.279A
+5.277",,,,EN 301 783,,,,,
+,"5.138  5.271  5.276 5.277
+5.280",ECA12,,,,"ERC/REC 70-03
+EN 303 520
+Decizia 2019/1345/UE (Nota 15)",,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+"433,0500 – 434,7900","AMATOR RADIOLOCATIE
+Explorarea Pământului prin satelit (activ)  5.279A","AMATOR RADIOLOCAȚIE
+Mobil terestru
+Explorarea Pământului prin satelit (activ) 5.279A",,,Senzori activi (la bordul sateliților) (utilizarea benzii de către senzori în EESS (activ) va fi în conformitate cu Recomandarea UIT-R SA 1260-1),EN 301 783,,,,NG,
+,5.138  5.271  5.276,5.138,,,Aplicaţii pentru amatori,,,,,,
+,5.277  5.280  5.281,"5.277
+ECA12",,,ISM,,,,,,
+,,,,,"SRD nespecifice
+(în benzile 433,05-434,79 MHz şi
+434,04-434,79 MHz)","ERC/REC 70-03
+EN 300 220
+Decizia 2006/771/CE (Nota 1)",,,,,
+,,,,,"Dispozitive pentru achiziția datelor medicale (în banda 430- 440 MHz, pentru ULP-WMCE)","ERC/REC 70-03
+EN 303 520
+Decizia 2019/1345/UE (Nota 15)",,,,,
+"434,7900 – 438,0000","AMATOR
+RADIOLOCAȚIE
+Explorarea pamintului prin satelit (activ)  5.279A","AMATOR
+AMATOR PRIN SATELIT
+RADIOLOCAȚIE
+Explorarea Pământului prin satelit (activ) 5.279A",,,"Senzori activi (satelit)
+(Utilizarea acestei benzi de către senzori în EESS (activ) va fi în concordanţă cu Recomandarea UIT-R SA 1260-1)",,,,,G(A)/NG,
+,"5.138  5.271  5.276  5.277
+5.280  5.282","5.277
+ECA12",,,Aplicaţii pentru amatori (în banda 430-440 MHz),EN 301 783,,,,,
+,,,,,Aplicaţii prin satelit pentru amatori (Serviciul amator prin satelit restricţionat la 435-438 MHz),,,,,,
+,,,,,"Dispozitive pentru achiziția
+datelor medicale
+(în banda 430-440 MHz, pentru ULP-WMCE)","ERC/REC 70-03
+EN 303 520
+Decizia 2019/1345/UE (Nota 15)",,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+"438,0000 – 440,0000","AMATOR
+RADIOLOCAȚIE
+5.271   5.274  5.275  5.276
+5.277  5.283","AMATOR
+RADIOLOCAȚIE 5.277
+ECA12",,,"Aplicaţii pentru amatori (în banda
+430-440 MHz)
+Dispozitive pentru achiziția
+datelor medicale
+(în banda 430-440 MHz, pentru ULP-WMCE)","EN 301 783
+ERC/REC 70-03
+EN 303 520
+Decizia 2019/1345/UE (Nota 15)",,,,NG,
+"440,0000 – 442,5000","FIX
+MOBIL cu excepția mobil aeronautic
+Radiolocație
+5.269  5.270  5.271  5.284
+5.285  5.286","MOBIL cu excepția mobil aeronautic
+Radiolocație ECA7 ECA36",,,"PMR/PAMR de bandă îngustă
+ECA7","ECC/DEC/(19)02 T/R 25-08
+EN 300 086, EN 300 113
+EN 300 219, EN 300 296
+EN 300 341, EN 300 390
+EN 300 471, EN 301 166
+EN 302 561, EN 303 039",,,,NG,
+"442,5000 – 444,0000",,,,,"Sisteme militare terestre Sisteme militare maritime ECA36
+PMR/PAMR de bandă îngustă
+ECA7","ECC/DEC/(19)02 T/R 25-08
+EN 300 086,  EN 300 113
+EN 300 219,  EN 300 296
+EN 300 341,  EN 300 390
+EN 300 471,  EN 301 166
+EN 302 561,  EN 303 039",,,,G(A)/NG,
+"444,0000 – 445,0000",,,,,"PMR/PAMR de bandă îngustă
+ECA7","ECC/DEC/(19)02 T/R 25-08
+EN 300 086,  EN 300 113
+EN 300 219,  EN 300 296
+EN 300 341,  EN 300 390
+EN 300 471,  EN 301 166
+EN 302 561,  EN 303 039",,,,NG,
+,,,,,,,,,,,
+,,,,,,,,,,,
+"445,0000 – 446,0000",,,,,Sisteme militare terestre Sisteme militare maritime ECA36,,,,,G(A)/NG,
+,,,,,"PMR/PAMR de bandă îngustă
+ECA7","ECC/DEC/(19)02 T/R 25-08
+EN 300 086,  EN 300 113
+EN 300 219,  EN 300 296
+EN 300 341,  EN 300 390
+EN 300 471,  EN 301 166
+EN 302 561,  EN 303 039",,,,,
+"446,0000 – 447,5000",,,,,"PMR 446 (în banda 446,0000 - 446,2000 MHz)","ECC/DEC/(15)05 ERC/REC 70-03
+EN 303 405
+Decizia 2017/1483/UE (Nota 14)",,,,NG,
+,,,,,"PMR de bandă îngustă
+ECA7","ECC/DEC/(19)02 T/R 25-08
+EN 300 086,  EN 300 113
+EN 300 219,  EN 300 296
+EN 300 341,  EN 300 390
+EN 300 471,  EN 301 166
+EN 302 561,  EN 303 039",,,,,
+"447,5000 – 449,0000",,,,,Sisteme militare terestre Sisteme militare maritime ECA36,,,,,G(A) / NG,
+,,,,,PMR/PAMR de bandă îngustăECA7,"ECC/DEC/(19)02 T/R 25-08
+EN 300 086,  EN 300 113
+EN 300 219,  EN 300 296
+EN 300 341,  EN 300 390
+EN 300 471,  EN 301 166
+EN 302 561,  EN 303 039",,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+"449,0000 - 450,0000",,,,,"PMR/PAMR de bandă îngustă
+ECA7","ECC/DEC/(19)02 T/R 25-08
+EN 300 086,  EN 300 113
+EN 300 219,  EN 300 296
+EN 300 341,  EN 300 390
+EN 300 471,  EN 301 166
+EN 302 561,  EN 303 039",,,,NG,
+"450,0000 – 450,5500","FIX
+MOBIL  5.286AA
+5.209  5.271  5.286  5.286A
+5.286B  5.286C  5.286D
+5.286E",MOBIL ECA7,,,"PMR/PAMR de bandă îngustă
+ECA7","ECC/DEC/(19)02 T/R 25-08
+EN 300 086,  EN 300 113
+EN 300 219,  EN 300 296
+EN 300 341,  EN 300 390
+EN 300 471,  EN 301 166
+EN 302 561,  EN 303 039",,,,NG,
+"450,5500 – 452,0000",,,,,Sisteme militare,,,,,G(A),
+"452,0000 – 453,0000",,,,,"PPDR
+(BB-PPDR în banda 452,0-457,5
+MHz pereche cu 462,0-467,5 MHz)","ECC/DEC/(16)02 T/R 25-08
+EN 303 505",,,,G,
+"453,0000 – 455,0000",,,,,"PPDR
+(BB-PPDR în banda  452,0-457,5
+MHz pereche cu 462,0 – 467,5 MHz)","ECC/DEC/(16)02 T/R 25-08
+EN 303 505",,,,G,
+"455,0000-456,0000","FIX
+MOBIL  5.286AA
+5.209  5.271  5.286A  5.286B
+5.286C  5.286E",MOBIL ECA7,,,"PPDR
+(BB-PPDR în banda  452,0-457,5
+MHz pereche cu 462,0 – 467,5 MHz)","ECC/DEC/(16)02 T/R 25-08
+EN 303 505",,,,G,
+,,,,,,,,,,,
+,,,,,,,,,,,
+"456,0000 – 457,5000","FIX
+MOBIL  5.286AA 5.271
+5.287",MOBIL 5.287 ECA7,,,"PPDR
+(BB-PPDR în banda
+452,0-457,5 MHz pereche cu 462,0 – 467,5 MHz)","ECC/DEC/(16)02 T/R 25-08
+EN 303 505",,,,G,
+"457,5000 – 458,2000",,,,,"PMR/PAMR de bandă îngustă
+ECA7
+Comunicaţii maritime la bordul navelor (in banda 457,5125 – 457,5875 MHz)","ECC/DEC/(19)02 T/R 25-08
+EN 300 086,  EN 300 113
+EN 300 219,  EN 300 296
+EN 300 341,  EN 300 390
+EN 300 471,  EN 301 166
+EN 302 561,  EN 303 039
+EN 300 720",,,,NG,
+"458,2000 – 458,4500",,,,,Sisteme militare,,,,,G(A),
+"458,4500-459,0000",,,,,Sisteme guvernamentale,,,,,G,
+"459,0000 – 459,3000","FIX
+MOBIL  5.286AA
+5.209  5.271  5.286A  5.286B",MOBIL ECA7,,,Sisteme guvernamentale,,,,,G,
+,,,,,,,,,,,
+,,,,,,,,,,,
+"459,3000 – 459,7000",,,,,Sisteme militare,,,,,G(A),
+"459,7000 – 460,0000",,,,,Sisteme guvernamentale,,,,,G,
+"460,0000 – 460,5500","FIX
+MOBIL 5.286AA
+Meteorologic prin satelit (spațiu- Pământ)
+5.287
+5.288
+5.289
+5.290","MOBIL 5.287
+5.289",,,"PMR/PAMR de bandă îngustă
+ECA7","ECC/DEC/(19)02 T/R 25-08
+EN 300 086,  EN 300 113
+EN 300 219,  EN 300 296
+EN 300 341,  EN 300 390
+EN 300 471,  EN 301 166
+EN 302 561,  EN 303 039",,,,NG,
+"460,5500 - 462,0000",,,,,Sisteme militare,,,,,G(A),
+"462,0000 - 463,0000",,,,,"PPDR
+(BB-PPDR în banda 462,0-467,5
+MHz pereche cu 452,0-457,5 MHz)","ECC/DEC/(16)02 T/R 25-08
+EN 303 505",,,,G,
+"463,0000 - 467,5000",,,,,"PPDR
+(BB-PPDR în banda  462,0-467,5
+MHz pereche cu 452,0 – 457,5 MHz)","ECC/DEC/(16)02 T/R 25-08
+EN 303 505",,,,G,
+"467,5000 - 468,2000",,,,,"PMR/PAMR de bandă îngustă
+ECA7
+Comunicaţii maritime la bordul navelor (în banda 467,5125 – 467,5875 MHz)","ECC/DEC/(19)02 T/R 25-08
+EN 300 086,  EN 300 113
+EN 300 219,  EN 300 296
+EN 300 341,  EN 300 390
+EN 300 471,  EN 301 166
+EN 302 561,  EN 303 039
+EN 300 720",,,,NG,
+"468,2000-468,4500",,,,,Sisteme militare,,,,,G(A),
+"468,4500-469,4500",,,,,Sisteme guvernamentale,,,,,G,
+,,,,,,,,,,,
+,,,,,,,,,,,
+"469,4500-469,7000",,,,,Sisteme militare,,,,,G(A),
+"469,7000-470,0000",,,,,Sisteme guvernamentale,,,,,G,
+"470,0000 - 608,0000",RADIODIFUZIUNE,"RADIODIFUZIUNE
+Mobil",,,"Televiziune digitală terestră
+(Acordul Geneva 2006)",EN 302 296,,,,NG,
+,"5.149  5.291A  5.294  5.296
+5.300  5.304  5.306   5.311A
+5.312",,,,"PMSE audio
+(include radiomicrofoane in banda 470-694 MHz, cu acord de frecvenţă în bandă)","ERC/REC 25-10
+ERC/REC 70-03
+EN 300 422
+EN 300 454
+Decizia 2017/899/UE",,,,,
+,,,,,Radare profil de vânt (limitate la banda 470-494 MHz; partaj geografic cu alte servicii),,,,,,
+,,,,,Linii fixe unilaterale (cu caracter local și statut secundar) între studiouri de radio și emițătoarele de radiodifuziune aferente,,,,,,
+"608,0000 - 614,0000",,"RADIODIFUZIUNE
+Mobil",,,"Televiziune digitală terestră
+(Acordul Geneva 2006)",EN 302 296,,,,NG,
+,,"Radioastronomie 5.306
+5.149",,,"PMSE audio
+(include radiomicrofoane in banda 470-694 MHz, cu acord de frecvenţă în bandă)","ERC REC 70-03
+ERC/REC 25-10
+EN 300 422
+EN 300 454
+Decizia 2017/899/UE",,,,,
+,,,,,Aplicații pentru radioastronomie (Măsurări în domeniul contiunuu; VLBI),,,,,,
+,,,,,Linii fixe unilaterale (cu caracter local și statut secundar) între studiouri de radio și emitătoarele de radiodifuziune aferente,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+"614,0000 – 694,0000",,"RADIODIFUZIUNE
+Mobil",,,"Televiziune digitală terestră
+(Acordul Geneva 2006)
+PMSE audio
+(include radiomicrofoane in banda 470-694 MHz, cu acord de frecvenţă în bandă)
+Linii fixe unilaterale (cu caracter local si statut secundar) intre studiouri de radio si emitatoarele
+de radiodifuziune aferente (în banda 470-694 MHz)","EN 302 296
+ERC REC 70-03
+ERC/REC 25-10
+EN 300 442
+EN 300 454
+Decizia 2017/899/UE",,,,NG,
+"694,0000 – 698,0000","RADIODIFUZIUNE
+MOBIL cu excepția mobil
+aeronautic 5.312A 5.317A 5.300  5.311A  5.312","MOBIL cu excepția mobil
+aeronautic 5.312A 5.317A",,,Bandă de gardă,,,,,NG,
+"698,0000 – 703,0000",,,,,"BB-PPDR (banda 698-703 MHz
+pentru emisia stației mobile,
+pereche cu 753-758 MHz)",Decizia (UE) 2016/687 ECC/DEC/(16)02,,,,G,
+"703,0000 – 733,0000",,,,,"Sisteme terestre capabile să furnizeze servicii de comunicații electronice (MFCN)
+(banda 703-733 MHz pentru emisia stației mobile, pereche cu 758-788 MHz)
+IMT (LTE; LTE-MTC; LTE-eMTC; NB-IoT)
+NR","Decizia (UE) 2017/899 Decizia (UE) 2016/687 ECC/DEC/(15)01 ERC/REC/(15)01
+EN 301 908-1
+EN 301 908-13
+EN 301 908-14
+EN 301 908-15
+EN 301 908-18",,,,NG,
+"733,0000 – 736,0000",,,,,"BB-PPDR (banda 733-736 MHz
+pentru emisia stației mobile,
+pereche cu 788-791 MHz)",Decizia (UE) 2016/687 ECC/DEC/(16)02,,,,G,
+,,,,,,,,,,,
+,,,,,,,,,,,
+"736,0000 – 753,0000",,,,,"Sisteme terestre capabile să furnizeze servicii de comunicații electronice (MFCN)
+(în banda 738-753 MHz, exclusiv pentru emisia stației de bază – legătura descendentă suplimentară SDL)
+IMT NR","Decizia (UE) 2017/899 Decizia (UE) 2016/687 ECC/DEC/(15)01 ERC/REC/(15)01
+EN 308 901",,,,NG,
+"753,0000  - 758,0000",,,,,"BB-PPDR (banda 753-758 MHz
+pentru emisia stației de bază,
+pereche cu 698-703 MHz)",Decizia (UE) 2016/687 ECC/DEC/(16)02,,,,G,
+"758,0000 – 788,0000",,,,,"Sisteme terestre capabile să furnizeze servicii de comunicații electronice (MFCN) (banda 758- 788 MHz pentru emisia stației de bază, pereche cu 703-733 MHz) IMT (LTE; LTE-MTC; LTE-eMTC; NB-IoT)","Decizia (UE) 2017/899 Decizia (UE) 2016/687 ECC/DEC/(15)01 ERC/REC/(15)01
+EN 301 908-1
+EN 301 908-13
+EN 301 908-14
+EN 301 908-15
+EN 301 908-18",,,,NG,
+,,,,,NR,,,,,,
+"788,0000 – 790,0000",,,,,"BB-PPDR (banda 788-791 MHz
+pentru emisia stației de bază,
+pereche cu 733-736 MHz)",Decizia (UE) 2016/687 ECC/DEC/(16)02,,,,G,
+"790,0000 - 791,0000","RADIODIFUZIUNE FIX
+MOBIL cu excepția mobil","MOBIL cu excepţia mobil
+aeronautic 5.316B  5.317A",,,"BB-PPDR (banda 788-791 MHz
+pentru emisia stației de bază,
+pereche cu 733-736 MHz)",Decizia (UE) 2016/687 ECC/DEC/(16)02,,,,G,
+,,,,,,,,,,,
+,,,,,,,,,,,
+"791,0000 – 862,0000",,,,,"Sisteme terestre capabile să furnizeze servicii de comunicații electronice (MFCN) (banda 791- 821 MHz pentru emisia stației de bază, pereche cu 832-862 MHz) IMT
+UMTS","Decizia 2010/267/UE ECC/DEC/(09)03 ECC/REC/(11)04
+EN 301 908-1
+EN 301 908-2
+EN 301 908-3
+EN 301 908-11
+EN 301 908-18",,,,NG,
+,,,,,LTE,"EN 301 908-1
+EN 301 908-13
+EN 301 908-14
+EN 301 908-15
+EN 301 908-18",,,,,
+,,,,,PMSE audio (include radiomicrofoane în banda 823- 832 MHz),"ERC/REC 70–03
+ERC/REC 25-10
+EN 300 422
+Decizia 2014/641/UE",,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+"862,0000 - 870,0000",RADIODIFUZIUNE 5.322,MOBIL,,,Sisteme militare terestre,,,,,G(A)/NG,
+,"FIX
+MOBIL cu excepția mobil aeronautic  5.317A
+5.319  5.323","5.323
+ECA13 ECA36",,,"Alarme
+(conform deciziei Comisiei din 2006 în benzile 868,6-868,7 MHz; 869,2-869,25 MHz (numai alarme sociale); 869,25-869,3 MHz;
+869,65-869,7 MHz) (conform deciziei Comisiei din 2008 şi în banda 869,3-869,4 MHz)","ERC/REC 70-03
+EN 300 220
+EN 303 406
+Decizia 2006/771/CE (Nota 1)
+Decizia 2008/432/CE (Nota 2)",,,,,
+,,,,,"SRD nespecifice
+(conform deciziei Comisiei din 2006 în benzile 868,0-868,6 MHz;
+868,7-869,2 MHz; 869,4- 869,65
+MHz; 869,7-870 MHz) (conform deciziei Comisiei din 2008 şi în banda 863-868 MHz) (conform deciziei Comisiei din 2019 şi în banda 862-863 MHz)","ERC/REC 70-03
+EN 300 220
+Decizia 2006/771/CE (Nota 1)
+Decizia 2008/432/CE (Nota 2)",,,,,
+,,,,,Radiomicrofoane (în banda 863- 865 MHz),"ERC/REC 70-03
+EN 300 422
+EN 301 357",,,,,
+,,,,,"Dispozitive de identificare în
+radiofrecvenţă (RFID)
+(în banda 865-868 MHz)","ERC/REC 70-03
+EN 302 208
+Decizia 2017/1483/CE (Nota 14)",,,,,
+,,,,,Sisteme de transmisiuni de date în bandă largă (în banda 863-868 MHz),"ERC/REC 70-03
+Decizia 2017/1483/CE (Nota 14)",,,,,
+,,,,,"Aplicații pentru localizare, urmărire și achiziții de date (în banda 865-868 MHz)","ERC/REC 70-03
+EN 303 204",,,,,
+,,,,,Dispozitive audio pe suport radio (în banda 863-865 MHz),"ERC/REC 70-03
+EN 301 357
+EN 300 422
+Decizia 2006/771/CE (Nota 1)",,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+"870,0000-876,0000",RADIODIFUZIUNE 5.322,MOBIL,,,"Sisteme militare terestre
+(Benzile 870-876 șii 915-921 MHz sunt utilizate pentru sisteme terestre militare, în mod particular pentru sisteme fără pilot. In ţările în care aceste benzi sunt sau vor fi pentru uz civil conform deciziilor ERC/ECC, utilizarea partajată civil-militară va fi analizată din considerente naţionale. Alte sub- benzi în gama de acord 610-960 MHz pot fi de asemenea folosite în baza reglementărilor naţionale conform cerinţelor naţionale)
+SRD nespecifice
+(în banda 874-874,4 MHz)","ERC/REC 70-03
+EN 300 220
+EN 303 204
+Decizia 2018/1538/UE",,,,G(A)/NG,
+,FIX,,,,,,,,,,
+,"MOBIL cu excepţia mobil
+aeronautic  5.317A","5.319  5.323
+ECA13",,,,,,,,,
+,,ECA36,,,,,,,,,
+,5.319  5.323,,,,,,,,,,
+,,,,,,,,,,,
+"876,000 – 880,000",RADIODIFUZIUNE 5.322,MOBIL,,,Sisteme militare terestre,,,,,G(A)/NG,
+,"FIX
+MOBIL cu excepţia mobil
+aeronautic  5.317A
+5.319  5.323","5.319  5.323
+ECA13 ECA36",,,"GSM-R (în banda 876-880 MHz, pereche cu 921-925 MHz; sisteme pentru căile ferate)","Decizia 1999/569/CE ECC/DEC/(02)05 ECC/REC/(05)08
+EN 301 502
+EN 301 511",,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+"880,0000-890,0000","RADIODIFUZIUNE 5.322 FIX
+MOBIL cu excepţia mobil
+aeronautic  5.317A","MOBIL 5.317A
+5.319
+ECA32",,,"GSM (în banda 880-890 MHz, pereche cu 925-935 MHz) ECA 32","Directiva 2009/114/CE ERC/DEC/(97)02 ECC/REC/(08)02 ECC/REC/(05)08
+EN 301 502
+EN 301 511
+EN 301 908-18
+EN 303 609
+Directiva 87/372/CEE modificată prin Directiva 2009/114/CE
+Decizia 2009/766/CE modificată prin Decizia CE 2011/251/UE
+Decizia UE/2018/637 ECC/DEC/(06)13 ECC/REC/(08)02
+EN 301 908
+ECC/DEC/(08)08
+Decizia CE 2010/166/UE Rec. 2010/167/UE
+Decizia 2017/191/UE",,,,NG,
+,5.319,,,,,,,,,,
+,5.323,,,,,,,,,,
+,,,,,IMT (UMTS; LTE; LTE-MTC; LTE-eMTC; WiMAX; NB-IoT),,,,,,
+,,,,,MCV,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+"890,0000 – 915,0000","RADIODIFUZIUNE 5.322 FIX
+MOBIL cu exceptia mobil aeronautic  5.317A
+Radiolocatie","MOBIL 5.317A
+ECA32",,,"GSM (în banda 890-915 MHz, pereche cu 935-960 MHz) ECA 32","Directiva 87/372/CEE modificată prin Directiva 2009/114/CE ERC/DEC/(94)01 ERC/DEC/(97)02 ECC/REC/(08)02
+ECC/REC/(05)08",,,,NG,
+,5.323,,,,,"EN 301 502
+EN 301 511",,,,,
+,,,,,,EN 301 908-18,,,,,
+,,,,,,EN 303 609,,,,,
+,,,,,IMT (UMTS; LTE; LTE-MTC;,Directiva 87/372/CEE,,,,,
+,,,,,LTE-eMTC; WiMAX; NB-IoT),modificată prin Directiva,,,,,
+,,,,,,2009/114/CE,,,,,
+,,,,,,Decizia 2009/766/CE,,,,,
+,,,,,,modificată prin Decizia CE,,,,,
+,,,,,,2011/251/UE,,,,,
+,,,,,,Decizia UE/2018/637,,,,,
+,,,,,,ECC/DEC/(06)13,,,,,
+,,,,,,ECC/REC/(08)02,,,,,
+,,,,,,EN 301 908,,,,,
+,,,,,MCV,Decizie CE 2010/166/UE,,,,,
+,,,,,,modificată prin Decizia,,,,,
+,,,,,,2017/191/UE,,,,,
+,,,,,,Rec. 2010/167/UE,,,,,
+,,,,,,ECC/DEC/(08)08,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+"915,0000 – 921,0000",RADIODIFUZIUNE 5.322,MOBIL,,,"Sisteme militare terestre
+(Benzile 870-876 și 915-921 MHz sunt utilizate pentru sisteme terestre militare, pentru sisteme fără pilot. În ţările în care aceste benzi sunt sau vor fi pentru uz civil conform deciziilor ERC/ECC, utilizarea partajată civil-militară va fi analizată din considerente naţionale. Alte sub-benzi în gama de acord 610-960 MHz pot fi de asemenea folosite în baza reglementărilor naţionale conform cerinţelor naţionale)
+SRD nespecifice, utilizate
+exclusiv în reţele de date
+(în benzile 917,3-918,9 MHz şi 917,4-919,4 MHz)
+RFID
+(în banda 916,1-918,9 MHz)
+Sisteme de transmisiuni de date de bandă largă
+(în banda 917,4-919,4 MHz)",,,,,G(A)/NG,
+,FIX,Radiolocație,,,,,,,,,
+,"MOBIL cu excepţia mobil
+aeronautic  5.317A",5.323ECA13,,,,,,,,,
+,Radiolocaţie,ECA14,,,,,,,,,
+,,ECA36,,,,,,,,,
+,5.323,,,,,,,,,,
+,,,,,,"ERC/REC 70-03
+EN 300 220
+EN 303 659
+Decizia 2018/1538/UE",,,,,
+,,,,,,"ERC/REC 70-03
+EN 302 208
+Decizia 2018/1538/UE",,,,,
+,,,,,,"ERC/REC 70-03
+EN 303 659
+Decizia 2018/1538/UE",,,,,
+"921,0000 – 925,0000",RADIODIFUZIUNE 5.322,MOBIL,,,"Sisteme militare terestre Sisteme militare maritime
+GSM-R (în banda 915-921 MHz, pereche cu 876-880 MHz )","Decizia 1999/569/CE ECC/DEC/(02)05 ECC/REC/(05)08
+EN 301 502
+EN 301 511",,,,G(A)/NG,
+,FIX,Radiolocatie,,,,,,,,,
+,"MOBIL cu excepţia mobil
+aeronautic 5.317A",5.323,,,,,,,,,
+,Radiolocaţie,ECA13,,,,,,,,,
+,,ECA14,,,,,,,,,
+,5.323,ECA36,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+"925,0000 – 942,0000","RADIODIFUZIUNE 5.322 FIX
+MOBIL cu excepţia mobil
+aeronautic 5.317A
+Radiolocaţie",MOBIL 5.317A ECA32,,,GSM (în banda 925-942 MHz pereche cu 880-897 MHz) ECA32,"Directiva 87/372/CEE modificată prin Directiva 2009/114/CE ERC/DEC/(94)01 ERC/DEC/(97)02
+ECC/REC/(05)08",,,,NG,
+,,,,,,ECC/REC/(08)02,,,,,
+,5.323,,,,,"EN 301 502
+EN 301 511",,,,,
+,,,,,,EN 301 908-18,,,,,
+,,,,,,EN 303 609,,,,,
+,,,,,IMT (UMTS; LTE; LTE-MTC;,Directiva 87/372/CEE,,,,,
+,,,,,LTE-eMTC; WiMAX; NB-IoT),modificată prin Directiva,,,,,
+,,,,,,2009/114/CE,,,,,
+,,,,,,Decizia 2009/766/CE,,,,,
+,,,,,,modificată prin Decizia CE,,,,,
+,,,,,,2011/251/UE,,,,,
+,,,,,,Decizia UE/2018/637,,,,,
+,,,,,,ECC/DEC/(06)13,,,,,
+,,,,,,ECC/REC/(08)02,,,,,
+,,,,,,EN 301 908,,,,,
+,,,,,MCV,Decizia 2010/166/UE,,,,,
+,,,,,,modificată prin Decizia,,,,,
+,,,,,,2017/191/UE,,,,,
+,,,,,,Rec. 2010/167/UE,,,,,
+,,,,,,ECC/DEC/(08)08,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+"942,0000 – 960,0000","RADIODIFUZIUNE 5.322 FIX
+MOBIL cu exceptia mobil aeronautic 5.317A",MOBIL 5.317A ECA32,,,"GSM (banda 942-960 MHz pentru emisia stației de bază, pereche cu 897-915 MHz)
+ECA 32",Directiva 87/372/CEE modificată prin Directiva 2009/114/CE ERC/DEC/(94)01 ERC/DEC/(97)02,,,,NG,
+,,,,,,ECC/REC/(05)08,,,,,
+,5.323,,,,,ECC/REC/(08)02 EN 301 502,,,,,
+,,,,,,EN 301 511,,,,,
+,,,,,,EN 301 908-18,,,,,
+,,,,,,EN 303 609,,,,,
+,,,,,IMT (UMTS; LTE; LTE-MTC;,Directiva 87/372/CEE,,,,,
+,,,,,LTE-eMTC; WiMAX; NB-IoT),modificată prin Directiva,,,,,
+,,,,,,2009/114/CE,,,,,
+,,,,,,Decizia 2009/766/CE,,,,,
+,,,,,,modificată prin Decizia CE,,,,,
+,,,,,,2011/251/UE,,,,,
+,,,,,,Decizia UE/2018/637,,,,,
+,,,,,,ECC/DEC/(06)13,,,,,
+,,,,,,ECC/REC/(08)02,,,,,
+,,,,,,EN 301 908,,,,,
+,,,,,MCV,Decizia CE 2010/166/UE,,,,,
+,,,,,,modificată prin Decizia,,,,,
+,,,,,,2017/191/UE,,,,,
+,,,,,,Rec. 2010/167/UE,,,,,
+,,,,,,ECC/DEC/(08)08,,,,,
+,,,,,,,,,,,
+,,,,Aplicaţii posibile,,,Reglementări aplicabile/ Documente de referință,,,,
+"960,00 – 1164,00",MOBIL AERONAUTIC (R) 5.327A,MOBIL AERONAUTIC (R) 5.327A,,"Sisteme aeronautice (inclusiv DME
+și SSR)",,,,,G(A)/NG,,
+,"RADIONAVIGAŢIE
+AERONAUTICĂ  5.328
+5.328AA","RADIONAVIGAŢIE
+AERONAUTICĂ  5.328
+MOBIL AERONAUTIC PRIN SATELIT (R)",,"Sisteme militare aeronautice (inclusiv JTIDS/MIDS și TACAN în diferite subbenzi cuprinse între 108,7 - 1092,3 MHz)",,,,,,,
+,,5.328AA,,,,,,,,,
+,,ECA36,,,,,,,,,
+"1164,00 – 1215,00","RADIONAVIGAŢIE
+AERONAUTICĂ  5.328","RADIONAVIGAŢIE
+AERONAUTICĂ  5.328",,"Sisteme aeronautice (inclusiv DME
+și SSR)",,,,,G(A)/NG,,
+,"RADIONAVIGAŢIE PRIN
+SATELIT (spaţiu–Pământ) (spaţiu–spaţiu)  5.328B","RADIONAVIGAŢIE PRIN
+SATELIT (spaţiu–Pământ) (spaţiu–spaţiu)  5.328B",,GALILEO (în banda 1164 – 1214 MHz),,,EN 303 413,,,,
+,5.328A,5.328A,,"GLONASS (în banda 1190,3 –
+1213,8 MHz)",,,EN 303 413,,,,
+,,ECA36,,Repetoare GNSS (în banda 1164- 1300 MHz,,,ECC/REC/(10)02 EN 302 645,,,,
+,,,,Sisteme militare aeronautice (inclusiv JTIDS/MIDS),,,,,,,
+,,,,Sisteme spațiale (militar),,,,,,,
+"1215,00 – 1240,00","EXPLORAREA PĂMÂNTULUI
+PRIN SATELIT (activ)","EXPLORAREA PĂMÂNTULUI
+PRIN SATELIT (activ)",,Senzori activi (prin satelit),,,,,G(A)/NG,,
+,"RADIOLOCAŢIE
+RADIONAVIGAŢIE PRIN
+SATELIT (spaţiu–Pământ) (spaţiu–spaţiu)  5.328B  5.329 5.329A","RADIOLOCAŢIE
+RADIONAVIGAŢIE PRIN
+SATELIT (spaţiu–Pământ) (spaţiu–spaţiu)  5.328B  5.329 5.329A",,"GLONASS (în banda 1237,8 –
+1253,8 MHz)
+Repetoare GNSS (în banda 1164- 1300 MHz",,,"EN 303 413
+ECC/REC/(10)02 EN 302 645",,,,
+,CERCETARE SPAŢIALĂ (activ),CERCETARE SPAŢIALĂ (activ),,"GPS (în banda 1215,6–1239,6 MHz)",,,EN 303 413,,,,
+,5.331  5.332,"5.331  5.332
+ECA36",,"Radiolocație (civil) – sisteme radar
+și de navigație",,,,,,,
+,,,,Radiolocație (militar),,,,,,,
+,,,,Sisteme spațiale (militar),,,,,,,
+,,,,,,,,,,,
+,,,,Aplicaţii posibile,,,Reglementări aplicabile/ Documente de referință,,,,
+"1240,00 – 1300,00","EXPLORAREA PĂMÂNTULUI
+PRIN SATELIT (activ)","EXPLORAREA PĂMÂNTULUI
+PRIN SATELIT (activ)",,Amator,,,EN 301 783,,G(A)/NG,,
+,"RADIOLOCAŢIE
+RADIONAVIGAŢIE PRIN
+SATELIT (spaţiu–Pământ) (spaţiu–spaţiu)  5.328B  5.329 5.329A
+CERCETARE SPAŢIALĂ (activ)","RADIOLOCAŢIE
+RADIONAVIGAŢIE PRIN
+SATELIT (spaţiu–Pământ) (spaţiu–spaţiu)  5.328B  5.329 5.329A
+CERCETARE SPAŢIALĂ (activ)",,"Amator prim satelit (în banda 1260- 1270 MHz)
+Senzori activi (prin satelit)
+GALILEO (în banda 1260-1300 MHz)",,,EN 303 413,,,,
+,"Amator
+5.282  5.331  5.332  5.335A","Amator
+Amator prin satelit",,"GLONASS (în banda 1237,8 –
+1253,8 MHz)",,,EN 303 413,,,,
+,,"5.282  5.331  5.332  5.335A
+ECA36",,Repetoare GNSS (în banda 1164- 1300 MHz),,,ECC/REC/(10)02 EN 302 645,,,,
+,,,,"Radiolocație (civil) – sisteme radar
+și de navigație",,,,,,,
+,,,,Radare pentru profile de vânt (în banda 1270-1295 MHz),,,,,,,
+,,,,Radiolocație (militar),,,,,,,
+,,,,Sisteme spațiale (militar),,,,,,,
+"1300,00 – 1350,00","RADIONAVIGAŢIE
+AERONAUTICĂ  5.337","RADIONAVIGAŢIE
+AERONAUTICĂ  5.337",,"Radioastronomie – observaţii în domeniul continuu și în linii spectrale (de exemplu, linia neutră a hidrogenului); VLBI
+Radiolocație (civil) – sisteme radar
+și de navigație
+Sisteme de navigaţie prin satelit Radiolocație (militar)
+Sisteme spațiale (militar)",,,,,G(A)/NG,,
+,RADIOLOCAŢIE,RADIOLOCAŢIE,,,,,,,,,
+,"RADIONAVIGAŢIE PRIN
+SATELIT (Pământ–spaţiu)","RADIONAVIGAŢIE PRIN
+SATELIT (Pământ–spaţiu)",,,,,,,,,
+,5.149  5.337A,5.149  5.337A,,,,,,,,,
+,,ECA36,,,,,,,,,
+"1350,00 – 1362,50","FIX MOBIL
+RADIOLOCAŢIE
+5.149  5.338  5.338A 5.339","FIX MOBIL
+RADIOLOCAŢIE
+5.149  5.338  5.338A 5.339",,"Linii fixe de capacitate mică (în banda 1350 – 1375 MHz)
+Radioastronomie – observaţii în domeniul continuu și în linii spectrale (de exemplu, linia neutră a
+hidrogenului); VLBI",,,"T/R 13–01
+EN 302 217",,NG,,
+,,,,,,,,,,,
+,,,,Aplicaţii posibile,,,Reglementări aplicabile/ Documente de referință,,,,
+"1362,50 – 1400,00","FIX
+MOBIL","FIX
+MOBIL",,"Linii fixe de capacitate mică (în banda 1350 – 1375 MHz și 1375 –
+1400 MHz)
+Radioastronomie – observaţii în domeniul continuu și în linii spectrale (de exemplu, linia neutră a hidrogenului); VLBI
+Sisteme militare aeronautice Sisteme militare maritime Sisteme militare terestre
+Radiolocație (militar)",,,"T/R 13–01
+EN 302 217",,G(A)/NG,,
+,RADIOLOCAŢIE,RADIOLOCAŢIE,,,,,,,,,
+,5.149  5.338  5.338A  5.339,5.149  5.338  5.338A  5.339,,,,,,,,,
+,,ECA36,,,,,,,,,
+"1400,00 – 1427,00","EXPLORAREA PĂMÂNTULUI
+PRIN SATELIT (pasiv) RADIOASTRONOMIE
+CERCETARE SPAŢIALĂ (pasiv)","EXPLORAREA PĂMÂNTULUI
+PRIN SATELIT (pasiv) RADIOASTRONOMIE
+CERCETARE SPAŢIALĂ (pasiv)",,"Senzori pasivi (prin satelit) – pentru măsurarea umidităţii solului, a salinităţii, a temperaturii suprafeţei oceanului, a indicelui de vegetaţie",,,,,G(A)/NG,,
+,5.340  5.341,5.340  5.341,,"Radioastronomie – observaţii în domeniul continuu și în linii spectrale (de exemplu, linia neutră a hidrogenului); VLBI",,,,,,,
+,,,,Sisteme militare,,,,,,,
+"1427,00 – 1429,00",FIX,FIX,,"Sisteme militare terestre Sisteme militare maritime
+Linii fixe de capacitate mică (în
+banda 1427 – 1452 MHz)
+Sisteme terestre capabile să furnizeze servicii de comunicații electronice (rețele MFCN) (emisia stației de bază pentru legătura descendentă suplimentară - SDL) IMT
+LTE NR",,,,,G(A)/NG,,
+,"MOBIL cu excepţia mobil
+aeronautic 5.341A
+EXPLOATARE SPAŢIALĂ
+(Pământ–spaţiu)
+5.338A  5.341","MOBIL cu excepţia mobil
+aeronautic
+EXPLOATARE SPAŢIALĂ
+(Pământ–spaţiu)",,,,,"T/R 13–01
+EN 302 217
+Decizia (UE) 2018/661 ECC/DEC/(17)06",,,,
+,,5.338A  5.341,,,,,,,,,
+,,ECA36,,,,,,,,,
+,,,,,,,EN 301 908,,,,
+,,,,,,,,,,,
+,,,,Aplicaţii posibile,,,Reglementări aplicabile/ Documente de referință,,,,
+"1429,00 – 1452,00","FIX
+MOBIL cu excepţia mobil
+aeronautic 5.341A
+5.338A  5.341  5.342","FIX
+MOBIL cu excepţia mobil
+aeronautic 5.341A
+5.338A  5.341",,"Sisteme militare terestre Sisteme militare maritime
+Linii fixe de capacitate mică (în
+banda 1427 – 1452 MHz)",,,"T/R 13–01
+EN 302 217",,G(A)/NG,,
+,,ECA36,,"Sisteme terestre capabile să furnizeze servicii de comunicații electronice (rețele MFCN) (emisia stației de bază pentru legătura descendentă suplimentară - SDL) IMT
+LTE NR",,,"Decizia (UE) 2018/661 ECC/DEC/(17)06
+EN 301 908",,,,
+"1452,00 – 1492,00",FIX,MOBIL cu excepţia mobil,,"Sisteme terestre capabile să furnizeze servicii de comunicații electronice (rețele MFCN) (emisia stației de bază pentru legătura descendentă suplimentară - SDL) IMT
+LTE
+NR",,,Decizia    (UE)    2015/750,,NG,,
+,"MOBIL cu excepţia mobil
+aeronautic RADIODIFUZIUNE
+RADIODIFUZIUNE PRIN","aeronautic
+5.341",,,,,modificată    prin    Decizia (UE) 2018/661 ECC/DEC/(13)03 ECC/REC/(15)01,,,,
+,SATELIT  5.208B,,,,,,EN 301 908-1,,,,
+,,,,,,,EN 301 908-13,,,,
+,5.341  5.342  5.345,,,,,,"EN 301 901-14
+EN 301 908-15",,,,
+,,,,,,,EN 301 901-18,,,,
+"1492,00 – 1504,50","FIX
+MOBIL cu excepţia mobil
+aeronautic  5.341A 5.341  5.342","FIX
+MOBIL cu excepţia mobil
+aeronautic 5.341A 5.341",,"Linii fixe de capacitate mică (în banda 1492 – 1517 MHz)
+Sisteme terestre capabile să furnizeze servicii de comunicații electronice (rețele MFCN) (emisia stației de bază pentru legătura descendentă suplimentară – SDL în banda 1492-1517 MHz)
+IMT LTE NR",,,"T/R 13–01
+EN 302 217
+Decizia (UE) 2018/661 ECC/DEC/(17)06
+EN 301 908",,NG,,
+,,,,,,,,,,,
+,,,,Aplicaţii posibile,,,Reglementări aplicabile/ Documente de referință,,,,
+"1504,50 – 1518,00","FIX
+MOBIL cu excepţia mobil
+aeronautic  5.341A
+5.341  5.342","FIX
+MOBIL cu excepţia mobil
+aeronautic 5.341A
+5.341",,"Sisteme militare terestre Sisteme militare maritime
+Linii fixe de capacitate mică (în banda 1492 – 1517 MHz)",,,"T/R 13–01
+EN 302 217",,G(A)/NG,,
+,,ECA36,,"Sisteme terestre capabile să furnizeze servicii de comunicații electronice (rețele MFCN) (emisia stației de bază pentru legătura descendentă suplimentară – SDL în banda 1492-1517 MHz)
+IMT LTE NR",,,"Decizia (UE) 2018/661 ECC/DEC/(17)06
+EN 301 908",,,,
+,,,,Linii fixe unidirecționale (în banda 1517 – 1530 MHz),,,EN 302 217,,,,
+"1518,00 – 1525,00","FIX
+MOBIL cu excepţia mobil
+aeronautic
+MOBIL PRIN SATELIT (spaţiu – Pământ)  5.348  5.348A  5.348B 5.351A","FIX
+MOBIL cu excepţia mobil
+aeronautic
+MOBIL PRIN SATELIT (spaţiu – Pământ)  5.348  5.348A  5.348B 5.351A",,"Stații de sol în serviciul mobil prin satelit
+Componenta satelitară a IMT-2000",,,"ECC/DEC/(04)09 EN 301 444
+EN 301 473
+EN 301 681",,G(A)/NG,,
+,,,,Linii fixe unidirecționale,,,EN 302 217,,,,
+,5.341  5.342,"5.341
+ECA36",,Sisteme militare maritime,,,,,,,
+,,,,Sisteme militare terestre,,,,,,,
+"1525,00 – 1530,00",FIX,FIX,,"Stații de sol în serviciul mobil prin satelit
+Componenta satelitară a IMT-2000 Linii fixe unidirecționale",,,"EN 301 426
+EN 301 444
+EN 301 473
+EN 301 681
+EN 302 217",,NG,,
+,MOBIL PRIN SATELIT (spaţiu– Pământ)  5.208B  5.351A,MOBIL PRIN SATELIT (spaţiu– Pământ)  5.208B  5.351A,,,,,,,,,
+,"EXPLOATARE SPAŢIALĂ
+(spaţiu–Pământ)","EXPLOATARE SPAŢIALĂ
+(spaţiu–Pământ)",,,,,,,,,
+,"Explorarea Pământului prin
+satelit",,,,,,,,,,
+,"Mobil cu excepţia mobil
+aeronautic  5.349",5.341  5.351  5.354,,,,,,,,,
+,5.341  5.342  5.351  5.354,,,,,,,,,,
+,,,,,,,,,,,
+,,,,Aplicaţii posibile,,,Reglementări aplicabile/ Documente de referință,,,,
+"1530,00 – 1535,00","MOBIL PRIN SATELIT (spaţiu– Pământ) 5.208B  5.351A  5.353A
+EXPLOATARE SPAŢIALĂ
+(spaţiu–Pământ)
+Explorarea Pământului prin
+satelit Fix
+Mobil cu excepţia mobil
+aeronautic
+5.341  5.342  5.351  5.354","MOBIL PRIN SATELIT (spaţiu– Pământ) 5.208B  5.351A  5.353A
+EXPLOATARE SPAŢIALĂ
+(spaţiu–Pământ)
+Explorarea Pământului prin satelit
+Fix
+Mobil cu excepţia mobil
+aeronautic
+5.341  5.351  5.354",,"Stații de sol în serviciul mobil prin satelit – cu prioritate pentru comunicaţiile GMDSS de primejdie, urgenţă şi siguranţă a vieţii, precum și pentru categoriile de comunicații 1 la 6 din serviciul mobil aeronautic prin satelit (R)
+Componenta satelitară a IMT-2000",,,"EN 301 426
+EN 301 444
+EN 301 473
+EN 301 681",,NG,,
+"1535,00 – 1550,00","MOBIL PRIN SATELIT (spaţiu– Pământ) 5.208B  5.351A  5.353A
+5.341  5.351  5.354  5.356  5.357
+5.357A","MOBIL PRIN SATELIT (spaţiu– Pământ) 5.208B  5.351A  5.353A
+5.341  5.351  5.354  5.356  5.357
+5.357A",,"Stații de sol în serviciul mobil prin satelit – cu prioritate pentru comunicaţiile GMDSS de primejdie, urgenţă şi siguranţă a vieţii, precum și pentru categoriile de comunicații 1 la 6 din serviciul mobil aeronautic prin satelit (R) (în banda 1544-1545 MHz)",,,"EN 301 426
+EN 301 444
+EN 301 473
+EN 301 681",,NG,,
+,,,,Componenta satelitară a IMT-2000,,,,,,,
+"1550,00 – 1559,00",MOBIL PRIN SATELIT (spaţiu– Pământ) 5.208B  5.351A  5.353A,"MOBIL PRIN SATELIT (spaţiu– Pământ) 5.208B  5.351A  5.353A
+FIX  5.359",,Stații de sol în serviciul mobil prin satelit,,,"EN 301 426
+EN 301 444
+EN 301 473
+EN 301 681",,G(A)/NG,,
+,"5.341  5.351  5.354  5.356  5.357
+5.357A  5.359","5.341  5.351  5.354  5.356  5.357
+5.357A",,Componenta satelitară a IMT-2000,,,,,,,
+,,,,Sisteme militare,,,,,,,
+,,,,,,,,,,,
+,,,,Aplicaţii posibile,,,Reglementări aplicabile/ Documente de referință,,,,
+"1559,00 – 1610,00",RADIONAVIGAŢIE AERONAUTICĂ,RADIONAVIGAŢIE AERONAUTICĂ,,"GALILEO (în banda 1559,42 –
+1591,42 MHz)",,,EN 303 413,,G(A)/NG,,
+,"RADIONAVIGAŢIE PRIN
+SATELIT (spaţiu–Pământ) (spaţiu–spaţiu)  5.208B  5.328B 5.329A","RADIONAVIGAŢIE PRIN
+SATELIT (spaţiu–Pământ) (spaţiu–spaţiu)  5.208B  5.328B 5.329A",,"GLONASS (în banda 1592,9 –
+1610,5 MHz)
+GPS (în banda 1563,42 – 1587,42 MHz)",,,"EN 303 413
+EN 303 413",,,,
+,5.341,5.341,,Pseudoliți GNSS,,,ECC/REC/(11)08,,,,
+,,,,Repetoare GNSS,,,ECC/REC/(10)02 EN 302 645,,,,
+,,,,Sisteme militare,,,,,,,
+,,,,"Aplicaţii de bandă ultralargă (UWB generic) (în banda 1600–10600 MHz)
+(Nota 8)",,,"ECC/DEC/(06)04 EN 302 065
+Decizia 2007/131/CE (Nota 7)",,,,
+"1610,00 – 1610,60",RADIONAVIGAŢIE AERONAUTICĂ,RADIONAVIGAŢIE AERONAUTICĂ,,"GLONASS (în banda 1592,9 –
+1610,5 MHz)",,,,,G(A)/NG,,
+,"MOBIL PRIN SATELIT (Pământ–
+spaţiu)  5.351A","MOBIL PRIN SATELIT (Pământ–
+spaţiu)  5.351A FIX  5.359",,"Stații de sol în serviciul mobil prin
+satelit",,,"ECC/DEC/(09)02 EN 301 441
+EN 301 473",,,,
+,"5.341  5.359  5.364  5.366  5.367
+5.368  5.371  5.372","5.341  5.364  5.366  5.367  5.368
+5.371  5.372",,"Componenta satelitară a IMT-2000
+Sisteme militare",,,,,,,
+,,,,"Aplicaţii de bandă ultralargă (UWB generic) (în banda 1600–10600 MHz)
+(Nota 8)",,,"ECC/DEC/(06)04 EN 302 065
+Decizia 2007/131/CE (Nota 7)",,,,
+,,,,,,,,,,,
+,,,,Aplicaţii posibile,,,Reglementări aplicabile/ Documente de referință,,,,
+"1610,60 – 1613,80","RADIONAVIGAŢIE
+AERONAUTICĂ
+MOBIL PRIN SATELIT (Pământ–
+spaţiu)  5.351A","RADIONAVIGAŢIE AERONAUTICĂ
+MOBIL PRIN SATELIT (Pământ–
+spaţiu)  5.351A",,"Stații de sol în serviciul mobil prin satelit
+Componenta satelitară a IMT-2000
+Radioastronomie – observaţii linii spectrale (de exemplu, linia de hidroxil); VLBI
+Sisteme militare
+Aplicaţii de bandă ultralargă (UWB generic) (în banda 1600–10600 MHz)
+(Nota 8)",,,"ECC/DEC/(09)02 EN 301 441
+EN 301 473",,G(A)/NG,,
+,RADIOASTRONOMIE,RADIOASTRONOMIE,,,,,,,,,
+,,FIX  5.359,,,,,,,,,
+,"5.149  5.341  5.359  5.364  5.366
+5.367  5.368  5.371  5.372","5.149  5.341  5.364  5.366  5.367
+5.368  5.371  5.372",,,,,,,,,
+,,,,,,,"ECC/DEC/(06)04 EN 302 065
+Decizia 2007/131/CE (Nota 7)",,,,
+"1613,80 – 1626,50","RADIONAVIGAŢIE AERONAUTICĂ
+MOBIL PRIN SATELIT (Pământ–
+spaţiu)  5.351A
+Mobil prin satelit (spaţiu– Pământ)  5.208B","RADIONAVIGAŢIE AERONAUTICĂ
+MOBIL PRIN SATELIT (Pământ–
+spaţiu)  5.351A
+Mobil prin satelit (spaţiu–Pământ)
+5.208B
+FIX  5.359",,"Stații de sol în serviciul mobil prin satelit
+Componenta satelitară a IMT-2000",,,"ECC/DEC/(09)02 ECC/DEC/(09)04 EN 301 426
+EN 301 441
+EN 301 473",,G(A)/NG,,
+,,,,Sisteme militare,,,,,,,
+,"5.341  5.359  5.364  5.365  5.366
+5.367  5.368  5.371  5.372","5.341 5.364  5.365  5.366  5.367
+5.368  5.371  5.372",,"Aplicaţii de bandă ultralargă (UWB generic) (în banda 1600–10600 MHz)
+(Nota 8)",,,"ECC/DEC/(06)04 EN 302 065
+Decizia 2007/131/CE (Nota 7)",,,,
+,,,,,,,,,,,
+,,,,Aplicaţii posibile,,,Reglementări aplicabile/ Documente de referință,,,,
+"1626,50 – 1660,00","MOBIL PRIN SATELIT (Pământ–
+spaţiu)  5.351A  5.353A
+5.341  5.351  5.354  5.357A
+5.359  5.374  5.375  5.376","MOBIL PRIN SATELIT (Pământ–
+spaţiu)  5.351A  5.353A FIX  5.359
+5.341  5.351  5.354  5.357A
+5.374  5.375  5.376",,"Stații de sol în serviciul mobil prin satelit – cu prioritate pentru comunicaţiile GMDSS de primejdie, urgenţă şi siguranţă a vieţii, precum și pentru categoriile de comunicații 1 la 6 din serviciul mobil aeronautic prin satelit (R) (în banda 1645,5- 1646,5 MHz)",,,"EN 301 426
+EN 301 473
+EN 301 681",,G(A)/NG,,
+,,,,Componenta satelitară a IMT-2000,,,,,,,
+,,,,"Sisteme de audiţie asistată (în
+banda 1656,5-1660,5 MHz)",,,"ERC/REC 70-03
+EN 300 422",,,,
+,,,,Sisteme militare,,,,,,,
+,,,,"Aplicaţii de bandă ultralargă (UWB generic) (în banda 1600–10600 MHz)
+(Nota 8)",,,"ECC/DEC/(06)04 EN 302 065
+Decizia 2007/131/CE (Nota 7)",,,,
+"1660,00 – 1660,50","MOBIL PRIN SATELIT (Pământ–
+spaţiu)  5.351A RADIOASTRONOMIE","MOBIL PRIN SATELIT (Pământ–
+spaţiu)  5.351A RADIOASTRONOMIE",,Stații de sol în serviciul mobil prin satelit,,,"EN 301 426
+EN 301 444
+EN 301 473
+EN 301 681",,NG,,
+,"5.149  5.341  5.351  5.354
+5.376A","5.149  5.341  5.351  5.354
+5.376A",,"Radioastronomie – observații în domeniul continuu și în linii spectrale (de exemplu, linia de hidroxil); VLBI",,,,,,,
+,,,,Componenta satelitară a IMT-2000,,,,,,,
+,,,,"Sisteme de audiţie asistată (în
+banda 1656,5-1660,5 MHz)",,,"ERC/REC 70-03
+EN 300 422",,,,
+,,,,"Aplicaţii de bandă ultralargă (UWB generic) (în banda 1600–10600 MHz)
+(Nota 8)",,,"ECC/DEC/(06)04 EN 302 065
+Decizia 2007/131/CE (Nota 7)",,,,
+,,,,,,,,,,,
+,,,,Aplicaţii posibile,,,Reglementări aplicabile/ Documente de referință,,,,
+"1660,50 – 1668,00",RADIOASTRONOMIE,RADIOASTRONOMIE,,"Radioastronomie – observații în domeniul continuu și în linii spectrale (de exemplu, linia de hidroxil); VLBI
+Sisteme militare
+Aplicaţii de bandă ultralargă (UWB generic) (în banda 1600–10600 MHz)
+(Nota 8)",,,"ECC/DEC/(06)04 EN 302 065
+Decizia 2007/131/CE (Nota 7)",,G(A)/NG,,
+,CERCETARE SPAŢIALĂ (pasiv),CERCETARE SPAŢIALĂ (pasiv),,,,,,,,,
+,Fix,Fix,,,,,,,,,
+,"Mobil cu excepţia mobil
+aeronautic","Mobil cu excepţia mobil
+aeronautic",,,,,,,,,
+,5.149  5.341  5.379A,5.149  5.341  5.379A,,,,,,,,,
+"1668,00 – 1668,40",MOBIL PRIN SATELIT (Pământ– spaţiu)  5.351A  5.379B  5.379C,MOBIL PRIN SATELIT (Pământ– spaţiu)  5.351A  5.379B  5.379C,,"Radioastronomie – observații în domeniul continuu și în linii spectrale (de exemplu, linia de hidroxil); VLBI
+Componenta satelitară a IMT-2000 Sisteme militare
+Aplicaţii de bandă ultralargă (UWB generic) (în banda 1600–10600 MHz)
+(Nota 8)",,,,,G(A)/NG,,
+,RADIOASTRONOMIE,RADIOASTRONOMIE,,,,,,,,,
+,CERCETARE SPAŢIALĂ (pasiv),CERCETARE SPAŢIALĂ (pasiv),,,,,,,,,
+,Fix,Fix,,,,,EN 301 473,,,,
+,"Mobil cu excepţia mobil
+aeronautic","Mobil cu excepţia mobil
+aeronautic",,,,,,,,,
+,5.149  5.341  5.379A,5.149  5.341  5.379A,,,,,"ECC/DEC/(06)04 EN 302 065
+Decizia 2007/131/CE (Nota 7)",,,,
+"1668,40 – 1670,00",FIX,FIX,,"Sisteme pentru meteorologie
+Radioastronomie – observații în domeniul continuu și în linii spectrale (de exemplu, linia de hidroxil); VLBI
+Componenta satelitară a IMT-2000 Sisteme militare
+Aplicaţii de bandă ultralargă (UWB generic) (în banda 1600–10600 MHz)
+(Nota 8)",,,EN 302 454,,G(A)/NG,,
+,AUXILIAR METEOROLOGIC,AUXILIAR METEOROLOGIC,,,,,,,,,
+,MOBIL cu excepţia mobil aeronautic,"MOBIL cu excepţia mobil
+aeronautic",,,,,,,,,
+,MOBIL PRIN SATELIT (Pământ– spaţiu)  5.351A  5.379B  5.379C,MOBIL PRIN SATELIT (Pământ– spaţiu)  5.351A  5.379B  5.379C,,,,,,,,,
+,RADIOASTRONOMIE,RADIOASTRONOMIE,,,,,EN 301 473,,,,
+,5.149  5.341  5.379D  5.379E,5.149  5.341  5.379D  5.379E,,,,,,,,,
+,,,,,,,"ECC/DEC/(06)04 EN 302 065
+Decizia 2007/131/CE (Nota 7)",,,,
+,,,,,,,,,,,
+,,,,Aplicaţii posibile,,,Reglementări aplicabile/ Documente de referință,,,,
+"1670,00 – 1675,00",FIX,FIX,,Sisteme pentru meteorologie,,,"EN 302 454
+ECC/DEC/(04)09 EN 301 444
+EN 301 473
+EN 301 681
+ECC/DEC/(06)04 EN 302 065
+Decizia 2007/131/CE (Nota 7)",,NG,,
+,"AUXILIAR METEOROLOGIC
+METEOROLOGIC PRIN
+SATELIT (spaţiu–Pământ)","AUXILIAR METEOROLOGIC
+METEOROLOGIC PRIN
+SATELIT (spaţiu–Pământ)",,Stații de sol în serviciul mobil prin satelit,,,,,,,
+,MOBIL,MOBIL,,,,,,,,,
+,"MOBIL PRIN SATELIT (Pământ–
+spaţiu)  5.351A  5.379B","MOBIL PRIN SATELIT (Pământ–
+spaţiu)  5.351A  5.379B",,Componenta satelitară a IMT-2000,,,,,,,
+,5.341  5.379D  5.379E  5.380A,5.341  5.379D  5.379E  5.380A,,Sateliți meteorologici,,,,,,,
+,,,,"Aplicaţii de bandă ultralargă (UWB generic) (în banda 1600–10600 MHz)
+(Nota 8)",,,,,,,
+"1675,00 – 1690,00",FIX,FIX,,Sonde (radiosonde meteorologice),,,EN 302 454,,G(A)/NG,,
+,"AUXILIAR METEOROLOGIC
+METEOROLOGIC PRIN
+SATELIT (spaţiu–Pământ)","AUXILIAR METEOROLOGIC
+METEOROLOGIC PRIN
+SATELIT (spaţiu–Pământ)",,Sateliți meteorologici – platforme pentru colectarea datelor,,,,,,,
+,"MOBIL cu excepţia mobil
+aeronautic","MOBIL cu excepţia mobil
+aeronautic",,Auxiliar meteorologic (militar),,,,,,,
+,,,,Sisteme militare terestre,,,,,,,
+,5.341,5.341,,Sisteme militare maritime,,,,,,,
+,,ECA36,,"Aplicaţii de bandă ultralargă (UWB generic) (în banda 1600–10600 MHz)
+(Nota 8)",,,"ECC/DEC/(06)04 EN 302 065
+Decizia 2007/131/CE (Nota 7)",,,,
+"1690,00 – 1700,00",AUXILIAR METEOROLOGIC,AUXILIAR METEOROLOGIC,,"Sateliți meteorologici – platforme pentru colectarea datelor)
+Auxiliar meteorologic (militar) Sisteme militare terestre Sisteme militare maritime
+Aplicaţii de bandă ultralargă (UWB generic) (în banda 1600–10600 MHz)
+(Nota 8)",,,"ECC/DEC/(06)04 EN 302 065
+Decizia 2007/131/CE (Nota 7)",,G(A)/NG,,
+,"METEOROLOGIC PRIN
+SATELIT (spaţiu–Pământ)","METEOROLOGIC PRIN
+SATELIT (spaţiu–Pământ)",,,,,,,,,
+,Fix,FIX,,,,,,,,,
+,"Mobil cu excepţia mobil
+aeronautic","MOBIL cu excepţia mobil
+aeronautic",,,,,,,,,
+,5.289  5.341  5.382,5.289  5.341  5.382,,,,,,,,,
+,,ECA36,,,,,,,,,
+,,,,,,,,,,,
+,,,,Aplicaţii posibile,,,Reglementări aplicabile/ Documente de referință,,,,
+"1700,00 – 1710,00","FIX
+METEOROLOGIC PRIN
+SATELIT (spaţiu–Pământ)
+MOBIL cu excepţia mobil
+aeronautic
+5.289  5.341","FIX
+METEOROLOGIC PRIN
+SATELIT (spaţiu–Pământ)
+MOBIL cu excepţia mobil
+aeronautic
+5.289  5.341
+ECA36",,"Sateliți meteorologici – platforme pentru colectarea datelor)
+Auxiliar meteorologic (militar) Sisteme militare terestre Sisteme militare maritime
+Aplicaţii de bandă ultralargă (UWB generic) (în banda 1600–10600 MHz)
+(Nota 8)",,,"ECC/DEC/(06)04 EN 302 065
+Decizia 2007/131/CE (Nota 7)",,G(A)/NG,,
+,,,,,,,,,,,
+,,,,Aplicaţii posibile,,,Reglementări aplicabile/ Documente de referință,,,,
+"1710,00 – 1785,00",FIX,MOBIL  5.384A,,Sisteme terestre capabile să,,,Decizia 2009/766/CE mod,,NG,,
+,MOBIL  5.384A,,,"furnizeze servicii de comunicații
+electronice (banda 1710-1785 MHz",,,"prin Decizia 2011/251/UE
+și prin Decizia (UE)",,,,
+,,5.149  5.341  5.385  5.387,,"pentru emisia stației mobile,
+pereche cu 1805-1880 MHz):",,,2018/637,,,,
+,5.149  5.341  5.385  5.387,,,"GSM
+EC-GSM-IoT",,,ERC/DEC/(95)03 ECC/REC/(05)08,,,,
+,,,,,,,ECC/REC/(08)02,,,,
+,,,,,,,EN 301 502,,,,
+,,,,,,,EN 301 511,,,,
+,,,,,,,EN 303 609,,,,
+,,,,IMT,,,ECC/DEC/(06)13,,,,
+,,,,,,,ECC/REC/(08)02,,,,
+,,,,UMTS,,,EN 301 908-1,,,,
+,,,,,,,EN 301 908-2,,,,
+,,,,,,,EN 301 908-3,,,,
+,,,,,,,EN 301 908-11,,,,
+,,,,,,,EN 301 908-18,,,,
+,,,,LTE,,,EN 301 908-1,,,,
+,,,,LTE-MTC,,,EN 301 908-13,,,,
+,,,,LTE-eMTC,,,EN 301 908-14,,,,
+,,,,NB-IoT,,,EN 301 908-15,,,,
+,,,,,,,EN 301 908-18,,,,
+,,,,Wi MAX,,,EN 301 908-1,,,,
+,,,,,,,EN 301 908-21,,,,
+,,,,,,,EN 301 908-22,,,,
+,,,,NR,,,,,,,
+,,,,MCA,,,Decizia 2008/294/CE,,,,
+,,,,,,,(Nota 9),,,,
+,,,,,,,Rec. 2008/295/CE,,,,
+,,,,,,,ECC/DEC/(06)07,,,,
+,,,,,,,EN 302 480,,,,
+,,,,MCV,,,Decizia 2010/166/UE,,,,
+,,,,,,,(Nota 10),,,,
+,,,,,,,Rec. 2010/167/UE,,,,
+,,,,,,,ECC/DEC/(08)08,,,,
+,,,,Radioastronomie – observații linii,,,,,,,
+,,,,"spectrale (de exemplu, linia de",,,,,,,
+,,,,hidroxil); VLBI,,,,,,,
+,,,,Aplicaţii de bandă ultralargă (UWB,,,ECC/DEC/(06)04,,,,
+,,,,generic) (în banda 1600–10600,,,EN 302 065,,,,
+,,,,MHz),,,Decizia 2007/131/CE,,,,
+,,134,,(Nota 8),,,(Nota 7),,,,
+,,,,,,,,,,,
+,,,,Aplicaţii posibile,,,Reglementări aplicabile/ Documente de referință,,,,
+"1785,00 – 1800,00","FIX
+MOBIL  5.384A","FIX
+MOBIL  5.384A",,"PMSE audio (include radiomicrofoane în banda 1785- 1804,8 MHz)",,,"ERC/REC 70–03
+ERC/REC 25-10
+Decizia 2014/641/UE EN 300 422
+EN 301 357",,G(A)/NG,,
+,5.387,5.387,,,,,,,,,
+,,ECA36,,Mobil terestru (aplicații mobile),,,,,,,
+,,,,Aplicaţii audio pe suport radio (în banda 1795–1800 MHz),,,"ERC/REC 70–03
+EN 301 357",,,,
+,,,,"Aplicaţii de bandă ultralargă (UWB generic) (în banda 1600–10600 MHz)
+(Nota 8)",,,"ECC/DEC/(06)04 EN 302 065
+Decizia 2007/131/CE (Nota 7)",,,,
+,,,,Sisteme militare terestre,,,,,,,
+"1800,00 – 1805,00","FIX
+MOBIL  5.384A","FIX
+MOBIL  5.384A
+ECA36",,"PMSE audio (include radiomicrofoane în banda 1785- 1804,8 MHz)",,,"ERC/REC 70–03
+ERC/REC 25-10
+Decizia 2014/641/UE EN 300 422",,G(A)/NG,,
+,,,,"Aplicaţii de bandă ultralargă (UWB generic) (în banda 1600–10600 MHz)
+(Nota 8)",,,"ECC/DEC/(06)04 EN 302 065
+Decizia 2007/131/CE (Nota 7)",,,,
+,,,,Sisteme militare terestre,,,,,,,
+,,,,,,,,,,,
+,,,,Aplicaţii posibile,,,Reglementări aplicabile/ Documente de referință,,,,
+"1805,00 – 1880,00",FIX,MOBIL  5.384A,,Sisteme terestre capabile să,,,Decizia 2009/766/CE mod,,NG,,
+,MOBIL  5.384A,,,"furnizeze servicii de comunicații
+electronice (banda 1805-1880 MHz",,,"prin Decizia 2011/251/UE
+și prin Decizia (UE)",,,,
+,,,,"pentru emisia stației de bază,",,,2018/637,,,,
+,,,,pereche cu 1710-1785 MHz):,,,,,,,
+,,,,GSM,,,ERC/DEC/(95)03,,,,
+,,,,EC-GSM-IoT,,,ECC/REC/(05)08,,,,
+,,,,,,,ECC/REC/(08)02,,,,
+,,,,,,,EN 301 502,,,,
+,,,,,,,EN 301 511,,,,
+,,,,,,,EN 303 609,,,,
+,,,,IMT,,,ECC/DEC/(06)13,,,,
+,,,,,,,ECC/REC/(08)02,,,,
+,,,,UMTS,,,EN 301 908-1,,,,
+,,,,,,,EN 301 908-2,,,,
+,,,,,,,EN 301 908-3,,,,
+,,,,,,,EN 301 908-11,,,,
+,,,,,,,EN 301 908-18,,,,
+,,,,LTE,,,EN 301 908-1,,,,
+,,,,LTE-MTC,,,EN 301 908-13,,,,
+,,,,LTE-eMTC,,,EN 301 908-14,,,,
+,,,,NB-IoT,,,EN 301 908-15,,,,
+,,,,,,,EN 301 908-18,,,,
+,,,,WiMAX,,,EN 301 908-1,,,,
+,,,,,,,EN 301 908-21,,,,
+,,,,,,,EN 301 908-22,,,,
+,,,,NR,,,,,,,
+,,,,MCA,,,Decizia 2008/294/CE,,,,
+,,,,,,,(Nota 9),,,,
+,,,,,,,Rec. 2008/295/CE,,,,
+,,,,,,,ECC/DEC/(06)07,,,,
+,,,,,,,EN 302 480,,,,
+,,,,MCV,,,Decizia 2010/166/UE,,,,
+,,,,,,,(Nota 10),,,,
+,,,,,,,Rec. 2010/167/UE,,,,
+,,,,,,,ECC/DEC/(08)08,,,,
+,,,,Aplicaţii de bandă ultralargă (UWB,,,ECC/DEC/(06)04,,,,
+,,,,generic) (în banda 1600–10600,,,EN 302 065,,,,
+,,,,MHz),,,Decizia 2007/131/CE,,,,
+,,,,(Nota 8),,,(Nota 7),,,,
+,,,,,,,,,,,
+,,,,Aplicaţii posibile,,,Reglementări aplicabile/ Documente de referință,,,,
+"1880,00 – 1885,00","FIX
+MOBIL  5.384A","FIX
+MOBIL  5.384A",,DECT,,,"ERC/DEC/(94)03 ERC/REC 70-03
+EN 301 406
+EN 301 908
+Directiva 91/287/CEE Rec. 91/288/CEE",,NG,,
+,,,,"Aplicaţii de bandă ultralargă (UWB generic) (în banda 1600–10600 MHz)
+(Nota 8)",,,"ECC/DEC/(06)04 EN 302 065
+Decizia 2007/131/CE (Nota 7)",,,,
+"1885,00 – 1900,00","FIX
+MOBIL  5.388A  5.388B
+5.388","FIX
+MOBIL  5.388A
+5.388",,DECT,,,"ERC/DEC/(94)03 ERC/REC 70-03
+EN 301 406
+EN 301 908
+Directiva 91/287/CEE Rec. 91/288/CEE",,NG,,
+,,,,"Aplicaţii de bandă ultralargă (UWB generic) (în banda 1600–10600 MHz)
+(Nota 8)",,,"ECC/DEC/(06)04 EN 302 065
+Decizia 2007/131/CE (Nota 7)",,,,
+,,,,,,,,,,,
+,,,,Aplicaţii posibile,,,Reglementări aplicabile/ Documente de referință,,,,
+"1900,00 – 1930,00",FIX,MOBIL  5.388A,,Sisteme terestre capabile să,,,Decizia 2012/688/UE,,NG,,
+,MOBIL  5.388A  5.388B,,,furnizeze servicii de comunicații electronice (rețele MFCN) (banda,,,ECC/DEC/(06)01 ERC/REC/(01)01,,,,
+,,,,1920 -1980 MHz pentru emisia,,,,,,,
+,,,,"stației mobile, pereche cu 2110-",,,,,,,
+,5.388,5.388,,2170 MHz): IMT,,,,,,,
+,,,,UMTS,,,EN 301 908-1,,,,
+,,,,,,,EN 301 908-2,,,,
+,,,,,,,EN 301 908-3,,,,
+,,,,,,,EN 301 908-11,,,,
+,,,,,,,EN 301 908-18,,,,
+,,,,LTE,,,EN 301 908-1,,,,
+,,,,LTE-MTC,,,EN 301 908-13,,,,
+,,,,LTE-eMTC,,,EN 301 908-14,,,,
+,,,,NB-IoT,,,EN 301 908-15,,,,
+,,,,,,,EN 301 908-18,,,,
+,,,,NR,,,,,,,
+,,,,,,,Decizia 2013/654/UE mod,,,,
+,,,,MCA (în banda 1920-1980 MHz),,,prin Dec. (UE) 2016/2317,,,,
+,,,,,,,Rec. 2008/295/CE,,,,
+,,,,,,,ECC/DEC/(06)07,,,,
+,,,,MCV (în banda 1920-1980 MHz),,,Decizia (UE) 2017/191,,,,
+,,,,,,,Rec. 2010/167/UE,,,,
+,,,,,,,ECC/DEC/(08)08,,,,
+,,,,Aplicaţii de bandă ultralargă (UWB,,,ECC/DEC/(06)04,,,,
+,,,,generic) (în banda 1600–10600,,,EN 302 065,,,,
+,,,,MHz),,,Decizia 2007/131/CE,,,,
+,,,,(Nota 8),,,(Nota 7),,,,
+,,,,,,,,,,,
+,,,,Aplicaţii posibile,,,Reglementări aplicabile/ Documente de referință,,,,
+"1930,00 – 1970,00",FIX,MOBIL  5.388A,,Sisteme terestre capabile să,,,Decizia 2012/688/UE,,NG,,
+,MOBIL  5.388A  5.388B,,,furnizeze servicii de comunicații electronice (rețele MFCN) (banda,,,ECC/DEC/(06)01 ERC/REC/(01)01,,,,
+,,,,1920 -1980 MHz pentru emisia,,,,,,,
+,,,,"stației mobile, pereche cu 2110-",,,,,,,
+,5.388,5.388,,2170 MHz) IMT,,,,,,,
+,,,,UMTS,,,EN 301 908-1,,,,
+,,,,,,,EN 301 908-2,,,,
+,,,,,,,EN 301 908-3,,,,
+,,,,,,,EN 301 908-11,,,,
+,,,,,,,EN 301 908-18,,,,
+,,,,LTE,,,EN 301 908-1,,,,
+,,,,LTE-MTC,,,EN 301 908-13,,,,
+,,,,LTE-eMTC,,,EN 301 908-14,,,,
+,,,,NB-IoT,,,EN 301 908-15,,,,
+,,,,,,,EN 301 908-18,,,,
+,,,,NR,,,,,,,
+,,,,MCA (în banda 1920-1980 MHz),,,Decizia 2013/654/UE mod,,,,
+,,,,,,,prin Dec. (UE) 2016/2317,,,,
+,,,,,,,Rec. 2008/295/CE,,,,
+,,,,,,,ECC/DEC/(06)07,,,,
+,,,,MCV (în banda 1920-1980 MHz),,,Decizia (UE) 2017/191,,,,
+,,,,,,,Rec. 2010/167/UE,,,,
+,,,,,,,ECC/DEC/(08)08,,,,
+,,,,Aplicaţii de bandă ultralargă (UWB,,,ECC/DEC/(06)04,,,,
+,,,,generic) (în banda 1600–10600,,,EN 302 065,,,,
+,,,,MHz),,,Decizia 2007/131/CE,,,,
+,,,,(Nota 8),,,(Nota 7),,,,
+,,,,,,,,,,,
+,,,,Aplicaţii posibile,,,Reglementări aplicabile/ Documente de referință,,,,
+"1970,00 – 1980,00",FIX,MOBIL  5.388A,,Sisteme terestre capabile să,,,Decizia 2012/688/UE,,NG,,
+,MOBIL  5.388A  5.388B,,,furnizeze servicii de comunicații electronice (rețele MFCN) (banda,,,ECC/DEC/(06)01 ERC/REC/(01)01,,,,
+,,5.388,,"1920 -1980 MHz pentru emisia
+stației mobile, pereche cu 2110-",,,,,,,
+,5.388,,,2170 MHz) IMT,,,,,,,
+,,,,UMTS,,,EN 301 908-1,,,,
+,,,,,,,EN 301 908-2,,,,
+,,,,,,,EN 301 908-3,,,,
+,,,,,,,EN 301 908-11,,,,
+,,,,,,,EN 301 908-18,,,,
+,,,,LTE,,,EN 301 908-1,,,,
+,,,,LTE-MTC,,,EN 301 908-13,,,,
+,,,,LTE-eMTC,,,EN 301 908-14,,,,
+,,,,NB-IoT,,,EN 301 908-15,,,,
+,,,,,,,EN 301 908-18,,,,
+,,,,NR,,,,,,,
+,,,,MCA (în banda 1920-1980 MHz),,,Decizia 2013/654/UE mod,,,,
+,,,,,,,prin Dec. (UE) 2016/2317,,,,
+,,,,,,,Rec. 2008/295/CE,,,,
+,,,,,,,ECC/DEC/(06)07,,,,
+,,,,MCV (în banda 1920-1980 MHz),,,Decizia (UE) 2017/191,,,,
+,,,,,,,Rec. 2010/167/UE,,,,
+,,,,,,,ECC/DEC/(08)08,,,,
+,,,,Aplicaţii de bandă ultralargă (UWB,,,ECC/DEC/(06)04,,,,
+,,,,generic) (în banda 1600–10600,,,EN 302 065,,,,
+,,,,MHz),,,Decizia 2007/131/CE,,,,
+,,,,(Nota 8),,,(Nota 7),,,,
+,,,,,,,,,,,
+,,,,Aplicaţii posibile,,,Reglementări aplicabile/ Documente de referință,,,,
+"1980,00 – 2010,00","FIX MOBIL
+MOBIL PRIN SATELIT (Pământ–
+spaţiu)  5.351A
+5.388  5.389A","MOBIL
+MOBIL PRIN SATELIT (Pământ–
+spaţiu) 5.351A Fix
+5.388  5.389A",,Stații de sol în serviciul mobil prin satelit (Sistemele mobile prin satelit operînd în această bandă pot încorpora şi o componentă terestră complementară – CGC),,,"ECC/DEC/(06)09 ECC/DEC/(06)10 EN 301 442
+EN 301 473
+EN 302 574
+Decizia 2007/98/CE Decizia 2008/626/CE Decizia 2009/449/CE",,G(A)/NG,,
+,,,,"Aplicaţii de bandă ultralargă (UWB generic) (în banda 1600–10600 MHz)
+(Nota 8)",,,"ECC/DEC/(06)04 EN 302 065
+Decizia 2007/131/CE (Nota 7)",,,,
+,,,,Sisteme militare,,,,,,,
+"2010,00 – 2025,00","FIX
+MOBIL  5.388A  5.388B","MOBIL  5.388A
+Fix",,"PMSE (legături video pe suport radio, portabile sau mobile, și camere video fără cordon)",,,"ERC/REC 25-10
+EN 302 064",,G(A)/NG,,
+,5.388,5.388,,"Aplicaţii de bandă ultralargă (UWB generic) (în banda 1600–10600 MHz)
+(Nota 8)",,,"ECC/DEC/(06)04 EN 302 065
+Decizia 2007/131/CE (Nota 7)",,,,
+"2025,00 – 2059,50","EXPLOATARE SPAŢIALĂ
+(Pământ–spaţiu) (spaţiu–spaţiu)","FIX
+MOBIL  5.391",,Linii fixe de capacitate mică/medie,,,"T/R 13–01
+EN 302 217",,G(A)/NG,,
+,"EXPLORAREA PĂMÂNTULUI
+PRIN SATELIT (Pământ–spaţiu) (spaţiu–spaţiu)
+FIX
+MOBIL  5.391
+CERCETARE SPAŢIALĂ
+(Pământ–spaţiu) (spaţiu–spaţiu)","EXPLORAREA PĂMÂNTULUI
+PRIN SATELIT (Pământ–spaţiu) (spaţiu–spaţiu)
+EXPLOATARE SPAŢIALĂ
+(Pământ–spaţiu) (spaţiu–spaţiu)
+CERCETARE SPAŢIALĂ
+(Pământ–spaţiu) (spaţiu–spaţiu)",,"PMSE (legături video pe suport radio, portabile sau mobile, și camere video fără cordon)
+Cercetare spațială (telecomandă
+pentru platforme şi trafic spațial util)
+Sisteme militare terestre",,,"ERC/REC 25-10
+EN 302 064",,,,
+,,,,Sisteme militare maritime,,,,,,,
+,5.392,"5.392
+ECA 16A  ECA36",,Sisteme militare aeronautice,,,,,,,
+,,,,Telemetrie/Telecomandă (militar),,,,,,,
+,,,,"Aplicaţii de bandă ultralargă (UWB generic) (în banda 1600–10600 MHz)
+(Nota 8)",,,"ECC/DEC/(06)04 EN 302 065
+Decizia 2007/131/CE (Nota 7)",,,,
+,,,,,,,,,,,
+,,,,Aplicaţii posibile,,,Reglementări aplicabile/ Documente de referință,,,,
+"2059,50 – 2110,00","EXPLOATARE SPAŢIALĂ
+(Pământ–spaţiu) (spaţiu–spaţiu)","FIX
+MOBIL  5.391",,"Linii fixe de capacitate mică/medie
+PMSE (legături video pe suport radio, portabile sau mobile, și camere video fără cordon)
+Cercetare spațială (telecomandă
+pentru platforme şi trafic spațial util)
+Aplicaţii de bandă ultralargă (UWB generic) (în banda 1600–10600 MHz)
+(Nota 8)",,,"T/R 13–01
+EN 302 217",,NG,,
+,"EXPLORAREA PĂMÂNTULUI
+PRIN SATELIT (Pământ–spaţiu) (spaţiu–spaţiu)","EXPLORAREA PĂMÂNTULUI
+PRIN SATELIT (Pământ–spaţiu) (spaţiu–spaţiu)",,,,,"ERC/REC 25-10
+EN 302 064",,,,
+,"FIX
+MOBIL  5.391","EXPLOATARE SPAŢIALĂ
+(Pământ–spaţiu) (spaţiu–spaţiu)",,,,,,,,,
+,"CERCETARE SPAŢIALĂ
+(Pământ–spaţiu) (spaţiu–spaţiu)
+5.392","CERCETARE SPAŢIALĂ
+(Pământ–spaţiu) (spaţiu–spaţiu)
+5.392",,,,,"ECC/DEC/(06)04 EN 302 065
+Decizia 2007/131/CE (Nota 7)",,,,
+,,ECA 16A,,,,,,,,,
+,,,,,,,,,,,
+,,,,Aplicaţii posibile,,,Reglementări aplicabile/ Documente de referință,,,,
+"2110,00 – 2120,00",FIX,MOBIL  5.388A,,Sisteme terestre capabile să,,,Decizia 2012/688/UE,,NG,,
+,"MOBIL  5.388A  5.388B
+CERCETARE SPAŢIALĂ (spaţiu
+îndepărtat)(Pământ–spaţiu)","CERCETARE SPAŢIALĂ (spaţiu
+îndepărtat) (Pământ–spaţiu)",,"furnizeze servicii de comunicații electronice (rețele MFCN) (banda 2110-2170 MHz pentru emisia stației de bază, pereche cu 1920 -",,,ECC/DEC/(06)01 ERC/REC/(01)01,,,,
+,,,,1980 MHz),,,,,,,
+,5.388,5.388,,IMT UMTS,,,"EN 301 908-1
+EN 301 908-2",,,,
+,,,,,,,EN 301 908-3,,,,
+,,,,,,,EN 301 908-11,,,,
+,,,,,,,EN 301 908-18,,,,
+,,,,LTE,,,EN 301 908-1,,,,
+,,,,LTE-MTC,,,EN 301 908-13,,,,
+,,,,LTE-eMTC,,,EN 301 908-14,,,,
+,,,,NB-IoT,,,EN 301 908-15,,,,
+,,,,,,,EN 301 908-18,,,,
+,,,,NR,,,,,,,
+,,,,MCA (în banda 2110-2170 MHz),,,Decizia 2013/654/UE mod,,,,
+,,,,,,,prin Dec. (UE) 2016/2317,,,,
+,,,,,,,Rec. 2008/295/CE,,,,
+,,,,,,,ECC/DEC/(06)07,,,,
+,,,,MCV (în banda 2110-2170 MHz),,,Decizia (UE) 2017/191,,,,
+,,,,,,,Rec. 2010/167/UE,,,,
+,,,,,,,ECC/DEC/(08)08,,,,
+,,,,Aplicaţii de bandă ultralargă (UWB,,,ECC/DEC/(06)04,,,,
+,,,,generic) (în banda 1600–10600,,,EN 302 065,,,,
+,,,,MHz),,,Decizia 2007/131/CE,,,,
+,,,,(Nota 8),,,(Nota 7),,,,
+,,,,Telecomandă pentru platforme şi,,,,,,,
+,,,,trafic spaţial util pentru cercetare,,,,,,,
+,,,,spaţială (spaţiu îndepărtat).,,,,,,,
+,,,,,,,,,,,
+,,,,Aplicaţii posibile,,,Reglementări aplicabile/ Documente de referință,,,,
+"2120,00 – 2170,00",FIX,MOBIL  5.388A,,Sisteme terestre capabile să,,,Decizia 2012/688/UE,,NG,,
+,MOBIL  5.388A  5.388B,,,furnizeze servicii de comunicații electronice (rețele MFCN) (banda,,,ECC/DEC/(06)01 ERC/REC/(01)01,,,,
+,,,,2110-2170 MHz pentru emisia,,,,,,,
+,,,,"stației de bază, pereche cu 1920 -",,,,,,,
+,5.388,5.388,,1980 MHz) IMT,,,,,,,
+,,,,UMTS,,,EN 301 908-1,,,,
+,,,,,,,EN 301 908-2,,,,
+,,,,,,,EN 301 908-3,,,,
+,,,,,,,EN 301 908-11,,,,
+,,,,,,,EN 301 908-18,,,,
+,,,,LTE,,,EN 301 908-1,,,,
+,,,,LTE-MTC,,,EN 301 908-13,,,,
+,,,,LTE-eMTC,,,EN 301 908-14,,,,
+,,,,NB-IoT,,,EN 301 908-15,,,,
+,,,,,,,EN 301 908-18,,,,
+,,,,NR,,,,,,,
+,,,,MCA (în banda 2110-2170 MHz),,,Decizia 2013/654/UE mod,,,,
+,,,,,,,prin Dec. (UE) 2016/2317,,,,
+,,,,,,,Rec. 2008/295/CE,,,,
+,,,,,,,ECC/DEC/(06)07,,,,
+,,,,MCV (în banda 2110-2170 MHz),,,Decizia (UE) 2017/191,,,,
+,,,,,,,Rec. 2010/167/UE,,,,
+,,,,,,,ECC/DEC/(08)08,,,,
+,,,,Aplicaţii de bandă ultralargă (UWB,,,ECC/DEC/(06)04,,,,
+,,,,generic) (în banda 1600–10600,,,EN 302 065,,,,
+,,,,MHz),,,Decizia 2007/131/CE,,,,
+,,,,(Nota 8),,,(Nota 7),,,,
+"2170,00 – 2200,00","FIX MOBIL
+MOBIL PRIN SATELIT (spaţiu–
+Pământ)  5.351A
+5.388  5.389A","MOBIL
+MOBIL PRIN SATELIT (spaţiu–
+Pământ)  5.351A
+5.388  5.389A",,Stații de sol în serviciul mobil prin satelit (Sistemele mobile prin satelit operînd în această bandă pot încorpora şi o componentă terestră complementară – CGC),,,"ECC/DEC/(06)09 ECC/DEC/(06)10 ECC/REC/(10)01 EN 301 442
+EN 301 473
+EN 302 574
+Decizia 2007/98/CE Decizia 2008/626/CE Decizia 2009/449/CE",,NG,,
+,,,,"Aplicaţii de bandă ultralargă (UWB generic) (în banda 1600–10600 MHz)
+(Nota 8)",,,"ECC/DEC/(06)04 EN 302 065
+Decizia 2007/131/CE (Nota 7)",,,,
+,,,,,,,,,,,
+,,,,Aplicaţii posibile,,,Reglementări aplicabile/ Documente de referință,,,,
+"2200,00 – 2234,50","EXPLOATARE SPAŢIALĂ
+(spaţiu–Pământ) (spaţiu–spaţiu)","FIX
+MOBIL  5.391",,Linii fixe de capacitate mică/medie,,,"T/R 13–01
+EN 302 217",,G(A)/NG,,
+,"EXPLORAREA PĂMÂNTULUI
+PRIN SATELIT (spaţiu–Pământ) (spaţiu–spaţiu)
+FIX
+MOBIL  5.391
+CERCETARE SPAŢIALĂ
+(spaţiu–Pământ) (spaţiu–spaţiu)","EXPLORAREA PĂMÂNTULUI
+PRIN SATELIT (spaţiu–Pământ) (spaţiu–spaţiu)
+EXPLOATARE SPAŢIALĂ
+(spaţiu–Pământ) (spaţiu–spaţiu)
+CERCETARE SPAŢIALĂ
+(spaţiu–Pământ) (spaţiu–spaţiu)",,"PMSE (legături video pe suport radio, portabile sau mobile, și camere video fără cordon)
+Radioastronomie – observații în domeniul continuu; VLBI (pentru serviciul de cercetare spațială)",,,"ERC/REC 25-10
+EN 302 064",,,,
+,5.392,"5.392
+ECA16A  ECA36",,"Cercetare spaţială (telemetrie pentru platforme şi trafic spațial util pentru serviciul de explorare a
+Pământului prin satelit)",,,ECC/REC/(10)01,,,,
+,,,,Sisteme militare terestre,,,,,,,
+,,,,Sisteme militare maritime,,,,,,,
+,,,,Sisteme militare aeronautice,,,,,,,
+,,,,Telemetrie/Telecomandă (militar),,,,,,,
+,,,,"Aplicaţii de bandă ultralargă (UWB generic) (în banda 1600–10600 MHz)
+(Nota 8)",,,"ECC/DEC/(06)04 EN 302 065
+Decizia 2007/131/CE (Nota 7)",,,,
+,,,,,,,,,,,
+,,,,Aplicaţii posibile,,,Reglementări aplicabile/ Documente de referință,,,,
+"2234,50 – 2290,00","EXPLOATARE SPAŢIALĂ
+(spaţiu–Pământ) (spaţiu–spaţiu)","FIX
+MOBIL  5.391",,"Linii fixe de capacitate mică/medie
+PMSE (legături video pe suport radio, portabile sau mobile, și camere video fără cordon)
+Cercetare spaţială (telemetrie pentru platforme şi trafic spațial util pentru serviciul de explorare a
+Pământului prin satelit; observații în domeniul continuu; VLBI pentru serviciul de cercetare spațială)
+Aplicaţii de bandă ultralargă (UWB generic) (în banda 1600–10600 MHz)
+(Nota 8)
+Sisteme MMDS, de tip punct– multipunct pentru transport servicii de programe audiovizuale între capete de reţea ale reţelelor CATV (de cabloviziune), în zone rurale
+(în banda 2250-2290 MHz, cu statut secundar)",,,"T/R 13–01
+EN 302 217",,NG,,
+,"EXPLORAREA PĂMÂNTULUI
+PRIN SATELIT (spaţiu–Pământ) (spaţiu–spaţiu)","EXPLORAREA PĂMÂNTULUI
+PRIN SATELIT (spaţiu–Pământ) (spaţiu–spaţiu)",,,,,"ERC/REC 25-10
+EN 302 064",,,,
+,"FIX
+MOBIL  5.391","EXPLOATARE SPAŢIALĂ
+(spaţiu–Pământ) (spaţiu–spaţiu)",,,,,ECC/REC/(10)01,,,,
+,"CERCETARE SPAŢIALĂ
+(spaţiu–Pământ) (spaţiu–spaţiu)","CERCETARE SPAŢIALĂ
+(spaţiu–Pământ) (spaţiu–spaţiu)",,,,,,,,,
+,5.392,"5.392
+ECA16A",,,,,"ECC/DEC/(06)04 EN 302 065
+Decizia 2007/131/CE (Nota 7)",,,,
+,,,,,,,Fără a cauza interferenţe prejudiciabile asupra liniilor fixe şi fără a reclama protecţie din partea acestora,,,,
+,,,,,,,,,,,
+,,,,Aplicaţii posibile,,,Reglementări aplicabile/ Documente de referință,,,,
+"2290,00 – 2300,00","FIX
+MOBIL cu excepţia mobil
+aeronautic","FIX
+CERCETARE SPAŢIALĂ (spaţiu
+îndepărtat)(spaţiu– Pământ)",,"PMSE (legături video pe suport radio, portabile sau mobile, și camere video fără cordon)",,,"ERC/REC 25-10
+EN 302 064",,NG,,
+,"CERCETARE SPAŢIALĂ (spaţiu
+îndepărtat)(spaţiu– Pământ)","MOBIL cu excepţia mobil
+aeronautic",,Aplicaţii mobile terestre,,,,,,,
+,,,,Cercetare spaţială (telemetrie pentru platforme şi trafic spațial util pentru serviciul de cercetare spaţială (în spaţiul îndepărtat); observații în domeniul continuu; VLBI pentru serviciul de cercetare spațială),,,,,,,
+,,,,"Sisteme MMDS, de tip punct– multipunct pentru transport servicii de programe audiovizuale între capete de reţea ale reţelelor CATV (de cabloviziune), în zone rurale",,,,,,,
+,,,,"Aplicaţii de bandă ultralargă (UWB generic) (în banda 1600–10600 MHz)
+(Nota 8)",,,"ECC/DEC/(06)04 EN 302 065
+Decizia 2007/131/CE (Nota 7)",,,,
+"2300,00 – 2335,00",FIX,FIX,,Amator (în banda 2300-2450 MHz),,,EN 301 783,,NG,,
+,"MOBIL  5.384A
+Amator
+Radiolocaţie","MOBIL 5.384A
+Amator
+Radiolocaţie",,"PMSE (legături video pe suport radio, portabile sau mobile, și camere video fără cordon)",,,"ERC/REC 25-10
+EN 302 064",,,,
+,,,,"Sisteme MMDS, de tip punct– multipunct pentru transport servicii de programe audiovizuale între capete de reţea ale reţelelor CATV (de cabloviziune), în zone rurale",,,,,,,
+,,,,"Aplicaţii de bandă ultralargă (UWB generic) (în banda 1600–10600 MHz)
+(Nota 8)",,,"ECC/DEC/(06)04 EN 302 065
+Decizia 2007/131/CE (Nota 7)",,,,
+,,,,,,,,,,,
+,,,,Aplicaţii posibile,,,Reglementări aplicabile/ Documente de referință,,,,
+"2335,00 – 2400,00",FIX,FIX,,Amator (în banda 2300-2450 MHz),,,EN 301 783,,G(A)/NG,,
+,"MOBIL  5.384A
+Amator
+Radiolocaţie","MOBIL 5.384A
+Amator
+Radiolocaţie",,"PMSE (legături video pe suport radio, portabile sau mobile, și camere video fără cordon)",,,"ERC/REC 25-10
+EN 302 064",,,,
+,,ECA36,,"Sisteme MMDS, de tip punct– multipunct pentru transport servicii de programe audiovizuale între capete de reţea ale reţelelor CATV (de cabloviziune), în zone rurale",,,,,,,
+,,,,Sisteme militare terestre,,,,,,,
+,,,,Sisteme militare maritime,,,,,,,
+,,,,Sisteme militare aeronautice,,,,,,,
+,,,,Telemetrie/Telecomandă (militar),,,,,,,
+,,,,"Aplicaţii de bandă ultralargă (UWB generic) (în banda 1600–10600 MHz)
+(Nota 8)",,,"ECC/DEC/(06)04 EN 302 065
+Decizia 2007/131/CE (Nota 7)",,,,
+,,,,,,,,,,,
+,,,,Aplicaţii posibile,,,Reglementări aplicabile/ Documente de referință,,,,
+"2400,00 – 2450,00",FIX,FIX,,Amator,,,EN 301 783,,G(A)/NG,,
+,"MOBIL
+Amator","MOBIL
+Amator",,Amator prin satelit,,,,,,,
+,Radiolocaţie,"Amator prin satelit  5.282
+Radiolocaţie",,"PMSE (legături video pe suport radio, portabile sau mobile, și camere video fără cordon)",,,"ERC/REC 25-10
+EN 302 064",,,,
+,5.150  5.282,5.150,,ISM,,,,,,,
+,,ECA36,,"Aplicaţii de radiodeterminare (în
+banda 2400,0–2483,5 MHz)",,,"ERC/REC 70–03
+EN 300 440
+Decizia 2009/381/CE (Nota 3)",,,,
+,,,,"SRD nespecifice (în banda 2400,0– 2483,5 MHz)",,,"ERC/REC 70–03
+EN 300 440
+Decizia 2006/771/CE (Nota 1)",,,,
+,,,,Sisteme de identificare în radiofrecvenţă (RFID) (în banda 2446–2454 MHz),,,"ERC/REC 70–03
+EN 300 440
+Decizia 2009/381/CE (Nota 3)",,,,
+,,,,"Sisteme de transmisiuni de date de bandă largă (în banda 2400,0– 2483,5 MHz)",,,"ERC/REC 70–03
+EN 300 328
+Decizia 2009/381/CE (Nota 3)",,,,
+,,,,Sisteme militare (cu statut secundar),,,Fără a reclama protecţie din partea aplicaţiilor civile,,,,
+,,,,"Aplicaţii de bandă ultralargă (UWB generic) (în banda 1600–10600 MHz)
+(Nota 8)",,,"ECC/DEC/(06)04 EN 302 065
+Decizia 2007/131/CE (Nota 7)",,,,
+,,,,,,,,,,,
+,,,,Aplicaţii posibile,,,Reglementări aplicabile/ Documente de referință,,,,
+"2450,00 – 2483,50","FIX MOBIL
+Radiolocaţie","FIX MOBIL
+Radiolocaţie",,"PMSE (legături video pe suport radio, portabile sau mobile, și camere video fără cordon)",,,"ERC/REC 25-10
+EN 302 064",,G(A)/NG,,
+,,,,ISM,,,,,,,
+,5.150,5.150,,"Aplicaţii de radiodeterminare (în
+banda 2400,0–2483,5 MHz)",,,"ERC/REC/70–03 EN 300 440
+Decizia 2009/381/CE (Nota 3)",,,,
+,,,,"SRD nespecifice (în banda 2400,0– 2483,5 MHz)",,,"ERC/REC/70–03 EN 300 440
+Decizia 2006/771/CE (Nota 1)",,,,
+,,,,RFID (în banda 2446–2454 MHz),,,"ERC/REC 70–03
+EN 300 440
+Decizia 2009/381/CE (Nota 3)",,,,
+,,,,"Sisteme de transmisiuni de date de bandă largă (în banda 2400,0– 2483,5 MHz)",,,"ERC/REC 70–03
+EN 300 328
+Decizia 2009/381/CE (Nota 3)",,,,
+,,,,Sisteme militare (cu statut secundar),,,Fără a reclama protecţie din partea aplicaţiilor civile,,,,
+,,,,"Aplicaţii de bandă ultralargă (UWB generic) (în banda 1600–10600 MHz)
+(Nota 8)",,,"ECC/DEC/(06)04 EN 302 065
+Decizia 2007/131/CE (Nota 7)",,,,
+,,,,,,,,,,,
+,,,,Aplicaţii posibile,,,Reglementări aplicabile/ Documente de referință,,,,
+"2483,50 – 2500,00","FIX
+MOBIL","FIX
+MOBIL",,"Implanturi medicale active (de mică
+putere) și perifericele asociate",,,"ERC/REC 70-03
+EN 301 559
+Decizia 2013/752/UE (Nota 5)
+ECC/DEC/(09)02 EN 301 441
+EN 301 473
+ERC/REC 25-10
+EN 302 064
+ERC/REC 70-03
+EN 303 203
+Decizia 2017/1483/UE (Nota 14)
+ECC/DEC/(06)04 EN 302 065
+Decizia 2007/131/CE (Nota 7)",,G(A)/NG,,
+,"MOBIL PRIN SATELIT (spaţiu–
+Pământ)  5.351A","MOBIL PRIN SATELIT (spaţiu–
+Pământ)  5.351A",,,,,,,,,
+,"RADIODETERMINARE PRIN
+SATELIT (spațiu-Pământ) 5.398",,,ISM,,,,,,,
+,Radiolocaţie 5.398A,,,Aplicații mobile terestre,,,,,,,
+,,5.150  5.398A  5.402,,Stații de sol în serviciul mobil prin satelit,,,,,,,
+,5.150  5.399  5.402,,,,,,,,,,
+,,,,"PMSE (legături video pe suport radio, portabile sau mobile, și camere video fără cordon)",,,,,,,
+,,,,Dispozitive pentru achiziția datelor medicale (pentru MBANS - reţele achiziţii date medicale),,,,,,,
+,,,,Componenta satelitară a IMT-2000,,,,,,,
+,,,,Sisteme militare,,,,,,,
+,,,,"Aplicaţii de bandă ultralargă (UWB generic) (în banda 1600–10600 MHz)
+(Nota 8)",,,,,,,
+,,,,,,,,,,,
+,,,,Aplicaţii posibile,,,Reglementări aplicabile/ Documente de referință,,,,
+"2500,00 – 2520,00",FIX  5.410,MOBIL cu excepţia mobil,,Sisteme terestre capabile să,,,Decizia 2008/477/CE,,NG,,
+,"MOBIL cu excepţia mobil
+aeronautic  5.384A",aeronautic  5.384A,,furnizeze servicii de comunicații electronice (rețele MFCN) (banda 2500-2520 MHz pentru emisia,,,ECC/DEC/(05)05 ECC/REC/(11)05,,,,
+,,,,"stației mobile, pereche cu 2620-",,,,,,,
+,,,,2640 MHz),,,,,,,
+,,,,IMT,,,,,,,
+,,,,UMTS,,,EN 301 908-1,,,,
+,,,,,,,EN 301 908-2,,,,
+,,,,,,,EN 301 908-3,,,,
+,,,,,,,EN 301 908-11,,,,
+,,,,,,,EN 301 908-18,,,,
+,,,,LTE,,,EN 301 908-1,,,,
+,,,,LTE-MTC,,,EN 301 908-13,,,,
+,,,,LTE-eMTC,,,EN 301 908-14,,,,
+,,,,NB-IoT,,,EN 301 908-15,,,,
+,,,,,,,EN 301 908-18,,,,
+,,,,WMAN,,,EN 301 908-19,,,,
+,,,,,,,EN 301 908-20,,,,
+,,,,NR,,,,,,,
+,,,,MCV (în benzile 2500-2570 MHz și,,,Decizia (UE) 2017/191,,,,
+,,,,2620-2690 MHz),,,Rec. 2010/167/UE,,,,
+,,,,,,,ECC/DEC/(08)08,,,,
+,,,,Aplicaţii de bandă ultralargă (UWB,,,ECC/DEC/(06)04,,,,
+,,,,generic) (în banda 1600–10600,,,EN 302 065,,,,
+,,,,MHz),,,Decizia 2007/131/CE,,,,
+,,,,,,,(Nota 7),,,,
+,,,,,,,,,,,
+,,,,Aplicaţii posibile,,,Reglementări aplicabile/ Documente de referință,,,,
+"2520,00 – 2655,00",FIX  5.410,MOBIL cu excepţia mobil,,Sisteme terestre capabile să,,,Decizia 2008/477/CE,,NG,,
+,"MOBIL cu excepţia mobil
+aeronautic  5.384A
+RADIODIFUZIUNE PRIN SATELIT  5.413  5.416",aeronautic  5.384A,,"furnizeze servicii de comunicații electronice (rețele MFCN) (banda 2520-2570 MHz pentru emisia stației mobile, pereche cu 2640- 2690 MHz; 2570-2620 MHz pentru",,,ECC/DEC/(05)05 ECC/REC/(11)05,,,,
+,,5.339,,"emisia și recepția stației de bază)
+IMT",,,,,,,
+,5.339  5.418B  5.418C,,,UMTS,,,"EN 301 908-1
+EN 301 908-2",,,,
+,,,,,,,EN 301 908-3,,,,
+,,,,,,,EN 301 908-11,,,,
+,,,,,,,EN 301 908-18,,,,
+,,,,LTE,,,EN 301 908-1,,,,
+,,,,LTE-MTC,,,EN 301 908-13,,,,
+,,,,LTE-eMTC,,,EN 301 908-14,,,,
+,,,,NB-IoT,,,EN 301 908-15,,,,
+,,,,,,,EN 301 908-18,,,,
+,,,,WMAN,,,EN 301 908-19,,,,
+,,,,,,,EN 301 908-20,,,,
+,,,,NR,,,,,,,
+,,,,MCV (în benzile 2500-2570 MHz și,,,Decizia (UE) 2017/191,,,,
+,,,,2620-2690 MHz),,,Rec. 2010/167/UE,,,,
+,,,,,,,ECC/DEC/(08)08,,,,
+,,,,Aplicaţii de bandă ultralargă (UWB,,,ECC/DEC/(06)04,,,,
+,,,,generic) (în banda 1600–10600,,,EN 302 065,,,,
+,,,,MHz),,,Decizia 2007/131/CE,,,,
+,,,,(Nota 8),,,(Nota 7),,,,
+,,,,,,,,,,,
+,,,,Aplicaţii posibile,,,Reglementări aplicabile/ Documente de referință,,,,
+"2655,00 – 2670,00",FIX  5.410,MOBIL cu excepţia mobil,,Sisteme terestre capabile să,,,Decizia 2008/477/CE,,NG,,
+,"MOBIL cu excepţia mobil
+aeronautic  5.384A
+RADIODIFUZIUNE PRIN SATELIT  5.208B  5.413  5.416
+Explorarea Pământului prin
+satelit (pasiv) Radioastronomie Cercetare spaţială (pasiv)","aeronautic  5.384A
+Explorarea Pământului prin
+Satelit (pasiv) Radioastronomie Cercetare spaţială (pasiv)",,"furnizeze servicii de comunicații electronice (rețele MFCN) (banda 2655-2670 MHz pentru emisia stației de bază, pereche cu 2535- 2550 MHz)
+IMT UMTS",,,"ECC/DEC/(05)05 ECC/REC/(11)05
+EN 301 908-1
+EN 301 908-2
+EN 301 908-3
+EN 301 908-11",,,,
+,,5.149  5.208B,,,,,EN 301 908-18,,,,
+,5.149,,,"LTE
+LTE-MTC",,,"EN 301 908-1
+EN 301 908-13",,,,
+,,,,LTE-eMTC,,,EN 301 908-14,,,,
+,,,,NB-IoT,,,EN 301 908-15,,,,
+,,,,,,,EN 301 908-18,,,,
+,,,,WMAN,,,EN 301 908-19,,,,
+,,,,,,,EN 301 908-20,,,,
+,,,,NR,,,,,,,
+,,,,MCV (în benzile 2500-2570 MHz și,,,Decizia (UE) 2017/191,,,,
+,,,,2620-2690 MHz),,,Rec. 2010/167/UE,,,,
+,,,,,,,ECC/DEC/(08)08,,,,
+,,,,Radioastronomie (observații în,,,,,,,
+,,,,"domeniul continuu, VLBI)",,,,,,,
+,,,,Aplicaţii de bandă ultralargă (UWB,,,ECC/DEC/(06)04,,,,
+,,,,generic) (în banda 1600–10600,,,EN 302 065Decizia,,,,
+,,,,MHz),,,2007/131/CE,,,,
+,,,,,,,(Nota 7),,,,
+,,,,,,,,,,,
+,,,,Aplicaţii posibile,,,Reglementări aplicabile/ Documente de referință,,,,
+"2670,00 – 2690,00",FIX  5.410,MOBIL cu excepţia mobil,,Sisteme terestre capabile să,,,Decizia 2008/477/CE,,NG,,
+,"MOBIL cu excepţia mobil
+aeronautic  5.384A
+Explorarea Pământului prin
+satelit (pasiv)
+Radioastronomie",aeronautic  5.384A Radioastronomie,,"furnizeze servicii de comunicații electronice (rețele MFCN) (banda - 2670-2690 MHz pentru emisia stației de bază, pereche cu 2550- 2570 MHz)
+IMT",,,ECC/DEC/(05)05 ECC/REC/(11)05,,,,
+,Cercetare spaţială (pasiv),5.149,,UMTS,,,"EN 301 908-1
+EN 301 908-2",,,,
+,,,,,,,EN 301 908-3,,,,
+,,,,,,,EN 301 908-11,,,,
+,5.149,,,,,,EN 301 908-18,,,,
+,,,,LTE,,,EN 301 908-1,,,,
+,,,,LTE-MTC,,,EN 301 908-13,,,,
+,,,,LTE-eMTC,,,EN 301 908-14,,,,
+,,,,NB-IoT,,,EN 301 908-15,,,,
+,,,,,,,EN 301 908-18,,,,
+,,,,WMAN,,,EN 301 908-19,,,,
+,,,,,,,EN 301 908-20,,,,
+,,,,NR,,,,,,,
+,,,,MCV (în benzile 2500-2570 MHz și,,,Decizia (UE) 2017/191,,,,
+,,,,2620-2690 MHz),,,Rec. 2010/167/UE,,,,
+,,,,,,,ECC/DEC/(08)08,,,,
+,,,,Radioastronomie (observații în,,,,,,,
+,,,,"domeniul continuu, VLBI)",,,,,,,
+,,,,Aplicaţii de bandă ultralargă (UWB,,,ECC/DEC/(06)04,,,,
+,,,,generic) (în banda 1600–10600,,,EN 302 065Decizia,,,,
+,,,,MHz),,,2007/131/CE,,,,
+,,,,(Nota 8),,,(Nota 7),,,,
+"2690,00 – 2700,00","EXPLORAREA PĂMÂNTULUI
+PRIN SATELIT (pasiv)","EXPLORAREA PĂMÂNTULUI
+PRIN SATELIT (pasiv)",,Senzori pasivi (pe sateliți),,,"ECC/DEC/(06)04 EN 302 065
+Decizia 2007/131/CE (Nota 7)",,G(A)/NG,,
+,"RADIOASTRONOMIE
+CERCETARE SPAŢIALĂ (pasiv)","RADIOASTRONOMIE
+CERCETARE SPAŢIALĂ (pasiv)",,"Radioastronomie (observații în domeniul continuu, VLBI)",,,,,,,
+,,,,Sisteme militare,,,,,,,
+,5.340  5.422,5.340  5.422,,"Aplicaţii de bandă ultralargă (UWB generic) (în banda 1600–10600 MHz)
+(Nota 8)",,,,,,,
+,,,,,,,,,,,
+,,,,Aplicaţii posibile,,,Reglementări aplicabile/ Documente de referință,,,,
+"2700,00 – 2900,00","RADIONAVIGAŢIE
+AERONAUTICĂ  5.337","RADIONAVIGAŢIE
+AERONAUTICĂ  5.337",,Radare pentru meteorologie,,,,,G(A)/NG,,
+,Radiolocaţie,Radiolocaţie,,"Radionaviație aeronautică – sisteme
+radar şi de navigaţie)",,,ECC/REC/(02)09,,,,
+,5.423,5.423,,Radiolocație (civil),,,,,,,
+,,ECA36,,Radiolocație (militar),,,,,,,
+,,,,"Aplicaţii de bandă ultralargă (UWB generic) (în banda 1600–10600 MHz)
+(Nota 8)",,,"ECC/DEC/(06)04 EN 302 065
+Decizia 2007/131/CE (Nota 7)",,,,
+"2900,00 – 3100,00","RADIOLOCAŢIE  5.424A
+RADIONAVIGAŢIE  5.426","RADIOLOCAŢIE  5.424A
+RADIONAVIGAŢIE  5.426",,"Radiolocație (civil) – sisteme radar
+şi de navigaţie",,,"EN 302 248
+EN 302 752",,G(A)/NG,,
+,,,,Radiolocație (militar),,,,,,,
+,5.425  5.427,"5.425  5.427
+ECA36",,"Aplicaţii de bandă ultralargă (UWB generic) (în banda 1600–10600 MHz)
+(Nota 8)",,,"ECC/DEC/(06)04 EN 302 065
+Decizia 2007/131/CE (Nota 7)",,,,
+"3100,00 – 3300,00",RADIOLOCAŢIE,RADIOLOCAŢIE,,Senzori activi (pe sateliţi),,,,,G(A)/NG,,
+,"Explorarea Pământului prin
+satelit (activ)","Explorarea Pământului prin satelit
+(activ)",,Radiolocație (civil) – radare,,,,,,,
+,Cercetare spaţială (activ),Cercetare spaţială (activ),,Radiolocație (militar),,,,,,,
+,5.149,"5.149
+ECA36",,Radioastronomie – observații linii spectrale (de exemplu: linia de metină),,,,,,,
+,,,,"Aplicații UWB (LT2 – localizarea poziției (de tipul 2), LAES – aplicație de localizare pentru servicii de urgență)",,,ECC/REC/(11)09 ECC/REC/(11)10 EN 302 065,,,,
+,,,,"Aplicaţii de bandă ultralargă (UWB generic) (în banda 1600–10600 MHz)
+(Nota 8)",,,"ECC/DEC/(06)04 EN 302 065
+Decizia 2007/131/CE (Nota 7)",,,,
+,,,,,,,,,,,
+,,,,Aplicaţii posibile,,,Reglementări aplicabile/ Documente de referință,,,,
+"3300,00 – 3400,00","RADIOLOCAŢIE
+5.149","RADIOLOCAŢIE
+5.149",,Radiolocație (civil) – limita superioară pentru radarele de pe aeronave este 3410 MHz,,,,,G(A)/NG,,
+,,ECA36,,Radiolocație (militar) – limita superioară pentru radarele de pe aeronave este 3410 MHz,,,,,,,
+,,,,Radioastronomie – observații linii spectrale (de exemplu: linia de metină),,,,,,,
+,,,,"Aplicații UWB (LT2 – localizarea poziției (de tipul 2), LAES – aplicație de localizare pentru servicii de urgență)",,,ECC/REC/(11)09 ECC/REC/(11)10 EN 302 065,,,,
+,,,,"Aplicaţii de bandă ultralargă (UWB)
+(în banda 1600–10600 MHz) (Nota 8)",,,"ECC/DEC/(06)04 EN 302 065
+Decizia 2007/131/CE (Nota 7)",,,,
+"3400,00 – 3600,00",FIX,FIX,,MFCN (în banda 3400-3800 MHz),,,"ECC/DEC/(11)06 ECC/REC/(15)01 EN 301 908
+Decizia 2008/411/CE mod prin decizia 2014/276/UE şi decizia (UE) 2019/235
+EN 301 443
+ECC/REC/(11)09 ECC/REC/(11)10 EN 302 065
+ECC/DEC/(06)04 EN 302 065
+Decizia 2007/131/CE (Nota 7)",,NG,,
+,"FIX PRIN SATELIT (spaţiu–
+Pământ)","MOBIL cu excepţia mobil
+aeronautic  5.430A",,,,,,,,,
+,"MOBIL cu excepţia mobil
+aeronautic  5.430A",Fix prin satelit (spaţiu–Pământ),,,,,,,,,
+,Radiolocaţie,,,,,,,,,,
+,,,,Stații de sol în serviciul fix prin satelit,,,,,,,
+,,,,"Aplicații UWB (LT2 – localizarea poziției (de tipul 2), LAES – aplicație de localizare pentru servicii de urgență)",,,,,,,
+,,,,"Aplicaţii de bandă ultralargă (UWB generic) (în banda 1600–10600 MHz)
+(Nota 8)",,,,,,,
+,,,,,,,,,,,
+,,,,Aplicaţii posibile,,,Reglementări aplicabile/ Documente de referință,,,,
+"3600,00 – 3645,00",FIX,FIX,,MFCN (în banda 3400-3800 MHz),,,"ECC/DEC/(11)06 ECC/REC/(15)01 EN 301 908
+Decizia 2008/411/CE mod prin decizia 2014/276/UE şi decizia (UE) 2019/235
+EN 301 443
+ECC/DEC/(05)09 EN 301 447
+ECC/REC/(11)09 ECC/REC/(11)10 EN 302 065
+ECC/DEC/(06)04 EN 302 065
+Decizia 2007/131/CE (Nota 7)",,NG,,
+,"FIX PRIN SATELIT (spaţiu–
+Pământ)","MOBIL
+Fix prin satelit (spaţiu–Pământ)",,,,,,,,,
+,Mobil,,,,,,,,,,
+,,,,Stații de sol în serviciul fix prin satelit,,,,,,,
+,,,,ESV (în banda 3700-4200 MHz),,,,,,,
+,,,,"Aplicații UWB (LT2 – localizarea poziției (de tipul 2), LAES – aplicație de localizare pentru servicii de urgență)",,,,,,,
+,,,,"Aplicaţii de bandă ultralargă (UWB generic) (în banda 1600–10600 MHz)
+(Nota 8)",,,,,,,
+"3645,00 – 3655,00",FIX,FIX,,MFCN (în banda 3400-3800 MHz),,,"ECC/DEC/(11)06 ECC/REC/(15)01 EN 301 908
+Decizia 2008/411/CE mod prin decizia 2014/276/UE şi decizia (UE) 2019/235
+EN 301 443
+ECC/DEC/(05)09 EN 301 447
+ECC/REC/(11)09 ECC/REC/(11)10 EN 302 065
+ECC/DEC/(06)04 EN 302 065
+Decizia 2007/131/CE (Nota 7)",,G(A/NG),,
+,"FIX PRIN SATELIT (spaţiu–
+Pământ)","MOBIL
+Fix prin satelit (spaţiu–Pământ)",,,,,,,,,
+,Mobil,,,,,,,,,,
+,,,,Stații de sol în serviciul fix prin satelit (prioritate pentru rețelele civile),,,,,,,
+,,,,ESV (în banda 3700-4200 MHz),,,,,,,
+,,,,"Aplicații UWB (LT2 – localizarea poziției (de tipul 2), LAES – aplicație de localizare pentru servicii de urgență)",,,,,,,
+,,,,Sisteme militare,,,,,,,
+,,,,"Aplicaţii de bandă ultralargă (UWB generic) (în banda 1600–10600 MHz)
+(Nota 8)",,,,,,,
+,,,,,,,,,,,
+,,,,Aplicaţii posibile,,,Reglementări aplicabile/ Documente de referință,,,,
+"3655,00 – 3700,00",FIX,FIX,,MFCN (în banda 3400-3800 MHz),,,"ECC/DEC/(11)06 ECC/REC/(15)01 EN 301 908
+Decizia 2008/411/CE mod prin decizia 2014/276/UE şi decizia (UE) 2019/235
+EN 301 443
+ECC/DEC/(05)09 EN 301 447
+ECC/REC/(11)09 ECC/REC/(11)10 EN 302 065
+ECC/DEC/(06)04 EN 302 065
+Decizia 2007/131/CE (Nota 7)",,G/NG,,
+,"FIX PRIN SATELIT (spaţiu–
+Pământ)","MOBIL
+Fix prin satelit (spaţiu–Pământ)",,,,,,,,,
+,Mobil,,,,,,,,,,
+,,,,Stații de sol în serviciul fix prin satelit (prioritate pentru rețelele civile),,,,,,,
+,,,,ESV (în banda 3700-4200 MHz),,,,,,,
+,,,,"Aplicații UWB (LT2 – localizarea poziției (de tipul 2), LAES – aplicație de localizare pentru servicii de urgență)",,,,,,,
+,,,,"Aplicaţii de bandă ultralargă (UWB generic) (în banda 1600–10600 MHz)
+(Nota 8)",,,,,,,
+"3700,00 – 3800,00",FIX,FIX,,MFCN (în banda 3400-3800 MHz),,,"ECC/DEC/(11)06 ECC/REC/(15)01 EN 301 908
+Decizia 2008/411/CE mod prin decizia 2014/276/UE şi decizia (UE) 2019/235
+EN 301 443
+ECC/DEC/(05)09 EN 301 447
+ECC/REC/(11)09 ECC/REC/(11)10 EN 302 065
+ECC/DEC/(06)04 EN 302 065
+Decizia 2007/131/CE (Nota 7)",,NG,,
+,"FIX PRIN SATELIT (spaţiu–
+Pământ)","MOBIL
+Fix prin satelit (spaţiu–Pământ)",,,,,,,,,
+,Mobil,,,,,,,,,,
+,,,,Stații de sol în serviciul fix prin satelit,,,,,,,
+,,,,ESV (în banda 3700-4200 MHz),,,,,,,
+,,,,"Aplicații UWB (LT2 – localizarea poziției (de tipul 2), LAES – aplicație de localizare pentru servicii de urgență)",,,,,,,
+,,,,"Aplicaţii de bandă ultralargă (UWB generic) (în banda 1600–10600 MHz)
+(Nota 8)",,,,,,,
+,,,,,,,,,,,
+,,,,Aplicaţii posibile,,,Reglementări aplicabile/ Documente de referință,,,,
+"3800,00 – 4200,00",FIX,FIX,,Linii fixe (capacitate medie/mare),,,"UIT-R F 635
+UIT-R F 382
+ERC/REC 12-08
+EN 302 217
+EN 301 443
+ECC/DEC/(05)09 EN 301 447
+ECC/REC/(11)09 ECC/REC/(11)10 EN 302 065
+ECC/DEC/(06)04 EN 302 065
+Decizia 2007/131/CE (Nota 7)",,NG,,
+,"FIX PRIN SATELIT (spaţiu–
+Pământ)","FIX PRIN SATELIT (spaţiu–
+Pământ)",,,,,,,,,
+,Mobil,,,,,,,,,,
+,,,,Stații de sol în serviciul fix prin satelit (prioritate pentru rețelele civile),,,,,,,
+,,,,ESV (în banda 3700-4200 MHz),,,,,,,
+,,,,"Aplicații UWB (LT2 – localizarea poziției (de tipul 2), LAES – aplicație de localizare pentru servicii de urgență)",,,,,,,
+,,,,"Aplicaţii de bandă ultralargă (UWB generic) (în banda 1600–10600 MHz)
+(Nota 8)",,,,,,,
+"4200,00 – 4400,00",MOBIL AERONAUTIC (R) 5.436,MOBIL AERONAUTIC (R) 5.436,,Altimetre,,,,,G(A)/NG,,
+,"RADIONAVIGAŢIE
+AERONAUTICĂ  5.438
+5.437  5.440","RADIONAVIGAŢIE
+AERONAUTICĂ  5.438
+5.437  5.440",,Senzori pasivi (pe sateliți) – pentru măsurarea temperaturii la suprafaţa mărilor,,,,,,,
+,,ECA36,,"Aplicații UWB (LT2 – localizarea poziției (de tipul 2), LAES – aplicație de localizare pentru servicii de urgență)",,,ECC/REC/(11)09 ECC/REC/(11)10 EN 302 065,,,,
+,,,,WAIC,,,,,,,
+,,,,Sisteme militare aeronautice,,,,,,,
+,,,,"Aplicaţii de bandă ultralargă (UWB generic) (în banda 1600–10600 MHz)
+(Nota 8)",,,"ECC/DEC/(06)04 EN 302 065
+Decizia 2007/131/CE (Nota 7)",,,,
+,,,,,,,,,,,
+,,,,Aplicaţii posibile,,,Reglementări aplicabile/ Documente de referință,,,,
+"4400,00 – 4500,00",FIX MOBIL,FIX MOBIL,,"Aplicații UWB (LT2 – localizarea poziției (de tipul 2), LAES – aplicație de localizare pentru servicii de urgență)",,,ECC/REC/(11)09 ECC/REC/(11)10 EN 302 065,,G(A)/NG,,
+,,ECA20  ECA36,,Sisteme militare aeronautice,,,,,,,
+,,,,Sisteme militare maritime,,,,,,,
+,,,,Sisteme militare terestre,,,,,,,
+,,,,Telemetrie/Telecomandă (militar),,,,,,,
+,,,,"Aplicaţii de bandă ultralargă (UWB generic) (în banda 1600–10600 MHz)
+(Nota 8)",,,"ECC/DEC/(06)04 EN 302 065
+Decizia 2007/131/CE (Nota 7)",,,,
+"4500,00 – 4800,00","FIX
+FIX PRIN SATELIT (spaţiu–
+Pământ)  5.441 MOBIL","FIX
+FIX PRIN SATELIT (spaţiu–
+Pământ)  5.441 MOBIL
+ECA20  ECA36",,"Stații de sol în serviciul fix prin
+satelit
+Aplicaţii de radiodeterminare (în banda 4500–7000 MHz pentru aplicaţii TLPR)",,,"ERC/REC 70–03
+EN 302 372
+Decizia 2009/381/CE (Nota 3)",,G(A)/NG,,
+,,,,"Aplicații UWB (LT2 – localizarea poziției (de tipul 2), LAES – aplicație de localizare pentru servicii de urgență)",,,ECC/REC/(11)09 ECC/REC/(11)10 EN 302 065,,,,
+,,,,Sisteme militare aeronautice,,,,,,,
+,,,,Sisteme militare maritime,,,,,,,
+,,,,Sisteme militare terestre,,,,,,,
+,,,,Telemetrie/Telecomandă (militar),,,,,,,
+,,,,"Aplicaţii de bandă ultralargă (UWB generic) (în banda 1600–10600 MHz)
+(Nota 8)",,,"ECC/DEC/(06)04 EN 302 065
+Decizia 2007/131/CE (Nota 7)",,,,
+,,,,,,,,,,,
+,,,,Aplicaţii posibile,,,Reglementări aplicabile/ Documente de referință,,,,
+"4800,00 – 4990,00","FIX
+MOBIL  5.442
+Radioastronomie","FIX
+MOBIL  5.442
+Radioastronomie",,BBDR (în banda 4940-4990 MHz; bandă opțională BBDR pentru utilizatori PPDR),,,ECC/REC/(08)04 EN 302 625,,G(A)/NG,,
+,5.149  5.339,"5.149  5.339
+ECA20  ECA36",,"Senzori pasivi (pe sateliți) –
+cercetare spaţială şi explorarea
+Pămîntului prin satelit (pasiv), peste 4950 MHz",,,,,,,
+,,,,Radioastronomie – observații în domeniul continuu şi în linii spectrale (de exemplu: linia de formaldehidă); VLBI,,,,,,,
+,,,,Aplicaţii de radiodeterminare (în banda 4500–7000 MHz pentru aplicaţii TLPR),,,"ERC/REC 70–03
+EN 302 372
+Decizia 2009/381/CE (Nota 3)",,,,
+,,,,Sisteme militare aeronautice,,,,,,,
+,,,,Sisteme militare maritime,,,,,,,
+,,,,Sisteme militare terestre,,,,,,,
+,,,,Telemetrie/Telecomandă (militar),,,,,,,
+,,,,"Aplicaţii de bandă ultralargă (UWB generic) (în banda 1600–10600 MHz)
+(Nota 8)",,,"ECC/DEC/(06)04 EN 302 065
+Decizia 2007/131/CE (Nota 7)",,,,
+,,,,,,,,,,,
+,,,,Aplicaţii posibile,,,Reglementări aplicabile/ Documente de referință,,,,
+"4990,00 – 5000,00","FIX
+MOBIL cu excepţia mobil
+aeronautic RADIOASTRONOMIE
+Cercetare spaţială (pasiv)","FIX
+MOBIL cu excepţia mobil
+aeronautic RADIOASTRONOMIE",,"Radioastronomie – observații în domeniul continuu şi VLBI
+Aplicaţii de radiodeterminare
+(în banda 4500–7000 MHz pentru
+aplicaţii TLPR)",,,"ERC/REC 70–03
+EN 302 372
+Decizia 2009/381/CE (Nota 3)",,G(A)/NG,,
+,5.149,5.149,,Sisteme militare aeronautice,,,,,,,
+,,ECA20  ECA36,,Sisteme militare maritime,,,,,,,
+,,,,Sisteme militare terestre,,,,,,,
+,,,,Telemetrie/Telecomandă (militar),,,,,,,
+,,,,"Aplicaţii de bandă ultralargă (UWB generic) (în banda 1600–10600 MHz)
+(Nota 8)",,,"ECC/DEC/(06)04 EN 302 065
+Decizia 2007/131/CE (Nota 7)",,,,
+"5000,00 – 5010,00",MOBIL AERONAUTIC PRIN SATELIT (R)  5.443AA,MOBIL AERONAUTIC PRIN SATELIT (R)  5.443AA,,"GALILEO (pentru utilizare viitoare a sistemului Galileo)
+Radioastronomie (observații continue şi VLBI)
+Sisteme de navigaţie prin satelit (se preconizează utilizarea Serviciului de Radionavigaţie Aeronautică şi a Serviciului Fix prin Satelit în anumite ţări)
+Aplicaţii de radiodeterminare
+(în banda 4500–7000 MHz pentru
+aplicaţii TLPR)
+Aplicaţii de bandă ultralargă (UWB generic) (în banda 1600–10600 MHz)
+(Nota 8)",,,,,G(A)/NG,,
+,RADIONAVIGAŢIE AERONAUTICĂ,RADIONAVIGAŢIE AERONAUTICĂ,,,,,,,,,
+,"RADIONAVIGAŢIE PRIN
+SATELIT (Pământ – spaţiu)","RADIONAVIGAŢIE PRIN
+SATELIT (Pământ – spaţiu)",,,,,,,,,
+,,Radioastronomie,,,,,,,,,
+,,Cercetare spaţială (pasiv),,,,,,,,,
+,,,,,,,"ERC/REC 70–03
+EN 302 372
+Decizia 2009/381/CE (Nota 3)",,,,
+,,,,,,,"ECC/DEC/(06)04 EN 302 065
+Decizia 2007/131/CE (Nota 7)",,,,
+,,,,,,,,,,,
+,,,,Aplicaţii posibile,,,Reglementări aplicabile/ Documente de referință,,,,
+"5010,00 – 5030,00",MOBIL AERONAUTIC PRIN SATELIT (R) 5.443AA,MOBIL AERONAUTIC PRIN SATELIT (R)  5.443AA,,Galileo (C1),,,,,G(A)/NG,,
+,RADIONAVIGAŢIE AERONAUTICĂ,RADIONAVIGAŢIE AERONAUTICĂ,,Radioastronomie (observații continue şi VLBI),,,,,,,
+,"RADIONAVIGAŢIE PRIN
+SATELIT (spaţiu–Pământ) (spaţiu–spaţiu)  5.328B  5.443B","RADIONAVIGAŢIE PRIN
+SATELIT (spaţiu – Pământ) (spaţiu–spaţiu)  5.328B  5.443B
+Radioastronomie Cercetare spaţială (pasiv)",,Sisteme de navigaţie prin satelit (se preconizează utilizarea Serviciului de Radionavigaţie Aeronautică şi a Serviciului Fix prin Satelit în anumite ţări),,,,,,,
+,,,,"Aplicaţii de radiodeterminare
+(în banda 4500–7000 MHz pentru
+aplicaţii TLPR)",,,"ERC/REC 70–03
+EN 302 372
+Decizia 2009/381/CE (Nota 3)",,,,
+,,,,"Aplicaţii de bandă ultralargă (UWB generic) (în banda 1600–10600 MHz)
+(Nota 8)",,,"ECC/DEC/(06)04 EN 302 065
+Decizia 2007/131/CE (Nota 7)",,,,
+"5030,00 – 5091,00","MOBIL AERONAUTIC (R) 5.443C
+MOBIL AERONAUTIC PRIN SATELIT (R)  5.443D
+RADIONAVIGAŢIE AERONAUTICĂ
+5.444","MOBIL AERONAUTIC (R) 5.443C
+MOBIL AERONAUTIC PRIN SATELIT (R)  5.443D
+RADIONAVIGAŢIE AERONAUTICĂ
+5.444",,"MLS (se preconizează utilizarea Serviciului de Radionavigaţie
+Aeronautică în anumite ţări; Serviciul Fix prin Satelit utilizat în anumite ţări)
+Aplicaţii de radiodeterminare
+(în banda 4500–7000 MHz pentru
+aplicaţii TLPR)",,,"ERC/REC 70–03
+EN 302 372
+Decizia 2009/381/CE (Nota 3)",,G(A)/NG,,
+,,,,"Aplicaţii de bandă ultralargă (UWB generic) (în banda 1600–10600 MHz)
+(Nota 8)",,,"ECC/DEC/(06)04 EN 302 065
+Decizia 2007/131/CE (Nota 7)",,,,
+"5091,00 – 5150,00","FIX PRIN SATELIT (Pământ-
+spațiu)  5.444A","FIX PRIN SATELIT (Pământ-
+spațiu)  5.444A",,"(Serviciului de Radionavigaţie Aeronautică, Serviciul Fix prin Satelit utilizat în anumite ţări)
+Aplicaţii de radiodeterminare
+(în banda 4500–7000 MHz pentru
+aplicaţii TLPR)
+Aplicaţii de bandă ultralargă (UWB generic) (în banda 1600–10600 MHz)
+(Nota 8)",,,"ERC/REC 70–03
+EN 302 372
+Decizia 2009/381/CE (Nota 3)
+ECC/DEC/(06)04 EN 302 065
+Decizia 2007/131/CE (Nota 7)",,G(A)/NG,,
+,MOBIL AERONAUTIC 5.444B,MOBIL AERONAUTIC 5.444B,,,,,,,,,
+,MOBIL AERONAUTIC PRIN SATELIT (R) 5.443AA,MOBIL AERONAUTIC PRIN SATELIT (R) 5.443AA,,,,,,,,,
+,RADIONAVIGAŢIE AERONAUTICĂ,RADIONAVIGAŢIE AERONAUTICĂ,,,,,,,,,
+,5.444,5.444,,,,,,,,,
+,,,,,,,,,,,
+,,,,Aplicaţii posibile,,,Reglementări aplicabile/ Documente de referință,,,,
+"5150,00 – 5250,00","FIX PRIN SATELIT (Pământ–
+spaţiu) 5.447A","FIX PRIN SATELIT (Pământ–
+spaţiu) 5.447A",,Telemetrie aeronautică,,,,,G(A)/NG,,
+,"MOBIL cu excepţia mobil
+aeronautic  5.446A  5.446B
+RADIONAVIGAŢIE AERONAUTICĂ
+5.446  5.446C  5.447B  5.447C","MOBIL cu excepţia mobil
+aeronautic  5.446A  5.446B
+RADIONAVIGAŢIE AERONAUTICĂ
+5.446  5.446C  5.447B  5.447C",,"BBDR (în banda 4940-4990 Mhz; bandă opțională BBDR pentru utilizatori PPDR)
+Feeder-links (feeder-links în Serviciul Mobil prin Satelit; se preconizează utilizarea Serviciului de Radionavigaţie Aeronautică şi a Serviciului Fix prin Satelit în anumite ţări)",,,ECC/REC/(08)04 EN 302 625,,,,
+,,,,Radio LAN (WAS/RLAN în benzile 5150 – 5350 MHz şi 5470 – 5725 MHz),,,"ECC/DEC/(04)08 ERC/REC 70–03
+EN 301 893
+Decizia 2005/513/CE modificată prin Decizia 2007/90/CE",,,,
+,,,,"Aplicaţii de radiodeterminare
+(în banda 4500–7000 MHz pentru
+aplicaţii TLPR)",,,"ERC/REC 70–03
+EN 302 372
+Decizia 2009/381/CE (Nota 3)",,,,
+,,,,"Aplicaţii de bandă ultralargă (UWB generic) (în banda 1600–10600 MHz)
+(Nota 8)",,,"ECC/DEC/(06)04 EN 302 065
+Decizia 2007/131/CE (Nota 7)",,,,
+,,,,,,,,,,,
+,,,,Aplicaţii posibile,,,Reglementări aplicabile/ Documente de referință,,,,
+"5250,00 – 5255,00","EXPLORAREA PĂMÂNTULUI
+PRIN SATELIT (activ)",EXPLORAREA PĂMÂNTULUI PRIN SATELIT (activ),,Senzori activi (satelit),,,"ECC/DEC/(04)08 ERC/REC 70–03
+EN 301 893
+Decizia 2005/513/CE modificată prin Decizia 2007/90/CE
+ERC/REC 70–03
+EN 302 372
+Decizia 2009/381/CE (Nota 3)
+ECC/DEC/(06)04 EN 302 065
+Decizia 2007/131/CE (Nota 7)",,G(A)/NG,,
+,"MOBIL cu excepţia mobil
+aeronautic  5.446A  5.447F
+RADIOLOCAŢIE","MOBIL cu excepţia mobil
+aeronautic 5.446A 5.447F
+RADIOLOCAŢIE",,"Fixare poziţie
+Radare maritime (VTS şi pe nave)",,,,,,,
+,"CERCETARE SPAŢIALĂ 5.447D
+5.448 5.448A","CERCETARE SPAŢIALĂ 5.447D
+RADIONAVIGAŢIE 5.448",,Radio LAN (WAS/RLAN în benzile (5150 – 5350 MHz şi 5470 – 5725 MHz),,,,,,,
+,,5.448A,,,,,,,,,
+,,ECA22  ECA36,,"Radare pentru meteorologie
+(la sol şi pe aeronave)",,,,,,,
+,,,,"Aplicaţii de radiodeterminare
+(în banda 4500–7000 MHz pentru
+aplicaţii TLPR)",,,,,,,
+,,,,Radiolocație (militar),,,,,,,
+,,,,"Aplicaţii de bandă ultralargă (UWB generic) (în banda 1600–10600 MHz)
+(Nota 8)",,,,,,,
+,,,,,,,,,,,
+,,,,Aplicaţii posibile,,,Reglementări aplicabile/ Documente de referință,,,,
+"5255,00 – 5350,00","EXPLORAREA PĂMÂNTULUI
+PRIN SATELIT (activ)","EXPLORAREA PĂMÂNTULUI
+PRIN SATELIT (activ)",,Senzori activi (satelit),,,"ECC/DEC/(04)08 ERC/REC 70–03
+EN 301 893
+Decizia 2005/513/CE modificată prin Decizia 2007/90/CE
+ERC/REC 70–03
+EN 302 372
+Decizia 2009/381/CE (Nota 3)
+ECC/DEC/(06)04 EN 302 065
+Decizia 2007/131/CE (Nota 7)",,G(A)/NG,,
+,"MOBIL cu excepţia mobil
+aeronautic 5.446A 5.447F
+RADIOLOCAŢIE","MOBIL cu excepţia mobil
+aeronautic 5.446A 5.447F
+RADIOLOCAŢIE",,"Fixare poziţie
+Radare maritime (VTS şi pe nave)",,,,,,,
+,"CERCETARE SPAŢIALĂ (activ)
+5.448 5.448A",CERCETARE SPAŢIALĂ (activ) RADIONAVIGAŢIE 5.448,,Radio LAN (WAS/RLAN în benzile 5150 – 5350 MHz şi 5470 – 5725 MHz),,,,,,,
+,,5.448A,,,,,,,,,
+,,ECA22  ECA36,,,,,,,,,
+,,,,Radare pentru meteorologie (la sol şi pe aeronave),,,,,,,
+,,,,"Aplicaţii de radiodeterminare
+(în banda 4500–7000 MHz pentru
+aplicaţii TLPR)",,,,,,,
+,,,,Radiolocație (militar),,,,,,,
+,,,,"Aplicaţii de bandă ultralargă (UWB generic) (în banda 1600–10600 MHz)
+(Nota 8)",,,,,,,
+"5350,00 – 5460,00","EXPLORAREA PĂMÂNTULUI
+PRIN SATELIT (activ)  5.448B","EXPLORAREA PĂMÂNTULUI
+PRIN SATELIT (activ)  5.448B",,Senzori activi (satelit),,,,,G(A)/NG,,
+,RADIOLOCAŢIE  5.448D,RADIOLOCAŢIE  5.448D,,Fixare poziţie,,,,,,,
+,"RADIONAVIGAŢIE
+AERONAUTICĂ  5.449","RADIONAVIGAŢIE
+AERONAUTICĂ  5.449",,Radare maritime (VTS şi pe nave),,,,,,,
+,"CERCETARE SPAŢIALĂ (activ)
+5.448C","CERCETARE SPAŢIALĂ (activ)
+5.448C",,"Radare pentru meteorologie
+(la sol şi pe aeronave)",,,,,,,
+,,ECA22  ECA36,,"Aplicaţii de radiodeterminare
+(în banda 4500–7000 MHz pentru
+aplicaţii TLPR)",,,"ERC/REC 70–03
+EN 302 372
+Decizia 2009/381/CE (Nota 3)",,,,
+,,,,Radiolocație (militar),,,,,,,
+,,,,"Aplicaţii de bandă ultralargă (UWB generic) (în banda 1600–10600 MHz)
+(Nota 8)",,,"ECC/DEC/(06)04 EN 302 065
+Decizia 2007/131/CE (Nota 7)",,,,
+,,,,,,,,,,,
+,,,,Aplicaţii posibile,,,Reglementări aplicabile/ Documente de referință,,,,
+"5460,00 – 5470,00","EXPLORAREA PĂMÂNTULUI
+PRIN SATELIT (activ)","EXPLORAREA PĂMÂNTULUI
+PRIN SATELIT (activ)",,Senzori activi (satelit),,,,,G(A)/NG,,
+,RADIOLOCAŢIE 5.448D,RADIOLOCAŢIE 5.448D,,Fixare poziţie,,,,,,,
+,"RADIONAVIGAŢIE 5.449
+CERCETARE SPAŢIALĂ (activ)","RADIONAVIGAŢIE 5.449
+CERCETARE SPAŢIALĂ (activ)",,Radare maritime (VTS şi pe nave),,,,,,,
+,5.448B,5.448B,,"Radare pentru meteorologie
+(la sol şi pe aeronave)",,,,,,,
+,,ECA22  ECA36,,"Aplicaţii de radiodeterminare
+(în banda 4500–7000 MHz pentru
+aplicaţii TLPR)",,,"ERC/REC 70–03
+EN 302 372
+Decizia 2009/381/CE (Nota 3)",,,,
+,,,,Radiolocaţie (militar),,,,,,,
+,,,,"Aplicaţii de bandă ultralargă (UWB generic) (în banda 1600–10600 MHz)
+(Nota 8)",,,"ECC/DEC/(06)04 EN 302 065
+Decizia 2007/131/CE (Nota 7)",,,,
+"5470,00 – 5570,00","EXPLORAREA PĂMÂNTULUI
+PRIN SATELIT (activ)","EXPLORAREA PĂMÂNTULUI
+PRIN SATELIT (activ)",,Senzori activi (satelit),,,,,G(A)/NG,,
+,"MOBIL cu excepţia mobil
+aeronautic  5.446A  5.450A
+RADIOLOCAŢIE  5.450B","MOBIL cu excepţia mobil
+aeronautic  5.446A  5.450A
+RADIOLOCAŢIE  5.450B",,"Fixare poziţie
+Radare maritime (VTS şi pe nave)",,,,,,,
+,"RADIONAVIGAŢIE MARITIMĂ CERCETARE SPAŢIALĂ (activ)
+5.448B  5.450","RADIONAVIGAŢIE MARITIMĂ
+RADIONAVIGAŢIE
+AERONAUTICĂ  5.450
+CERCETARE SPAŢIALĂ (activ)",,Radio LAN (WAS/RLAN în benzile 5150 – 5350 MHz şi 5470 – 5725 MHz),,,"ECC/DEC/(04) 08
+ERC/REC 70–03
+EN 301 893
+Decizia 2005/513/CE modificată prin Decizia 2007/90/CE",,,,
+,,"5.448B
+ECA22  ECA36",,"Radare pentru meteorologie
+(la sol şi pe aeronave)",,,,,,,
+,,,,"Aplicaţii de radiodeterminare
+(în banda 4500–7000 MHz pentru
+aplicaţii TLPR)",,,"ERC/REC 70–03
+EN 302 372
+Decizia 2009/381/CE (Nota 3)",,,,
+,,,,Radiolocație (militar),,,,,,,
+,,,,"Aplicaţii de bandă ultralargă (UWB generic) (în banda 1600–10600 MHz)
+(Nota 8)",,,"ECC/DEC/(06)04 EN 302 065
+Decizia 2007/131/CE (Nota 7)",,,,
+,,,,,,,,,,,
+,,,,Aplicaţii posibile,,,Reglementări aplicabile/ Documente de referință,,,,
+"5570,00 – 5650,00","MOBIL cu excepţia mobil
+aeronautic  5.446A  5.450A",MOBIL cu excepţia mobil aeronautic  5.446A  5.450A,,Fixare poziţie,,,"ECC/DEC/(04) 08
+ERC/REC 70–03
+EN 301 893
+Decizia 2005/513/CE modificată prin Decizia 2007/90/CE
+ERC/REC 70–03
+EN 302 372
+Decizia 2009/381/CE (Nota 3)
+ECC/DEC/(06)04 EN 302 065
+Decizia 2007/131/CE (Nota 7)",,G(A)/NG,,
+,RADIOLOCAŢIE  5.450B,RADIOLOCAŢIE  5.450B,,Radare mairitme (VTS şi pe nave),,,,,,,
+,RADIONAVIGAŢIE MARITIMĂ,"RADIONAVIGAŢIE MARITIMA
+RADIONAVIGAŢIE
+AERONAUTICĂ  5.450",,Radio LAN (WAS/RLAN în benzile 5150 – 5350 MHz şi 5470 – 5725 MHz),,,,,,,
+,5.450  5.452,,,,,,,,,,
+,,5.452,,,,,,,,,
+,,ECA22  ECA36,,"Radare pentru meteorologie
+(la sol şi pe aeronave)",,,,,,,
+,,,,"Aplicaţii de radiodeterminare
+(în banda 4500–7000 MHz pentru
+aplicaţii TLPR)",,,,,,,
+,,,,Radiolocație (militar),,,,,,,
+,,,,"Aplicaţii de bandă ultralargă (UWB generic) (în banda 1600–10600 MHz)
+(Nota 8)",,,,,,,
+,,,,,,,,,,,
+,,,,Aplicaţii posibile,,,Reglementări aplicabile/ Documente de referință,,,,
+"5650,00 – 5725,00","MOBIL cu excepţia mobil
+aeronautic  5.446A  5.450A","MOBIL cu excepţia mobil
+aeronautic  5.446A  5.450A",,"Amator
+(în banda 5650–5850 MHz)",,,EN 301 783,,G(A)/NG,,
+,"RADIOLOCAŢIE
+Amator
+Cercetare spaţială (spaţiu îndepărtat)","RADIOLOCAŢIE
+Amator
+Amator prin satelit (Pământ – spaţiu)  5.282  ECA23",,"Amator prin satelit
+(în banda 5650–5670 MHz)
+Fixare poziţie",,,,,,,
+,5.282  5.455,5.455,,Radare maritime (VTS şi pe nave),,,,,,,
+,,ECA22  ECA36,,Radio LAN (WAS/RLAN în benzile 5150 – 5350 MHz şi 5470 – 5725 MHz),,,"ECC/DEC/(04) 08
+ERC/REC 70–03
+EN 301 893
+Decizia 2005/513/CE modificată prin Decizia 2007/90/CE",,,,
+,,,,"Radare pentru meteorologie
+(la sol şi pe aeronave)",,,,,,,
+,,,,"Aplicaţii de radiodeterminare
+(în banda 4500–7000 MHz pentru
+aplicaţii TLPR)",,,"ERC/REC 70–03
+EN 302 372
+Decizia 2009/381/CE (Nota 3)",,,,
+,,,,Radiolocație (militar),,,,,,,
+,,,,"Aplicaţii de bandă ultralargă (UWB generic) (în banda 1600–10600 MHz)
+(Nota 8)",,,"ECC/DEC/(06)04 EN 302 065
+Decizia 2007/131/CE (Nota 7)",,,,
+,,,,,,,,,,,
+,,,,Aplicaţii posibile,,,Reglementări aplicabile/ Documente de referință,,,,
+"5725,00 – 5830,00","FIX PRIN SATELIT (Pământ–
+spaţiu)","FIX PRIN SATELIT (Pământ–
+spaţiu)",,Amator (în banda 5650-5850 MHz),,,EN 301 783,,G(A)/NG,,
+,"RADIOLOCAŢIE
+Amator",RADIOLOCAŢIE FIX,,BFWA (în banda 5725 – 5875 MHz),,,ECC/REC/(06)04 EN 302 502,,,,
+,,Amator  ECA17,,ISM (în banda 5725–5875 MHz),,,,,,,
+,5.150  5.455,"Mobil
+5.150  5.455
+ECA22  ECA36",,SRD nespecifice (în banda 5725– 5875 MHz),,,"ERC/REC 70–03
+EN 300 440
+Decizia 2006/771/CE (Nota 1)",,,,
+,,,,Mijloace de supraveghere a traficului şi a transporturilor rutiere TTT (în benzile 5795–5805 MHz şi 5805–5815 MHz),,,"ERC/REC 70–03
+EN 300 674",,,,
+,,,,Aplicaţii de taxare a utilizării infrastructurii rutiere TTT (în banda 5795-5805 MHz),,,"EN 300 674
+Decizia 2013/752/UE (Nota 6)",,,,
+,,,,Aplicaţii de taxare a utilizării infrastructurii rutiere TTT (în banda 5795-5815 MHz),,,"EN 300 674
+Decizia 2017/1483/UE (Nota 14)",,,,
+,,,,"Aplicaţii TTT de tip smart tahograf, sisteme automate de cântărire şi măsurare (în banda 5795-5815 MHz)",,,Decizia 2019/1345/UE (Nota 15),,,,
+,,,,"Radare pentru meteorologie (la sol
+şi pe aeronave)",,,,,,,
+,,,,"Aplicaţii de radiodeterminare
+(în banda 4500–7000 MHz pentru
+aplicaţii TLPR)",,,"ERC/REC 70–03
+EN 302 372
+Decizia 2009/381/CE (Nota 3)",,,,
+,,,,Aplicaţii wireless industriale (în banda 5725-5875 MHz),,,"ERC/REC 70-03
+EN 303 258",,,,
+,,,,Radiolocație (militar),,,,,,,
+,,,,"Aplicaţii de bandă ultralargă (UWB generic) (în banda 1600–10600 MHz)
+(Nota 8)",,,"ECC/DEC/(06)04 EN 302 065
+Decizia 2007/131/CE (Nota 7)",,,,
+,,,,,,,,,,,
+,,,,Aplicaţii posibile,,,Reglementări aplicabile/ Documente de referință,,,,
+"5830,00 – 5850,00","FIX PRIN SATELIT (Pământ–
+spaţiu)","FIX PRIN SATELIT (Pământ–
+spaţiu)",,Amator  (în banda 5650-5850 MHz),,,EN 301 783,,G(A)/NG,,
+,"RADIOLOCAŢIE
+Amator","RADIOLOCAŢIE
+FIX",,Amator prin satelit (în banda 5830– 5850 MHz),,,,,,,
+,Amator prin satelit (spaţiu– Pământ),"Amator
+Amator prin satelit (spaţiu– Pământ)  ECA23",,"BFWA (în banda 5725 – 5875 MHz)
+ISM (în banda 5725–5875 MHz)",,,"ECC/REC/(06) 04
+EN 302 502",,,,
+,5.150  5.455,"Mobil
+5.150  5.455
+ECA22  ECA36",,"SRD nespecifice (în banda 5725– 5875 MHz)
+Radare pentru meteorologie (la sol
+şi pe aeronave)",,,"ERC/REC 70–03
+EN 300 440
+Decizia 2006/771/CE (Nota 1)",,,,
+,,,,"Aplicaţii de radiodeterminare
+(în banda 4500–7000 MHz pentru
+aplicaţii TLPR)",,,"ERC/REC 70–03
+EN 302 372
+Decizia 2009/381/CE (Nota 3)",,,,
+,,,,Aplicaţii wireless industriale (în banda 5725-5875 MHz),,,"ERC/REC 70-03
+EN 303 258",,,,
+,,,,Radiolocație (militar),,,,,,,
+,,,,"Aplicaţii de bandă ultralargă (UWB generic) (în banda 1600–10600 MHz)
+(Nota 8)",,,"ECC/DEC/(06)04 EN 302 065
+Decizia 2007/131/CE (Nota 7)",,,,
+,,,,,,,,,,,
+,,,,Aplicaţii posibile,,,Reglementări aplicabile/ Documente de referință,,,,
+"5850,00 – 5925,00","FIX
+FIX PRIN SATELIT (Pământ–
+spaţiu)
+MOBIL","FIX
+FIX PRIN SATELIT (Pământ–
+spaţiu)
+MOBIL",,"BFWA (în banda 5725 – 5875 MHz)
+DA2GC (în banda 5855-5875 MHz)",,,"ECC/REC/(06)04 EN 302 502
+ECC/DEC/(15)03 EN 303 316
+EN 303 339",,G(A)/NG,,
+,5.150,5.150,,"Stații de sol în Serviciul Fix prin
+Satelit
+(prioritate pentru reţelele civile)",,,EN 301 443,,,,
+,,,,ISM (în banda 5725–5875 MHz),,,,,,,
+,,,,SRD nespecifice (în banda 5725– 5875 MHz),,,"ERC/REC 70–03
+EN 300 440
+Decizia 2006/771/CE (Nota 1)",,,,
+,,,,Aplicaţii de radiodeterminare (în banda 4500–7000 MHz pentru aplicaţii TLPR),,,"ERC/REC 70–03
+EN 302 372
+Decizia 2009/381/CE (Nota 3)",,,,
+,,,,ITS (în banda 5875–5925 MHz),,,ECC/DEC/(08)01 EN 302 571,,,,
+,,,,"Aplicatii TTT (în benzile 5855–5865
+MHz şi 5865-5875 MHz)",,,"ECC/REC/(08)01 EN 302 571
+Decizia 2019/1345/UE (Nota 15)",,,,
+,,,,"ITS (aplicaţii privind siguranţa, în
+banda 5875–5905 MHz)",,,"ERC/REC 70-03 ECC/DEC/(08)01 EN 302 571
+Decizia 2008/671/CE",,,,
+,,,,"MBR (în banda 5852-5872 MHz și
+5880-5900 MHz)",,,ECC/REC/(17)03 EN 303 276,,,,
+,,,,Aplicaţii wireless industriale (în banda 5725-5875 MHz),,,"ERC/REC 70-03
+EN 303 258",,,,
+,,,,"Aplicaţii de bandă ultralargă (UWB generic) (în banda 1600–10600 MHz)
+(Nota 8)",,,"ECC/DEC/(06)04 EN 302 065
+Decizia 2007/131/CE (Nota 7)",,,,
+,,,,,,,,,,,
+,,,,Aplicaţii posibile,,,Reglementări aplicabile/ Documente de referință,,,,
+"5925,00 – 6425,00",FIX,FIX,,Linii fixe,,,"UIT-R F.383 ECC/REC/(14)06 ERC/REC 14–01
+ERC/REC 14-02
+EN 302 217
+ECC/DEC/(05) 09
+EN 301 443
+ECC/DEC/(05)09 EN 301 443
+ERC/REC 70–03
+EN 302 372
+Decizia 2009/381/CE (Nota 3)
+ECC/DEC/(11)02 ERC/REC 70–03
+EN 302 729
+Decizia 2013/752/UE (Nota 6)
+ECC/DEC/(06)04 EN 302 065
+Decizia 2007/131/CE (Nota 7)",,NG,,
+,"FIX PRIN SATELIT (Pământ–
+spaţiu)  5.457A","FIX PRIN SATELIT (Pământ–
+spaţiu)  5.457A",,,,,,,,,
+,MOBIL,MOBIL,,,,,,,,,
+,,"Explorarea Pământului prin satelit
+(pasiv)",,Stații de sol în Serviciul Fix prin Satelit (prioritate pentru rețelele civile),,,,,,,
+,,,,ESV (în banda 5925-6425 MHz),,,,,,,
+,,,,"Senzori pasivi (satelit) (măsurarea temperaturii la suprafaţa mărilor, a vitezei vântului la suprafaţa mărilor şi a umidităţii solului)",,,,,,,
+,,,,"Aplicaţii de radiodeterminare
+(în banda 4500–7000 MHz pentru
+aplicaţii TLPR)",,,,,,,
+,,,,"Aplicaţii de radiodeterminare
+(în banda 6000-8500 MHz pentru
+aplicații LPR)",,,,,,,
+,,,,"Aplicaţii de bandă ultralargă (UWB generic) (în banda 1600–10600 MHz)
+(Nota 8)",,,,,,,
+,,,,,,,,,,,
+,,,,Aplicaţii posibile,,,Reglementări aplicabile/ Documente de referință,,,,
+"6425,00 – 6700,00",FIX,FIX,,Linii fixe,,,"UIT-R F.384 ECC/REC/(14)06 ERC/REC 14–01
+ERC/REC 14-02
+EN 302 217
+ECC/DEC/(05) 09
+EN 301 443
+ECC/DEC/(05)09 EN 301 443
+ERC/REC 70–03
+EN 302 372
+Decizia 2009/381/CE (Nota 3)
+ECC/DEC/(11)02 ERC/REC 70–03
+EN 302 729
+Decizia 2013/752/UE (Nota 6)
+ECC/DEC/(06)04 EN 302 065
+Decizia 2007/131/CE (Nota 7)",,NG,,
+,"FIX PRIN SATELIT (Pământ–
+spaţiu)","FIX PRIN SATELIT (Pământ–
+spaţiu)",,,,,,,,,
+,MOBIL,Explorarea Pământului prin satelit (pasiv),,,,,,,,,
+,5.149  5.440  5.458,5.149  5.440  5.458,,Stații de sol în Serviciul Fix prin Satelit (prioritate pentru rețelele civile),,,,,,,
+,,,,ESV (în banda 5925-6425 MHz),,,,,,,
+,,,,"Senzori pasivi (satelit) (măsurarea temperaturii la suprafaţa mărilor, a vitezei vântului la suprafaţa mărilor şi a umidităţii solului)",,,,,,,
+,,,,"Aplicaţii de radiodeterminare
+(în banda 4500–7000 MHz pentru
+aplicaţii TLPR)",,,,,,,
+,,,,"Aplicaţii de radiodeterminare
+(în banda 6000-8500 MHz pentru
+aplicații LPR)",,,,,,,
+,,,,"Aplicaţii de bandă ultralargă (UWB generic) (în banda 1600–10600 MHz)
+(Nota 8)",,,,,,,
+,,,,,,,,,,,
+,,,,Aplicaţii posibile,,,Reglementări aplicabile/ Documente de referință,,,,
+"6700,00 – 7075,00",FIX,FIX,,Linii fixe,,,"UIT-R F.384 ECC/REC/(14)06 ERC/REC 14–02
+EN 302 217
+EN 301 443
+ERC/REC 70–03
+EN 302 372
+Decizia 2009/381/CE (Nota 3)
+ECC/DEC/(11)02 ERC/REC 70–03
+EN 302 729
+Decizia 2013/752/UE (Nota 6)
+ECC/DEC/(06)04 EN 302 065
+Decizia 2007/131/CE (Nota 7)",,NG,,
+,"FIX PRIN SATELIT (Pământ–
+spaţiu) (spaţiu–Pământ)  5.441","FIX PRIN SATELIT (Pământ–
+spaţiu) (spaţiu–Pământ)  5.441",,,,,,,,,
+,MOBIL,"Explorarea Pământului prin satelit
+(pasiv)",,Linii de conexiune pentru sateliţi,,,,,,,
+,5.458  5.458A  5.458B,5.458  5.458A  5.458B,,Stații de sol în Serviciul Fix prin Satelit (în banda 6725–7025 MHz; prioritate pentru rețelele civile),,,,,,,
+,,,,"Senzori pasivi (satelit) (măsurarea temperaturii la suprafaţa mărilor, a vântului la suprafaţa mării şi a umidităţii solului)",,,,,,,
+,,,,"Aplicaţii de radiodeterminare
+(în banda 4500–7000 MHz pentru
+aplicaţii TLPR)",,,,,,,
+,,,,"Aplicaţii de radiodeterminare
+(în banda 6000-8500 MHz pentru
+aplicații LPR)",,,,,,,
+,,,,"Aplicaţii de bandă ultralargă (UWB generic) (în banda 1600–10600 MHz)
+(Nota 8)",,,,,,,
+,,,,,,,,,,,
+,,,,Aplicaţii posibile,,,Reglementări aplicabile/ Documente de referință,,,,
+"7075,00 – 7125,00",FIX,FIX,,Linii fixe,,,"UIT-R F.384 ECC/REC/(02)06 ECC/REC/(14)06 ERC/REC 14–02
+EN 302 217
+ECC/DEC/(11)02 ERC/REC 70–03
+EN 302 729
+Decizia 2013/752/UE (Nota 6)
+ECC/DEC/(06)04 EN 302 065
+Decizia 2007/131/CE (Nota 7)",,NG,,
+,MOBIL,"Explorarea Pământului prin satelit
+(pasiv)",,,,,,,,,
+,5.458,,,,,,,,,,
+,,5.458,,,,,,,,,
+,,,,"Senzori pasivi (satelit) (măsurarea temperaturii la suprafaţa mărilor, a vântului la suprafaţa mării şi a umidităţii solului)",,,,,,,
+,,,,"Aplicaţii de radiodeterminare
+(în banda 6000-8500 MHz pentru
+aplicații LPR)",,,,,,,
+,,,,"Aplicaţii de bandă ultralargă (UWB generic) (în banda 1600–10600 MHz)
+(Nota 8)",,,,,,,
+"7125,00 – 7145,00",FIX,FIX,,Linii fixe,,,"UIT-R F.385 ECC/REC/(02)06 ECC/REC/(14)06 ECC/REC/(02)06 EN 302 217
+ECC/DEC/(11)02 ERC/REC 70–03
+EN 302 729
+Decizia 2013/752/UE (Nota 6)
+ECC/DEC/(06)04 EN 302 065
+Decizia 2007/131/CE (Nota 7)",,G(A)/NG,,
+,MOBIL,"Explorarea Pământului prin satelit
+(pasiv)",,,,,,,,,
+,5.458,,,,,,,,,,
+,,5.458,,,,,,,,,
+,,,,"Senzori pasivi (satelit) (măsurarea temperaturii la suprafaţa mărilor, a vântului la suprafaţa mării şi a umidităţii solului)",,,,,,,
+,,,,"Aplicaţii de radiodeterminare
+(în banda 6000-8500 MHz pentru
+aplicații LPR)",,,,,,,
+,,,,"Aplicaţii de bandă ultralargă (UWB generic) (în banda 1600–10600 MHz)
+(Nota 8)",,,,,,,
+,,,,,,,,,,,
+,,,,Aplicaţii posibile,,,Reglementări aplicabile/ Documente de referință,,,,
+"7145,00 – 7190,00","FIX MOBIL
+CERCETARE SPAŢIALĂ (spațiu
+îndepărtat) (Pământ – spaţiu)
+5.458","FIX
+CERCETARE SPAŢIALĂ (spațiu
+îndepărtat) (Pământ – spaţiu)
+Exploatare spaţială (Pământ– spaţiu)
+5.458",,"Linii fixe
+Aplicaţii de radiodeterminare
+(în banda 6000-8500 MHz pentru
+aplicații LPR)",,,"UIT-R F.385 ECC/REC/(02)06 EN 302 217
+ECC/DEC/(11)02 ERC/REC 70–03
+EN 302 729
+Decizia 2013/752/UE (Nota 6)",,G(A)/NG,,
+,,,,"Aplicaţii de bandă ultralargă (UWB generic) (în banda 1600–10600 MHz)
+(Nota 8)",,,"ECC/DEC/(06)04 EN 302 065
+Decizia 2007/131/CE (Nota 7)",,,,
+,,,,Sisteme militare,,,,,,,
+"7190,00 – 7235,00","EXPLORAREA PĂMÂNTULUI
+PRIN SATELIT (Pământ–spaţiu)
+5.460A  5.460B","EXPLORAREA PĂMÂNTULUI
+PRIN SATELIT (Pământ–spaţiu)
+5.460A  5.460B",,"Linii fixe
+Senzori pasivi (satelit) (măsurarea temperaturii la suprafaţa mărilor, a vântului la
+suprafaţa mării şi a umidităţii solului)
+Aplicaţii de radiodeterminare
+(în banda 6000-8500 MHz pentru aplicații LPR)
+Aplicaţii de bandă ultralargă (UWB generic) (în banda 1600–10600 MHz)
+(Nota 8)
+Sisteme militare",,,UIT-R F.385 ECC/REC/(02)06 EN 302 217,,G(A)/NG,,
+,"CERCETARE SPAŢIALĂ
+(Pământ – spaţiu)  5.460","CERCETARE SPAŢIALĂ
+(Pământ – spaţiu)  5.460",,,,,,,,,
+,FIX,FIX,,,,,,,,,
+,MOBIL,,,,,,,,,,
+,5.458,5.458,,,,,"ECC/DEC/(11)02 ERC/REC 70–03
+EN 302 729
+Decizia 2013/752/UE (Nota 6)",,,,
+,,,,,,,"ECC/DEC/(06)04 EN 302 065
+Decizia 2007/131/CE (Nota 7)",,,,
+,,,,,,,,,,,
+,,,,Aplicaţii posibile,,,Reglementări aplicabile/ Documente de referință,,,,
+"7235,00 – 7250,00","EXPLORAREA PĂMÂNTULUI
+PRIN SATELIT (Pământ–spaţiu)
+5.460A","EXPLORAREA PĂMÂNTULUI
+PRIN SATELIT (Pământ–spaţiu)
+5.460A",,Linii fixe,,,UIT-R F.385 ECC/REC/(02)06 EN 302 217,,G(A)/NG,,
+,"FIX MOBIL
+5.458","FIX
+Cercetare spaţială (Pământ– spaţiu)",,"Senzori pasivi (satelit) (măsurarea temperaturii la suprafaţa mărilor, a vântului la
+suprafaţa mării şi a umidităţii solului)",,,,,,,
+,,5.458,,"Aplicaţii de radiodeterminare
+(în banda 6000-8500 MHz pentru
+aplicații LPR)",,,"ECC/DEC/(11)02 ERC/REC 70–03
+EN 302 729
+Decizia 2013/752/UE (Nota 6)",,,,
+,,,,"Aplicaţii de bandă ultralargă (UWB generic) (în banda 1600–10600 MHz)
+(Nota 8)",,,"ECC/DEC/(06)04 EN 302 065
+Decizia 2007/131/CE (Nota 7)",,,,
+,,,,Sisteme militare,,,,,,,
+"7250,00 – 7300,00","FIX
+FIX PRIN SATELIT (spaţiu–
+Pământ)","FIX
+FIX PRIN SATELIT (spaţiu–
+Pământ)",,Linii fixe,,,UIT-R F.385 ECC/REC/(02)06 EN 302 217,,G(A)/NG,,
+,MOBIL,MOBIL,,"Stații de sol în Serviciul Mobil prin
+Satelit (7250–7375 MHz)",,,,,,,
+,5.461,"5.461
+ECA36",,"Aplicaţii de radiodeterminare
+(în banda 6000-8500 MHz pentru
+aplicații LPR)",,,"ECC/DEC/(11)02 ERC/REC 70–03
+EN 302 729
+Decizia 2013/752/UE (Nota 6)",,,,
+,,,,Sisteme militare terestre,,,,,,,
+,,,,Sisteme spațiale (militar),,,,,,,
+,,,,"Aplicaţii de bandă ultralargă (UWB generic) (în banda 1600–10600 MHz)
+(Nota 8)",,,"ECC/DEC/(06)04 EN 302 065
+Decizia 2007/131/CE (Nota 7)",,,,
+,,,,,,,,,,,
+,,,,Aplicaţii posibile,,,Reglementări aplicabile/ Documente de referință,,,,
+"7300,00 – 7375,00",FIX,FIX,,Linii fixe,,,"UIT-R F.385 ECC/REC/(02)06 EN 302 217
+ECC/DEC/(11)02 ERC/REC 70–03
+EN 302 729
+Decizia 2013/752/UE (Nota 6)
+ECC/DEC/(06)04 EN 302 065
+Decizia 2007/131/CE (Nota 7)",,G(A)/NG,,
+,"FIX PRIN SATELIT (spaţiu–
+Pământ)","FIX PRIN SATELIT (spaţiu–
+Pământ)",,,,,,,,,
+,"MOBIL cu excepţia mobil
+aeronautic","MOBIL cu excepţia mobil
+aeronautic",,Stații de sol în Serviciul Mobil prin Satelit (7250–7375 MHz),,,,,,,
+,5.461,"5.461
+ECA36",,"Aplicaţii de radiodeterminare
+(în banda 6000-8500 MHz pentru
+aplicații LPR)",,,,,,,
+,,,,Sisteme militare terestre,,,,,,,
+,,,,Sisteme spațiale (militar),,,,,,,
+,,,,"Aplicaţii de bandă ultralargă (UWB generic) (în banda 1600–10600 MHz)
+(Nota 8)",,,,,,,
+"7375,00 – 7425,00",FIX,FIX,,Linii fixe,,,"UIT-R F.385 ECC/REC/(02)06 EN 302 217
+ECC/DEC/(11)02 ERC/REC 70–03
+EN 302 729
+Decizia 2013/752/UE (Nota 6)
+ECC/DEC/(06)04 EN 302 065
+Decizia 2007/131/CE (Nota 7)",,G(A)/NG,,
+,"FIX PRIN SATELIT (spaţiu–
+Pământ)","FIX PRIN SATELIT (spaţiu–
+Pământ)",,,,,,,,,
+,"MOBIL MARITIM PRIN SATELIT
+(spațiu-Pământ)  5.461AA
+5.461AB","MOBIL MARITIM PRIN SATELIT
+(spațiu-Pământ)  5.461AA
+5.461AB",,Stații de sol în Serviciul Mobil prin Satelit (7250–7375 MHz),,,,,,,
+,"MOBIL cu excepţia mobil
+aeronautic","MOBIL cu excepţia mobil
+aeronautic",,"Aplicaţii de radiodeterminare
+(în banda 6000-8500 MHz pentru
+aplicații LPR)",,,,,,,
+,,ECA36,,,,,,,,,
+,,,,Sisteme militare terestre,,,,,,,
+,,,,Sisteme spațiale (militar),,,,,,,
+,,,,"Aplicaţii de bandă ultralargă (UWB generic) (în banda 1600–10600 MHz)
+(Nota 8)",,,,,,,
+,,,,,,,,,,,
+,,,,Aplicaţii posibile,,,Reglementări aplicabile/ Documente de referință,,,,
+"7425,00 – 7450,00",FIX,FIX,,Linii fixe,,,"UIT-R F.385 ECC/REC/(02)06 EN 302 217
+ECC/DEC/(11)02 ERC/REC 70–03
+EN 302 729
+Decizia 2013/752/UE (Nota 6)
+ECC/DEC/(06)04 EN 302 065
+Decizia 2007/131/CE (Nota 7)",,G(A)/NG,,
+,"FIX PRIN SATELIT (spaţiu–
+Pământ)","FIX PRIN SATELIT (spaţiu–
+Pământ)",,,,,,,,,
+,"MOBIL MARITIM PRIN SATELIT
+(spațiu-Pământ)  5.461AA
+5.461AB","MOBIL MARITIM PRIN SATELIT
+(spațiu-Pământ)  5.461AA
+5.461AB",,Stații de sol în Serviciul Mobil prin Satelit (7250–7375 MHz),,,,,,,
+,"MOBIL cu excepţia mobil
+aeronautic",MOBIL cu excepţia mobil aeronautic,,"Aplicaţii de radiodeterminare
+(în banda 6000-8500 MHz pentru
+aplicații LPR)",,,,,,,
+,,ECA36,,,,,,,,,
+,,,,Sisteme militare terestre (în condițiile agreate între instituțiile care gestionează spectrul radio la nivel național),,,,,,,
+,,,,Sisteme spațiale (militar) (în condițiile agreate între instituțiile care gestionează spectrul radio la nivel național),,,,,,,
+,,,,"Aplicaţii de bandă ultralargă (UWB generic) (în banda 1600–10600 MHz)
+(Nota 8)",,,,,,,
+,,,,,,,,,,,
+,,,,Aplicaţii posibile,,,Reglementări aplicabile/ Documente de referință,,,,
+"7450,00 – 7484,00","FIX
+FIX PRIN SATELIT (spaţiu–
+Pământ)","FIX
+FIX PRIN SATELIT (spaţiu–
+Pământ)",,Linii fixe,,,UIT-R F.385 ECC/REC/(02)06 EN 302 217,,G(A)/NG,,
+,"MOBIL MARITIM PRIN SATELIT
+(spațiu-Pământ)  5.461AA
+5.461AB
+METEOROLOGIC PRIN
+SATELIT (spaţiu–Pământ)","MOBIL MARITIM PRIN SATELIT
+(spațiu-Pământ)  5.461AA
+5.461AB
+METEOROLOGIC PRIN
+SATELIT (spaţiu–Pământ)",,"Aplicaţii de radiodeterminare
+(în banda 6000-8500 MHz pentru
+aplicații LPR)",,,"ECC/DEC/(11)02 ERC/REC 70–03
+EN 302 729
+Decizia 2013/752/UE (Nota 6)",,,,
+,"MOBIL cu excepţia mobil
+aeronautic
+5.461A","MOBIL cu excepţia mobil
+aeronautic
+5.461A",,Sisteme militare terestre (în condițiile agreate între instituțiile care gestionează spectrul radio la nivel național),,,,,,,
+,,ECA36,,Sisteme spațiale (militar) (în condițiile agreate între instituțiile care gestionează spectrul radio la nivel național),,,,,,,
+,,,,Sateliţi meteorologici (limitat la sisteme geostaţionare),,,,,,,
+,,,,"Aplicaţii de bandă ultralargă (UWB generic) (în banda 1600–10600 MHz)
+(Nota 8)",,,"ECC/DEC/(06)04 EN 302 065
+Decizia 2007/131/CE (Nota 7)",,,,
+,,,,,,,,,,,
+,,,,Aplicaţii posibile,,,Reglementări aplicabile/ Documente de referință,,,,
+"7484,00 – 7550,00","FIX
+FIX PRIN SATELIT (spaţiu–
+Pământ)","FIX
+FIX PRIN SATELIT (spaţiu–
+Pământ)",,Linii fixe,,,UIT-R F.385 ECC/REC/(02)06 EN 302 217,,G/G(A)/NG,,
+,"MOBIL MARITIM PRIN SATELIT
+(spațiu-Pământ)  5.461AA
+5.461AB
+METEOROLOGIC PRIN
+SATELIT (spaţiu–Pământ)","MOBIL MARITIM PRIN SATELIT
+(spațiu-Pământ)  5.461AA
+5.461AB
+METEOROLOGIC PRIN
+SATELIT (spaţiu–Pământ)",,"Aplicaţii de radiodeterminare
+(în banda 6000-8500 MHz pentru
+aplicații LPR)",,,"ECC/DEC/(11)02 ERC/REC 70–03
+EN 302 729
+Decizia 2013/752/UE (Nota 6)",,,,
+,"MOBIL cu excepţia mobil
+aeronautic
+5.461A","MOBIL cu excepţia mobil
+aeronautic
+5.461A",,Sisteme militare terestre (în condițiile agreate între instituțiile care gestionează spectrul radio la nivel național),,,,,,,
+,,ECA36,,Sisteme spațiale (militar) (în condițiile agreate între instituțiile care gestionează spectrul radio la nivel național),,,,,,,
+,,,,Sateliţi meteorologici (limitat la sisteme geostaţionare),,,,,,,
+,,,,"Aplicaţii de bandă ultralargă (UWB generic) (în banda 1600–10600 MHz)
+(Nota 8)",,,"ECC/DEC/(06)04 EN 302 065
+Decizia 2007/131/CE (Nota 7)",,,,
+,,,,,,,,,,,
+,,,,Aplicaţii posibile,,,Reglementări aplicabile/ Documente de referință,,,,
+"7550,00 – 7568,00",FIX,FIX,,Linii fixe,,,"UIT-R F.385 ECC/REC/(02)06 EN 302 217
+ECC/DEC/(11)02 ERC/REC 70–03
+EN 302 729
+Decizia 2013/752/UE (Nota 6)
+ECC/DEC/(06)04 EN 302 065
+Decizia 2007/131/CE (Nota 7)",,G/G(A)/NG,,
+,"FIX PRIN SATELIT (spaţiu–
+Pământ)","FIX PRIN SATELIT (spaţiu–
+Pământ)",,,,,,,,,
+,"MOBIL MARITIM PRIN SATELIT
+(spațiu-Pământ)  5.461AA 5.461AB
+MOBIL cu excepţia mobil
+aeronautic","MOBIL MARITIM PRIN SATELIT
+(spațiu-Pământ)  5.461AA
+5.461AB
+MOBIL cu excepţia mobil
+aeronautic",,"Aplicaţii de radiodeterminare
+(în banda 6000-8500 MHz pentru
+aplicații LPR)",,,,,,,
+,,ECA36,,Sisteme militare terestre (în condițiile agreate între instituțiile care gestionează spectrul radio la nivel național),,,,,,,
+,,,,Sisteme spațiale (militar) (în condițiile agreate între instituțiile care gestionează spectrul radio la nivel național),,,,,,,
+,,,,"Aplicaţii de bandă ultralargă (UWB generic) (în banda 1600–10600 MHz)
+(Nota 8)",,,,,,,
+"7568,00 – 7638,00","FIX
+FIX PRIN SATELIT (spaţiu–
+Pământ)","FIX
+FIX PRIN SATELIT (spaţiu–
+Pământ)",,Linii fixe,,,UIT-R F.385 ECC/REC/(02)06 EN 302 217,,G(A)/NG,,
+,"MOBIL MARITIM PRIN SATELIT
+(spațiu-Pământ)  5.461AA
+5.461AB
+MOBIL cu excepţia mobil
+aeronautic","MOBIL MARITIM PRIN SATELIT
+(spațiu-Pământ)  5.461AA 5.461AB
+MOBIL cu excepţia mobil
+aeronautic",,"Aplicaţii de radiodeterminare
+(în banda 6000-8500 MHz pentru
+aplicații LPR)",,,"ECC/DEC/(11)02 ERC/REC 70–03
+EN 302 729
+Decizia 2013/752/UE (Nota 6)",,,,
+,,ECA36,,Sisteme militare terestre (în condițiile agreate între instituțiile care gestionează spectrul radio la nivel național),,,,,,,
+,,,,Sisteme spațiale (militar) (în condițiile agreate între instituțiile care gestionează spectrul radio la nivel național),,,,,,,
+,,,,"Aplicaţii de bandă ultralargă (UWB generic) (în banda 1600–10600 MHz)
+(Nota 8)",,,"ECC/DEC/(06)04 EN 302 065
+Decizia 2007/131/CE (Nota 7)",,,,
+,,,,,,,,,,,
+,,,,Aplicaţii posibile,,,Reglementări aplicabile/ Documente de referință,,,,
+"7638,00 – 7725,00",FIX,FIX,,Linii fixe,,,"UIT-R F.385 ECC/REC/(02)06 EN 302 217
+ECC/DEC/(11)02 ERC/REC 70–03
+EN 302 729
+Decizia 2013/752/UE (Nota 6)
+ECC/DEC/(06)04 EN 302 065
+Decizia 2007/131/CE (Nota 7)",,G/G(A)/NG,,
+,"FIX PRIN SATELIT (spaţiu–
+Pământ)","FIX PRIN SATELIT (spaţiu–
+Pământ)",,,,,,,,,
+,"MOBIL MARITIM PRIN SATELIT
+(spațiu-Pământ)  5.461AA
+5.461AB
+MOBIL cu excepţia mobil
+aeronautic","MOBIL MARITIM PRIN SATELIT
+(spațiu-Pământ)  5.461AA
+5.461AB
+MOBIL cu excepţia mobil
+aeronautic",,"Aplicaţii de radiodeterminare
+(în banda 6000-8500 MHz pentru
+aplicații LPR)",,,,,,,
+,,ECA36,,Sisteme militare terestre (în condițiile agreate între instituțiile care gestionează spectrul radio la nivel național),,,,,,,
+,,,,Sisteme spațiale (militar) (în condițiile agreate între instituțiile care gestionează spectrul radio la nivel național),,,,,,,
+,,,,"Aplicaţii de bandă ultralargă (UWB generic) (în banda 1600–10600 MHz)
+(Nota 8)",,,,,,,
+"7725,00 – 7750,00","FIX
+FIX PRIN SATELIT (spaţiu–
+Pământ)
+MOBIL MARITIM PRIN SATELIT
+(spațiu-Pământ)  5.461AA
+5.461AB
+MOBIL cu excepţia mobil
+aeronautic","FIX
+FIX PRIN SATELIT (spaţiu–
+Pământ)
+MOBIL MARITIM PRIN SATELIT
+(spațiu-Pământ)  5.461AA
+5.461AB
+MOBIL cu excepţia mobil
+aeronautic",,"Linii fixe
+Aplicaţii de radiodeterminare
+(în banda 6000-8500 MHz pentru
+aplicații LPR)
+Sisteme militare terestre",,,"UIT-R F.386 EN 302 217
+ECC/DEC/(11)02 ERC/REC 70–03
+EN 302 729
+Decizia 2013/752/UE (Nota 6)",,G(A)/NG,,
+,,ECA36,,Sisteme spațiale (militar),,,,,,,
+,,,,"Aplicaţii de bandă ultralargă (UWB generic) (în banda 1600–10600 MHz)
+(Nota 8)",,,"ECC/DEC/(06)04 EN 302 065
+Decizia 2007/131/CE (Nota 7)",,,,
+,,,,,,,,,,,
+,,,,Aplicaţii posibile,,,Reglementări aplicabile/ Documente de referință,,,,
+"7750,00 – 7900,00",FIX,FIX,,Linii fixe,,,"UIT-R F.386 EN 302 217
+ECC/DEC/(11)02 ERC/REC 70–03
+EN 302 729
+Decizia 2013/752/UE (Nota 6)
+ECC/DEC/(06)04 EN 302 065
+Decizia 2007/131/CE (Nota 7)",,G(A)/NG,,
+,"METEOROLOGIC PRIN
+SATELIT (spaţiu-Pământ)
+5.461B
+MOBIL cu excepţia mobil aeronautic","METEOROLOGIC PRIN
+SATELIT (spaţiu-Pământ) 5.461B
+MOBIL cu excepţia mobil
+aeronautic",,"Aplicaţii de radiodeterminare
+(în banda 6000-8500 MHz pentru
+aplicații LPR)",,,,,,,
+,,,,Sisteme militare terestre,,,,,,,
+,,,,Sisteme spațiale (militar),,,,,,,
+,,,,"Sateliţi pentru meteorologie (limitat
+la sisteme non-geostaţionare)",,,,,,,
+,,,,"Aplicaţii de bandă ultralargă (UWB generic) (în banda 1600–10600 MHz)
+(Nota 8)",,,,,,,
+"7900,00 – 8025,00","FIX
+FIX PRIN SATELIT (Pământ–
+spaţiu)
+MOBIL","FIX
+FIX PRIN SATELIT (Pământ–
+spaţiu)
+MOBIL",,"Linii fixe
+Stații de sol în Serviciul Mobil prin
+Satelit",,,UIT-R F.386 ECC/REC/(02)06 EN 302 217,,G(A)/NG,,
+,5.461,"5.461
+ECA36",,"Aplicaţii de radiodeterminare
+(în banda 6000-8500 MHz pentru
+aplicații LPR)",,,"ECC/DEC/(11)02 ERC/REC 70–03
+EN 302 729
+Decizia 2013/752/UE (Nota 6)",,,,
+,,,,Sisteme militare terestre,,,,,,,
+,,,,Sisteme spațiale (militar),,,,,,,
+,,,,"Aplicaţii de bandă ultralargă (UWB generic) (în banda 1600–10600 MHz)
+(Nota 8)",,,"ECC/DEC/(06)04 EN 302 065
+Decizia 2007/131/CE (Nota 7)",,,,
+,,,,,,,,,,,
+,,,,Aplicaţii posibile,,,Reglementări aplicabile/ Documente de referință,,,,
+"8025,00 – 8175,00","EXPLORAREA PĂMÂNTULUI
+PRIN SATELIT (spaţiu–Pământ)","EXPLORAREA PĂMÂNTULUI
+PRIN SATELIT (spaţiu–Pământ)",,"Sisteme de explorare a Pământului
+prin satelit (telemetrie prin satelit)",,,"UIT-R F.386 ECC/REC/(02)06 EN 302 217
+ECC/DEC/(11)02 ERC/REC 70–03
+EN 302 729
+Decizia 2013/752/UE (Nota 6)
+ECC/DEC/(06)04 EN 302 065
+Decizia 2007/131/CE (Nota 7)",,G(A)/NG,,
+,"FIX
+FIX PRIN SATELIT (Pământ–
+spaţiu)","FIX
+FIX PRIN SATELIT (Pământ–
+spaţiu)",,Linii fixe,,,,,,,
+,MOBIL 5.463,MOBIL  5.463,,"Mobil terestru (în banda 8025 –
+8200 MHz)",,,,,,,
+,5.462A,5.462A ECA36,,"Aplicaţii de radiodeterminare
+(în banda 6000-8500 MHz pentru
+aplicații LPR)",,,,,,,
+,,,,Sisteme militare terestre,,,,,,,
+,,,,Sisteme spațiale (militar),,,,,,,
+,,,,"Aplicaţii de bandă ultralargă (UWB generic) (în banda 1600–10600 MHz)
+(Nota 8)",,,,,,,
+"8175,00 – 8215,00","EXPLORAREA PĂMÂNTULUI
+PRIN SATELIT (spaţiu–Pământ)","EXPLORAREA PĂMÂNTULUI
+PRIN SATELIT (spaţiu–Pământ)",,"Sisteme de explorare a Pămintului
+prin satelit (telemetrie prin satelit) Linii fixe
+Mobil terestru (în banda 8025 –
+8200 MHz)
+Aplicaţii de radiodeterminare
+(în banda 6000-8500 MHz pentru
+aplicații LPR)
+Sisteme militare terestre
+Sisteme spațiale (militar)
+Aplicaţii de bandă ultralargă (UWB generic) (în banda 1600–10600 MHz)
+(Nota 8)",,,"UIT-R F.386 ECC/REC/(02)06 EN 302 217
+ECC/DEC/(11)02 ERC/REC 70–03
+EN 302 729
+Decizia 2013/752/UE (Nota 6)
+ECC/DEC/(06)04 EN 302 065
+Decizia 2007/131/CE (Nota 7)",,G(A)/NG,,
+,FIX,FIX,,,,,,,,,
+,"FIX PRIN SATELIT (Pământ–
+spaţiu)","FIX PRIN SATELIT (Pământ–
+spaţiu)",,,,,,,,,
+,"METEOROLOGIC PRIN
+SATELIT (Pământ–spaţiu)","METEOROLOGIC PRIN
+SATELIT (Pământ–spaţiu",,,,,,,,,
+,MOBIL  5.463,MOBIL  5.463,,,,,,,,,
+,5.462A,5.462A,,,,,,,,,
+,,ECA36,,,,,,,,,
+,,,,,,,,,,,
+,,,,Aplicaţii posibile,,,Reglementări aplicabile/ Documente de referință,,,,
+"8215,00 – 8400,00","EXPLORAREA PĂMÂNTULUI
+PRIN SATELIT (spaţiu–Pământ)
+FIX","EXPLORAREA PĂMÂNTULUI
+PRIN SATELIT (spaţiu–Pământ)
+FIX",,Sisteme militare (Bandă militară armonizată pentru exploatarea sateliţilor),,,,,G(A)/NG,,
+,"FIX PRIN SATELIT (Pământ–
+spaţiu)
+MOBIL  5.463","FIX PRIN SATELIT (Pământ–
+spaţiu)
+MOBIL  5.463",,"Sisteme de explorare a Pămintului
+prin satelit (telemetrie prin satelit)",,,,,,,
+,5.462A,5.462A,,Linii fixe,,,UIT-R F.386 ECC/REC/(02)06 EN 302 217,,,,
+,,,,Radioastronomie (măsurări continue şi VLBI pentru Serviciul de Cercetare Spațială),,,,,,,
+,,,,"Aplicaţii de radiodeterminare
+(în banda 6000-8500 MHz pentru
+aplicații LPR)",,,"ECC/DEC/(11)02 ERC/REC 70–03
+EN 302 729
+Decizia 2013/752/UE (Nota 6)",,,,
+,,,,Sisteme militare terestre,,,,,,,
+,,,,Sisteme spațiale (militar),,,,,,,
+,,,,"Aplicaţii de bandă ultralargă (UWB generic) (în banda 1600–10600 MHz)
+(Nota 8)",,,"ECC/DEC/(06)04 EN 302 065
+Decizia 2007/131/CE (Nota 7)",,,,
+"8400,00 – 8500,00","FIX
+CERCETARE SPAŢIALĂ
+(spaţiu–Pământ)  5.465
+MOBIL cu excepţia mobil
+aeronautic","FIX
+CERCETARE SPAŢIALĂ
+(spaţiu–Pământ)  5.465
+Radiolocaţie",,"Linii fixe
+Cercetare spaţială (telemetrie prin satelit) (banda 8400 – 8450 MHz este limitată la aplicaţii pentru spaţiul îndepărtat; observații continue şi VLBI pentru Serviciul de Cercetare Spațială)",,,UIT-R F.386 ECC/REC/(02)06 EN 302 217,,G(A) / NG,,
+,,,,"Aplicaţii de radiodeterminare
+(în banda 6000-8500 MHz pentru
+aplicații LPR)",,,"ECC/DEC/(11)02 ERC/REC 70–03
+EN 302 729
+Decizia 2013/752/UE (Nota 6)",,,,
+,,,,"Aplicaţii de bandă ultralargă (UWB generic) (în banda 1600–10600 MHz)
+(Nota 8)",,,"ECC/DEC/(06)04 EN 302 065
+Decizia 2007/131/CE (Nota 7)",,,,
+,,,,,,,,,,,
+,,,,Aplicaţii posibile,,,Reglementări aplicabile/ Documente de referință,,,,
+"8500,00 – 8550,00","RADIOLOCAŢIE
+5.469","RADIOLOCAŢIE
+RADIONAVIGAŢIE  5.469",,"Radionavigaţie aeronautică (civilă şi militară, de exemplu pentru apropiere la aterizare)",,,,,G(A)/NG,,
+,,ECA24  ECA36,,"Aplicaţii de radiodeterminare (în banda 8,5–10,6 GHz pentru aplicaţii TLPR)",,,"ERC/REC 70–03
+EN 302 372
+Decizia 2009/381/CE (Nota 3)",,,,
+,,,,"Radiolocație (civil) (supraveghere la bordul navelor, aeronavelor și terestră)",,,EN 303 135,,,,
+,,,,"Radiolocație (militar) (supraveghere la bordul navelor, aeronavelor și terestră)",,,,,,,
+,,,,Sisteme militare aeronautice,,,,,,,
+,,,,"Aplicaţii de bandă ultralargă (UWB generic) (în banda 1600–10600 MHz)
+(Nota 8)",,,"ECC/DEC/(06)04 EN 302 065
+Decizia 2007/131/CE (Nota 7)",,,,
+"8550,00 – 8650,00",CERCETARE SPAŢIALĂ (activ),CERCETARE SPAŢIALĂ (activ),,Senzori activi (satelit),,,,,G(A)/NG,,
+,"EXPLORAREA PĂMÂNTULUI
+PRIN SATELIT (activ) RADIOLOCAŢIE","EXPLORAREA PĂMÂNTULUI
+PRIN SATELIT (activ)
+RADIOLOCAŢIE
+RADIONAVIGAŢIE  5.469",,"Radionavigaţie aeronautică (civilă şi militară, de exemplu pentru apropiere la aterizare)",,,,,,,
+,5.469  5.469A,"5.469A
+ECA24  ECA36",,"Aplicaţii de radiodeterminare (în banda 8,5–10,6 GHz pentru aplicaţii TLPR)",,,"ERC/REC 70–03
+EN 302 372
+Decizia 2009/381/CE (Nota 3)",,,,
+,,,,"Radiolocație (civil) (supraveghere la bordul navelor, aeronavelor și terestră)",,,EN 303 135,,,,
+,,,,"Radiolocație (militar) (supraveghere la bordul navelor, aeronavelor și terestră)",,,,,,,
+,,,,Sisteme militare aeronautice,,,,,,,
+,,,,"Aplicaţii de bandă ultralargă (UWB generic) (în banda 1600–10600 MHz)
+(Nota 8)",,,"ECC/DEC/(06)04 EN 302 065
+Decizia 2007/131/CE (Nota 7)",,,,
+,,,,,,,,,,,
+,,,,Aplicaţii posibile,,,Reglementări aplicabile/ Documente de referință,,,,
+"8650,00 – 8750,00","RADIOLOCAŢIE
+5.469","RADIOLOCAŢIE
+RADIONAVIGAŢIE  5.469",,"Radionavigaţie aeronautică (civilă şi militară, de exemplu apropiere la aterizare)",,,,,G(A)/NG,,
+,,ECA24  ECA36,,"Aplicaţii de radiodeterminare (în banda 8,5–10,6 GHz pentru aplicaţii TLPR)",,,"ERC/REC 70–03
+EN 302 372
+Decizia 2009/381/CE (Nota 3)",,,,
+,,,,"Radiolocație (civil) (supraveghere la bordul navelor, aeronavelor și terestră)",,,EN 303 135,,,,
+,,,,"Radiolocație (militar) (supraveghere la bordul navelor, aeronavelor și terestră)",,,,,,,
+,,,,Sisteme militare aeronautice,,,,,,,
+,,,,"Aplicaţii de bandă ultralargă (UWB generic) (în banda 1600–10600 MHz)
+(Nota 8)",,,"ECC/DEC/(06)04 EN 302 065
+Decizia 2007/131/CE (Nota 7)",,,,
+"8750,00 – 8850,00","RADIONAVIGAŢIE
+AERONAUTICĂ  5.470
+RADIOLOCAŢIE","RADIONAVIGAŢIE
+AERONAUTICĂ  5.470
+RADIOLOCAŢIE",,"Radionavigaţie aeronautică (civilă şi militară, de exemplu apropiere la aterizare)",,,,,G(A)/NG,,
+,,"Cercetare spaţială
+ECA24  ECA36",,"Aplicaţii de radiodeterminare (în banda 8,5–10,6 GHz pentru aplicaţii TLPR)",,,"ERC/REC 70–03
+EN 302 372
+Decizia 2009/381/CE (Nota 3)",,,,
+,,,,"Radiolocație (civil) (supraveghere la bordul navelor, aeronavelor și terestră)",,,EN 303 135,,,,
+,,,,"Radiolocație (militar) (supraveghere la bordul navelor, aeronavelor și terestră)",,,,,,,
+,,,,Sisteme militare aeronautice,,,,,,,
+,,,,"Aplicaţii de bandă ultralargă (UWB generic) (în banda 1600–10600 MHz)
+(Nota 8)",,,"ECC/DEC/(06)04 EN 302 065
+Decizia 2007/131/CE (Nota 7)",,,,
+,,,,,,,,,,,
+,,,,Aplicaţii posibile,,,Reglementări aplicabile/ Documente de referință,,,,
+"8850,00 – 9000,00","RADIONAVIGAŢIE MARITIMA
+5.472
+RADIOLOCAŢIE","RADIONAVIGAŢIE MARITIMA
+5.472
+RADIOLOCAŢIE",,"Radionavigaţie aeronautică (civilă şi militară, de exemplu apropiere la aterizare)",,,,,G(A)/NG,,
+,5.473,"RADIONAVIGAŢIE  5.473
+Cercetare spaţială",,"Aplicaţii de radiodeterminare (în banda 8,5–10,6 GHz pentru aplicaţii TLPR)",,,"ERC/REC 70–03
+EN 302 372
+Decizia 2009/381/CE (Nota 3)",,,,
+,,ECA24  ECA36,,"Radiolocație (civil) (supraveghere la bordul navelor, aeronavelor și terestră)",,,EN 303 135,,,,
+,,,,"Radiolocație (militar) (supraveghere la bordul navelor, aeronavelor și terestră)",,,,,,,
+,,,,Sisteme militare aeronautice,,,,,,,
+,,,,"Aplicaţii de bandă ultralargă (UWB generic) (în banda 1600–10600 MHz)
+(Nota 8)",,,"ECC/DEC/(06)04 EN 302 065
+Decizia 2007/131/CE (Nota 7)",,,,
+"9000,00 – 9200,00","RADIONAVIGAŢIE
+AERONAUTICĂ  5.337
+RADIOLOCAŢIE","RADIONAVIGAŢIE
+AERONAUTICĂ  5.337
+RADIOLOCAŢIE",,"Radionavigaţie aeronautică (civilă şi militară, de exemplu apropiere la aterizare)",,,,,G(A)/NG,,
+,5.473A,"Cercetare spaţială
+5.473A
+ECA24  ECA36",,"Aplicaţii de radiodeterminare (în banda 8,5–10,6 GHz pentru aplicaţii TLPR)",,,"ERC/REC 70–03
+EN 302 372
+Decizia 2009/381/CE (Nota 3)",,,,
+,,,,"Radiolocație (civil) (supraveghere la bordul navelor, aeronavelor și terestră; EN 303 213-1 senzori în banda X)",,,"EN 303 135
+EN 303 213",,,,
+,,,,"Radiolocație (militar) (supraveghere la bordul navelor, aeronavelor și terestră)",,,,,,,
+,,,,Sisteme militare aeronautice,,,,,,,
+,,,,"Aplicaţii de bandă ultralargă (UWB generic) (în banda 1600–10600 MHz)
+(Nota 8)",,,"ECC/DEC/(06)04 EN 302 065
+Decizia 2007/131/CE (Nota 7)",,,,
+,,,,,,,,,,,
+,,,,Aplicaţii posibile,,,Reglementări aplicabile/ Documente de referință,,,,
+"9200,00 – 9300,00",EXPLORAREA PĂMÂNTULUI PRIN SATELIT (activ) 5.474A 5.474B  5.474C,EXPLORAREA PĂMÂNTULUI PRIN SATELIT (activ) 5.474A 5.474B  5.474C,,"Radionavigaţie aeronautică (civilă şi militară, de exemplu apropiere la aterizare)",,,,,G(A)/NG,,
+,"RADIONAVIGAŢIE MARITIMĂ
+5.472
+RADIOLOCAŢIE
+5.473  5.474  5.474D","RADIONAVIGAŢIE MARITIMĂ
+5.472
+RADIOLOCAŢIE
+RADIONAVIGAŢIE  5.473
+Cercetare spaţială",,"Aplicaţii de radiodeterminare (în banda 9200–9975 MHz; în banda 8,5–10,6 GHz pentru aplicaţii TLPR) (decizia Comisiei Europene este aplicabilă numai pentru aplicaţii TLPR)",,,"ERC/REC 70–03
+EN 302 372
+EN 300 440
+Decizia 2009/381/CE (Nota 3)",,,,
+,,5.474  5.474D ECA24  ECA36,,"Radiolocație (civil) (supraveghere la bordul navelor, aeronavelor și terestră)",,,EN 303 135,,,,
+,,,,"Radiolocație (militar) (supraveghere la bordul navelor, aeronavelor și terestră)",,,,,,,
+,,,,Sisteme militare aeronautice,,,,,,,
+,,,,Radare cu sinteză de apertură,,,,,,,
+,,,,"Aplicaţii de bandă ultralargă (UWB generic) (în banda 1600–10600 MHz)
+(Nota 8)",,,"ECC/DEC/(06)04 EN 302 065
+Decizia 2007/131/CE (Nota 7)",,,,
+,,,,,,,,,,,
+,,,,Aplicaţii posibile,,,Reglementări aplicabile/ Documente de referință,,,,
+"9300,00 – 9500,00","EXPLORAREA PĂMÂNTULUI
+PRIN SATELIT (activ)
+CERCETARE SPAŢIALĂ (activ)","EXPLORAREA PĂMÂNTULUI
+PRIN SATELIT (activ)
+CERCETARE SPAŢIALĂ (activ)",,"Radionavigaţie aeronautică (civilă şi militară, de exemplu apropiere la aterizare)",,,,,G(A)/NG,,
+,RADIOLOCAŢIE RADIONAVIGAŢIE,RADIOLOCAŢIE RADIONAVIGAŢIE,,"Radare pentru meteorologie (supraveghere la bordul navelor, aeronavelor și terestră)",,,,,,,
+,"5.427  5.474  5.475  5.475A
+5.475B  5.476A","5.427  5.474  5.475  5.475A
+5.475B  5.476A ECA24  ECA36",,"Aplicaţii de radiodeterminare (în banda 9200–9975 MHz; în banda 8,5–10,6 GHz pentru aplicaţii TLPR) (decizia Comisiei Europene este aplicabilă numai pentru aplicaţii TLPR)",,,"ERC/REC 70–03
+EN 302 372
+EN 300 440
+Decizia 2009/381/CE (Nota 3)",,,,
+,,,,"Radiolocație (civil) (supraveghere la bordul navelor, aeronavelor și terestră; EN 303 213-1 senzori în banda X)",,,"EN 302 194
+EN 302 248
+EN 302 752
+EN 303 135
+EN 303 213",,,,
+,,,,"Radiolocație (militar) (supraveghere la bordul navelor, aeronavelor și terestră)",,,,,,,
+,,,,Sisteme militare aeronautice,,,,,,,
+,,,,Sisteme spațiale (militar),,,,,,,
+,,,,"Aplicaţii de bandă ultralargă (UWB generic) (în banda 1600–10600 MHz)
+(Nota 8)",,,"ECC/DEC/(06)04 EN 302 065
+Decizia 2007/131/CE (Nota 7)",,,,
+,,,,,,,,,,,
+,,,,Aplicaţii posibile,,,Reglementări aplicabile/ Documente de referință,,,,
+"9500,00 – 9800,00",EXPLORAREA PĂMÂNTULUI PRIN SATELIT (activ),"EXPLORAREA PĂMÂNTULUI
+PRIN SATELIT (activ)",,Senzori activi (satelit),,,,,G(A)/NG,,
+,"CERCETARE SPAŢIALĂ (activ) RADIOLOCAŢIE
+RADIONAVIGAŢIE","CERCETARE SPAŢIALĂ (activ) RADIOLOCAŢIE
+RADIONAVIGAŢIE",,"Radionavigaţie aeronautică (civilă şi militară, de exemplu pentru apropiere la aterizare)",,,,,,,
+,5.476A,"5.476A
+EU24  ECA36",,"Aplicaţii de radiodeterminare (în banda 9200–9975 MHz; în banda 8,5–10,6 GHz pentru aplicaţii TLPR) (decizia Comisiei Europene este aplicabilă numai pentru aplicaţii TLPR)",,,"ERC/REC 70–03
+EN 302 372
+EN 300 440
+Decizia 2009/381/CE (Nota 3)",,,,
+,,,,"Radiolocație (civil) (supraveghere la bordul navelor, aeronavelor și terestră)",,,EN 303 135,,,,
+,,,,"Radiolocație (militar) (supraveghere la bordul navelor, aeronavelor și terestră)",,,,,,,
+,,,,Sisteme militare aeronautice,,,,,,,
+,,,,Sisteme spațiale (militar),,,,,,,
+,,,,"Aplicaţii de bandă ultralargă (UWB generic) (în banda 1600–10600 MHz)
+(Nota 8)",,,"ECC/DEC/(06)04 EN 302 065
+Decizia 2007/131/CE (Nota 7)",,,,
+,,,,,,,,,,,
+,,,,Aplicaţii posibile,,,Reglementări aplicabile/ Documente de referință,,,,
+"9800,00 – 9900,00","RADIOLOCAŢIE
+Explorarea Pământului prin
+satelit (activ)
+Cercetare spaţială (activ)
+Fix
+5.478  5.478A  5.478B","RADIOLOCAŢIE
+RADIONAVIGAŢIE  5.478
+Explorarea Pământului prin satelit
+(activ)
+Cercetare spaţială (activ)
+5.478A  5.478B",,"Radionavigaţie aeronautică (civilă şi militară, de exemplu pentru apropiere la aterizare)
+Aplicaţii de radiodeterminare (în banda 9200–9975 MHz; în banda 8,5–10,6 GHz pentru aplicaţii TLPR) (decizia Comisiei Europene este aplicabilă numai pentru aplicaţii TLPR)",,,"ERC/REC 70–03
+EN 302 372
+EN 300 440
+Decizia 2009/381/CE (Nota 3)",,G(A)/NG,,
+,,ECA24  ECA36,,"Radiolocație (civil) (supraveghere la bordul navelor, aeronavelor și terestră)",,,EN 303 135,,,,
+,,,,"Radiolocație (militar) (supraveghere la bordul navelor, aeronavelor și terestră)",,,,,,,
+,,,,Sisteme militare aeronautice,,,,,,,
+,,,,Sisteme spațiale (militar),,,,,,,
+,,,,Radare cu sinteză de apertură,,,,,,,
+,,,,"Aplicaţii de bandă ultralargă (UWB generic) (în banda 1600–10600 MHz)
+(Nota 8)",,,"ECC/DEC/(06)04 EN 302 065
+Decizia 2007/131/CE (Nota 7)",,,,
+,,,,,,,,,,,
+,,,,Aplicaţii posibile,,,Reglementări aplicabile/ Documente de referință,,,,
+"9900,00 – 10000,00",EXPLORAREA PĂMÂNTULUI PRIN SATELIT (activ) 5.474A 5.474B  5.474C,EXPLORAREA PĂMÂNTULUI PRIN SATELIT (activ) 5.474A 5.474B  5.474C,,"Radionavigaţie aeronautică (civilă şi militară, de exemplu pentru apropiere la aterizare)",,,,,G(A)/NG,,
+,"RADIOLOCAŢIE
+Fix
+5.474D  5.478  5.479","RADIOLOCAŢIE
+RADIONAVIGAŢIE  5.478
+5.474D  5.479 EU24  ECA36",,"Aplicaţii de radiodeterminare (în banda 9200–9975 MHz; în banda 8,5–10,6 GHz pentru aplicaţii TLPR) (decizia Comisiei Europene este aplicabilă numai pentru aplicaţii TLPR)",,,"ERC/REC 70–03
+EN 302 372
+EN 300 440
+Decizia 2009/381/CE (Nota 3)",,,,
+,,,,"Radiolocație (civil) (supraveghere la bordul navelor, aeronavelor și terestră)",,,EN 303 135,,,,
+,,,,"Radiolocație (militar) (supraveghere la bordul navelor, aeronavelor și terestră)",,,,,,,
+,,,,Sisteme militare aeronautice,,,,,,,
+,,,,Sisteme spațiale (militar),,,,,,,
+,,,,"Aplicaţii de bandă ultralargă (UWB generic) (în banda 1600–10600 MHz)
+(Nota 8)",,,"ECC/DEC/(06)04 EN 302 065
+Decizia 2007/131/CE (Nota 7)",,,,

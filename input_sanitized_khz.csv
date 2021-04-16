@@ -1,0 +1,2268 @@
+﻿"Banda de frecvenţe
+(kHz)","Atribuiri Regiunea 1 UIT şi
+note subsol aplicabile CEPT",Atribuiri în România,Utilizări în România,Column1,Column2,Column3,Column4,Column5,Column6,Statut utilizare,Column7
+"0,00 – 8,30","NEATRIBUIT
+5.53  5.54","NEATRIBUIT
+5.53  5.54",NEATRIBUIT,,,NEATRIBUIT,,,,G(A)/NG,
+"8,30 – 9,00","AUXILIAR METEOROLOGIC
+5.54A  5.54B","AUXILIAR METEOROLOGIC
+5.54A","Sisteme pentru detectarea
+descărcărilor electrice",,,,,,,G(A)/NG,
+"9,00 – 11,30",AUXILIAR METEOROLOGIC 5.54A,AUXILIAR METEOROLOGIC 5.54A,"Sisteme pentru detectarea
+descărcărilor electrice",,,,,,,G(A)/NG,
+,RADIONAVIGAȚIE,,,,,,,,,,
+,,RADIONAVIGAȚIE,"Aplicaţii inductive (în banda 9–148,5 kHz)",,,"ERC/REC 70–03
+EN 300 330
+Decizia 2010/368/UE (Nota 4)",,,,,
+,,,Implanturi medicale active (în banda 9–315 kHz),,,"ERC/REC 70–03
+EN 302 195
+Decizia 2008/432/CE (Nota 2)",,,,,
+"11,30 – 14,00",RADIONAVIGAŢIE,RADIONAVIGAŢIE,"Aplicaţii inductive (în banda 9–148,5 kHz)",,,"ERC/REC 70–03
+EN 300 330
+Decizia 2010/368/UE (Nota 4)",,,,G(A)/NG,
+,,,ISM,,,,,,,,
+,,,Implanturi medicale active (în banda 9–315 kHz),,,"ERC/REC 70–03
+EN 302 195
+Decizia 2008/432/CE (Nota 2)",,,,,
+"14,00 – 19,95","FIX
+MOBIL MARITIM  5.57
+5.55  5.56","FIX
+MOBIL MARITIM  5.57
+5.56","Aplicaţii inductive (în banda 9–148,5 kHz)
+Sisteme militare terestre",,,"ERC/REC 70–03
+EN 300 330
+Decizia 2010/368/UE (Nota 4)",,,,G(A)/NG,
+,,ECA36,Sisteme militare maritime,,,,,,,,
+,,,Implanturi medicale active (în banda 9–315 kHz),,,"ERC/REC 70–03
+EN 302 195
+Decizia 2008/432/CE (Nota 2)",,,,,
+"19,95 – 20,05","FRECVENŢE ETALON ŞI
+SEMNALE ORARE (20 kHz)","FRECVENŢE ETALON ŞI
+SEMNALE ORARE (20 kHz)","Aplicaţii inductive (în banda 9–148,5 kHz)",,,"ERC/REC 70–03
+EN 300 330
+Decizia 2010/368/UE (Nota 4)",,,,NG,
+,,,Implanturi medicale active (în banda 9–315 kHz),,,"ERC/REC 70–03
+EN 302 195
+Decizia 2008/432/CE (Nota 2)",,,,,
+"20,05 – 70,00","FIX
+MOBIL MARITIM  5.57
+5.56  5.58","FIX
+MOBIL MARITIM  5.57
+5.56","Aplicaţii inductive (în banda 9–148,5 kHz)
+Sisteme militare terestre",,,"ERC/REC 70–03
+EN 300 330
+Decizia 2006/771/CE (Nota 1)",,,,G(A)/NG,
+,,ECA36,Sisteme militare maritime,,,,,,,,
+,,,Implanturi medicale active (în banda 9–315 kHz),,,"ERC/REC 70–03
+EN 302 195
+Decizia 2008/432/CE (Nota 2)",,,,,
+"70,00 – 72,00",RADIONAVIGAŢIE  5.60,RADIONAVIGAŢIE  5.60,"Aplicaţii inductive (în banda 9–148,5 kHz)",,,"ERC/REC 70–03
+EN 300 330
+Decizia 2006/771/CE (Nota 1)
+ERC/REC 70–03
+EN 302 195
+Decizia 2008/432/CE (Nota 2)",,,,G(A)/NG,
+,,ECA36,,,,,,,,,
+,,,Sisteme militare terestre,,,,,,,,
+,,,Sisteme militare maritime,,,,,,,,
+,,,Implanturi medicale active (în banda 9–315 kHz),,,,,,,,
+"72,00 – 84,00","FIX
+MOBIL MARITIM  5.57","FIX
+MOBIL MARITIM  5.57","Semnal orar DCF (frecvenţa 77,5
+kHz)",,,"ERC/REC 70–03
+EN 300 330
+Decizia 2006/771/CE (Nota 1)
+ERC/REC 70–03
+EN 302 195
+Decizia 2008/432/CE (Nota 2)",,,,G(A)/NG,
+,RADIONAVIGAŢIE  5.60,RADIONAVIGAŢIE  5.60,"Aplicaţii inductive (în banda 9–148,5 kHz)",,,,,,,,
+,5.56,5.56,,,,,,,,,
+,,ECA36,Sisteme militare terestre,,,,,,,,
+,,,Sisteme militare maritime,,,,,,,,
+,,,Implanturi medicale active (în banda 9–315 kHz),,,,,,,,
+"84,00 – 86,00",RADIONAVIGAŢIE  5.60,RADIONAVIGAŢIE  5.60,"Aplicaţii inductive (în banda 9–148,5 kHz)",,,"ERC/REC 70–03
+EN 300 330
+Decizia 2006/771/CE (Nota 1)
+ERC/REC 70–03
+EN 302 195
+Decizia 2008/432/CE (Nota 2)",,,,G(A)/NG,
+,,ECA36,,,,,,,,,
+,,,Sisteme militare terestre,,,,,,,,
+,,,Sisteme militare maritime,,,,,,,,
+,,,Implanturi medicale active (în banda 9–315 kHz),,,,,,,,
+"86,00 – 90,00","FIX
+MOBIL MARITIM  5.57","FIX
+MOBIL MARITIM  5.57","Aplicaţii inductive (în banda 9–148,5 kHz)",,,"ERC/REC 70–03
+EN 300 330
+Decizia 2006/771/CE (Nota 1)
+ERC/REC 70–03
+EN 302 195
+Decizia 2008/432/CE (Nota 2)",,,,G(A)/NG,
+,RADIONAVIGAŢIE,RADIONAVIGAŢIE,,,,,,,,,
+,,,Sisteme militare terestre,,,,,,,,
+,5.56,"5.56
+ECA36",Sisteme militare maritime,,,,,,,,
+,,,Implanturi medicale active (în banda 9–315 kHz),,,,,,,,
+"90,00 – 110,00","RADIONAVIGAŢIE  5.62
+Fix","RADIONAVIGAŢIE  5.62
+Fix","Aplicaţii inductive (în banda 9–148,5 kHz)",,,"ERC/REC 70–03
+EN 300 330
+Decizia 2006/771/CE (Nota 1)
+ERC/REC 70–03
+EN 302 195
+Decizia 2008/432/CE (Nota 2)",,,,G(A)/NG,
+,5.64,5.64,LORAN–C,,,,,,,,
+,,ECA36,Sisteme militare terestre,,,,,,,,
+,,,Sisteme militare maritime,,,,,,,,
+,,,Implanturi medicale active (în banda 9–315 kHz),,,,,,,,
+"110,00 – 112,00","FIX
+MOBIL MARITIM","FIX
+MOBIL MARITIM","Aplicaţii inductive (în banda 9–148,5 kHz)",,,"ERC/REC 70–03
+EN 300 330
+Decizia 2006/771/CE (Nota 1)
+ERC/REC 70–03
+EN 302 195
+Decizia 2008/432/CE (Nota 2)",,,,G(A)/NG,
+,RADIONAVIGAŢIE,RADIONAVIGAŢIE,,,,,,,,,
+,,,Sisteme militare terestre,,,,,,,,
+,5.64,"5.64
+ECA36",Sisteme militare maritime,,,,,,,,
+,,,Implanturi medicale active (în banda 9–315 kHz),,,,,,,,
+"112,00 – 115,00",RADIONAVIGAŢIE  5.60,RADIONAVIGAŢIE  5.60,"Aplicaţii inductive (în banda 9–148,5 kHz)",,,"ERC/REC 70–03
+EN 300 330
+Decizia 2006/771/CE (Nota 1)
+ERC/REC 70–03
+EN 302 195
+Decizia 2008/432/CE (Nota 2)",,,,G(A)/NG,
+,,ECA36,,,,,,,,,
+,,,Sisteme militare terestre,,,,,,,,
+,,,Sisteme militare maritime,,,,,,,,
+,,,Implanturi medicale active (în banda 9–315 kHz),,,,,,,,
+"115,00 – 117,60","RADIONAVIGAŢIE  5.60
+Fix","RADIONAVIGAŢIE  5.60
+Fix","Aplicaţii inductive (în banda 9–148,5 kHz)",,,"ERC/REC 70–03
+EN 300 330
+Decizia 2006/771/CE (Nota 1)
+ERC/REC 70–03
+EN 302 195
+Decizia 2008/432/CE (Nota 2)",,,,G(A)/NG,
+,Mobil maritim,Mobil maritim,,,,,,,,,
+,,,Sisteme militare terestre,,,,,,,,
+,5.64  5.66,"5.64
+ECA36",Sisteme militare maritime,,,,,,,,
+,,,Implanturi medicale active (în banda 9–315 kHz),,,,,,,,
+"117,60 – 126,00","FIX
+MOBIL MARITIM","FIX
+MOBIL MARITIM","Aplicaţii inductive (în banda 9–148,5 kHz)",,,"ERC/REC 70–03
+EN 300 330
+Decizia 2006/771/CE (Nota 1)
+ERC/REC 70–03
+EN 302 195
+Decizia 2008/432/CE (Nota 2)",,,,G(A)/NG,
+,RADIONAVIGAŢIE  5.60,RADIONAVIGAŢIE  5.60,,,,,,,,,
+,,,Sisteme militare terestre,,,,,,,,
+,5.64,"5.64
+ECA36",Sisteme militare maritime,,,,,,,,
+,,,Implanturi medicale active (în banda 9–315 kHz),,,,,,,,
+"126,00 – 129,00",RADIONAVIGAŢIE  5.60,RADIONAVIGAŢIE  5.60,"Aplicaţii inductive (în banda 9–148,5 kHz)",,,"ERC/REC 70–03
+EN 300 330
+Decizia 2006/771/CE (Nota 1)
+ERC/REC 70–03
+EN 302 195
+Decizia 2008/432/CE (Nota 2)",,,,G(A)/NG,
+,,ECA36,,,,,,,,,
+,,,Sisteme militare terestre,,,,,,,,
+,,,Sisteme militare maritime,,,,,,,,
+,,,Implanturi medicale active (în banda 9–315 kHz),,,,,,,,
+"129,00 – 130,00","FIX
+MOBIL MARITIM","FIX
+MOBIL MARITIM","Aplicaţii inductive (în banda 9–148,5 kHz)",,,"ERC/REC 70–03
+EN 300 330
+Decizia 2006/771/CE (Nota 1)
+ERC/REC 70–03
+EN 302 195
+Decizia 2008/432/CE (Nota 2)",,,,G(A)/NG,
+,RADIONAVIGAŢIE  5.60,RADIONAVIGAŢIE  5.60,,,,,,,,,
+,,,Sisteme militare terestre,,,,,,,,
+,5.64,"5.64
+ECA36",Sisteme militare maritime,,,,,,,,
+,,,Implanturi medicale active (în banda 9–315 kHz),,,,,,,,
+"130,00 – 135,70","FIX
+MOBIL MARITIM
+5.64  5.67","FIX
+MOBIL MARITIM
+5.64","Aplicaţii inductive (în banda 9–148,5 kHz)
+Sisteme militare terestre",,,"ERC/REC 70–03
+EN 300 330
+Decizia 2006/771/CE (Nota 1)",,,,G(A)/NG,
+,,ECA36,Sisteme militare maritime,,,,,,,,
+,,,Implanturi medicale active (în banda 9–315 kHz),,,"ERC/REC 70–03
+EN 302 195
+Decizia 2008/432/CE (Nota 2)",,,,,
+"135,70 – 137,80",FIX,FIX,"Amator (135,7–137,8 kHz)",,,"EN 301 783
+ERC/REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)
+ERC/REC 70–03
+EN 302 195
+Decizia 2008/432/CE (Nota 2)",,,,G(A)/NG,
+,"MOBIL MARITIM
+Amator  5.67A","MOBIL MARITIM
+Amator  5.67A","Aplicaţii inductive (în banda 9–148,5 kHz)",,,,,,,,
+,5.67B,"5.64
+ECA36",Sisteme militare terestre,,,,,,,,
+,,,Sisteme militare maritime,,,,,,,,
+,,,Implanturi medicale active (în banda 9–315 kHz),,,,,,,,
+"137,80 – 148,50","FIX
+MOBIL MARITIM
+5.64  5.67","FIX
+MOBIL MARITIM
+5.64","Aplicaţii inductive (în banda 9–148,5 kHz)
+Sisteme militare terestre",,,"ERC/REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)",,,,G(A)/NG,
+,,ECA36,Sisteme militare maritime,,,,,,,,
+,,,Implanturi medicale active (în banda 9–315 kHz),,,"ERC/REC 70–03
+EN 302 195
+Decizia 2008/432/CE (Nota 2)",,,,,
+"148,50 – 255,00","RADIODIFUZIUNE
+5.68  5.69  5.70",RADIODIFUZIUNE,Radiodifuziune sonoră (Plan de asignări de frecvenţe - Geneva 1975. Vor fi introduse sisteme digitale.),,,"EN 302 017
+EN 302 245",,,,NG,
+,,,"Aplicaţii inductive (în banda 148,5 kHz–30 MHz)",,,"ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)",,,,,
+,,,Implanturi medicale active (în banda 9–315 kHz),,,"ERC/REC 70–03
+EN 302 195
+Decizia 2008/432/CE (Nota 2)",,,,,
+"255,00 – 283,50","RADIODIFUZIUNE
+RADIONAVIGAŢIE AERONAUTICĂ
+5.70  5.71","RADIODIFUZIUNE
+RADIONAVIGAŢIE AERONAUTICĂ
+ECA36","Radiofaruri aeronautice (Plan de asignări de frecvenţe - Geneva 1985)
+Radiodifuziune sonoră (Plan de asignări de frecvenţe - Geneva 1975. Vor fi introduse sisteme digitale)",,,"EN 302 017
+EN 302 245",,,,G(A)/NG,
+,,,"Aplicaţii inductive (în banda 148,5 kHz–30 MHz)",,,"ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)",,,,,
+,,,Implanturi medicale active (în banda 9–315 kHz),,,"ERC/REC 70–03
+EN 302 195
+Decizia 2008/432/CE (Nota 2)",,,,,
+,,,Sisteme militare aeronautice,,,,,,,,
+,,,Sisteme militare maritime,,,,,,,,
+"283,50 – 315,00",RADIONAVIGAŢIE AERONAUTICĂ,RADIONAVIGAŢIE AERONAUTICĂ,Radiofaruri aeronautice (Plan de asignări de frecvenţe - Geneva 1985),,,,,,,G(A)/NG,
+,"RADIONAVIGAŢIE MARITIMĂ
+(radiofaruri)  5.73","RADIONAVIGAŢIE MARITIMĂ
+(radiofaruri) 5.73",Radiofaruri maritime (Plan de asignări de frecvenţe - Geneva 1985),,,,,,,,
+,5.74,"5.74
+ECA36","Aplicaţii inductive (în banda 148,5 kHz–30 MHz)",,,"ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)",,,,,
+,,,Implanturi medicale active (în banda 9–315 kHz),,,"ERC/REC 70–03
+EN 302 195
+Decizia 2008/432/CE (Nota 2)",,,,,
+,,,Sisteme militare aeronautice,,,,,,,,
+,,,Sisteme militare maritime,,,,,,,,
+"315,00 – 325,00",RADIONAVIGAŢIE AERONAUTICĂ,RADIONAVIGAŢIE AERONAUTICĂ,Radiofaruri aeronautice (Plan de asignări de frecvenţe - Geneva 1985),,,,,,,G(A)/NG,
+,"Radionavigaţie maritimă
+(radiofaruri) 5.73","Radionavigaţie maritimă
+(radiofaruri) 5.73",Radiofaruri maritime (Plan de asignări de frecvenţe - Geneva 1985),,,,,,,,
+,5.75,ECA36,"Aplicaţii inductive (în banda 148,5 kHz–30 MHz)",,,"ERC REC 70–03
+EN 300 330
+EN 302 536
+Decizia 2008/432/CE (Nota 2)",,,,,
+,,,Sisteme militare aeronautice,,,,,,,,
+,,,Sisteme militare maritime,,,,,,,,
+"325,00 – 405,00",RADIONAVIGAŢIE AERONAUTICĂ,RADIONAVIGAŢIE AERONAUTICĂ,Radiofaruri aeronautice (Plan de asignări de frecvenţe - Geneva 1985,,,,,,,G(A)/NG,
+,,ECA36,"Aplicaţii inductive (în banda 148,5 kHz–30 MHz ; RFID doar în banda 400–600 kHz)",,,"ERC REC 70–03
+EN 300 330
+EN 302 536
+Decizia 2008/432/CE (Nota 2)",,,,,
+,,,Sisteme militare aeronautice,,,,,,,,
+,,,Sisteme militare maritime,,,,,,,,
+"405,00 – 415,00",RADIONAVIGAŢIE  5.76,RADIONAVIGAŢIE  5.76,Radiofaruri aeronautice (Plan de asignări de frecvenţe - Geneva 1985),,,,,,,G(A)/NG,
+,,ECA36,Radiofaruri maritime (Plan de asignări de frecvenţe - Geneva 1985),,,,,,,,
+,,,"Aplicaţii inductive (în banda 148,5 kHz–30 MHz ; RFID doar în banda 400–600 kHz)",,,"ERC REC 70–03
+EN 300 330
+EN 302 536
+Decizia 2008/432/CE (Nota 2)",,,,,
+,,,Sisteme militare aeronautice,,,,,,,,
+,,,Sisteme militare maritime,,,,,,,,
+"415,00 – 435,00",RADIONAVIGAŢIE AERONAUTICĂ,RADIONAVIGAŢIE AERONAUTICĂ,Radiofaruri aeronautice (Plan de asignări de frecvenţe - Geneva 1985),,,,,,,G(A)/NG,
+,MOBIL MARITIM  5.79,"MOBIL MARITIM  5.79
+ECA36",Radiocomunicaţii maritime (Plan de asignări de frecvenţe - Geneva 1985),,,EN 300 338,,,,,
+,,,"Aplicaţii inductive (în banda 148,5 kHz–30 MHz; RFID doar în banda 400–600 kHz)",,,"ERC REC 70–03
+EN 300 330
+EN 302 536
+Decizia 2008/432/CE (Nota 2)",,,,,
+,,,Sisteme militare aeronautice,,,,,,,,
+,,,Sisteme militare maritime,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+"435,00 – 472,00","MOBIL MARITIM  5.79
+Radionavigaţie aeronautică
+5.77  5.82","MOBIL MARITIM  5.79
+Radionavigaţie aeronautică
+5.82","SRD nespecifice
+(442,2-450 kHz pentru detecţia persoanelor şi evitarea coliziunilor; 456,9-457,1 kHz pentru detecţia urgenţelor)",,,"ERC REC 70–03
+EN 300 330
+EN 300 718
+Decizia 2013/752/UE (Nota 6)",,,,G(A)/NG,
+,,ECA36,Radiocomunicaţii maritime (Plan de asignări de frecvenţe - Geneva 1985),,,EN 300 338,,,,,
+,,,"Aplicaţii inductive (în banda 148,5 kHz–30 MHz ; RFID doar în banda 400–600 kHz)",,,"ERC REC 70–03
+EN 300 330
+EN 302 536
+Decizia 2008/432/CE (Nota 2)",,,,,
+,,,Sisteme militare aeronautice,,,,,,,,
+,,,Sisteme militare maritime,,,,,,,,
+"472,00 – 479,00",MOBIL MARITIM  5.79,MOBIL MARITIM  5.79 5.79A,Amator,,,EN 301 783,,,,G(A)/NG,
+,"Radionavigaţie aeronautică
+5.77 5.80
+Amator 5.80A","Radionavigaţie aeronautică
+Amator 5.80A",Radiocomunicaţii maritime (Plan de asignări de frecvenţe - Geneva 1985),,,EN 300 338,,,,,
+,5.80B  5.82,"5.80B ECA36
+5.82","Aplicaţii inductive (în banda 148,5 kHz–30 MHz ; RFID doar în banda 400–600 kHz)",,,"ERC REC 70–03
+EN 300 330
+EN 302 536
+Decizia 2008/432/CE (Nota 2)",,,,,
+,,,Sisteme militare aeronautice,,,,,,,,
+,,,Sisteme militare maritime,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+"479,00 – 495,00","MOBIL MARITIM  5.79 5.79A
+Radionavigaţie aeronautică
+5.77
+5.82","MOBIL MARITIM  5.79 5.79A
+Radionavigaţie aeronautică
+5.77
+5.82","Radiocomunicaţii maritime (Plan de asignări de frecvenţe - Geneva 1985)
+Transmisii NAVTEX în limba
+naţională (490 kHz)",,,"EN 300 338
+EN 300 065",,,,G(A)/NG,
+,,,"Aplicaţii inductive (în banda 148,5 kHz–30 MHz ; RFID doar în banda 400–600 kHz)",,,"ERC REC 70–03
+EN 300 330
+EN 302 536
+Decizia 2008/432/CE (Nota 2)",,,,,
+,,,Sisteme militare aeronautice,,,,,,,,
+,,,Sisteme militare maritime,,,,,,,,
+"495,00 – 505,00",MOBIL  MARITIM,MOBIL ECA39,"Aplicaţii inductive (în banda 148,5 kHz–30 MHz; RFID doar în banda 400–600 kHz)",,,"ERC REC 70–03
+EN 300 330
+EN 302 536
+Decizia 2008/432/CE (Nota 2)",,,,G(A)/NG,
+,,,Sisteme militare maritime,,,,,,,,
+"505,00 – 526,50",MOBIL MARITIM  5.79  5.79A 5.84,MOBIL MARITIM  5.79  5.79A 5.84,Radiofaruri aeronautice (Plan de asignări de frecvenţe - Geneva 1985),,,,,,,G(A)/NG,
+,RADIONAVIGAŢIE AERONAUTICĂ,RADIONAVIGAŢIE AERONAUTICĂ,Radiocomunicaţii maritime (Plan de asignări de frecvenţe - Geneva 1985),,,EN 300 338,,,,,
+,,ECA36,"Transmisii NAVTEX în limbi de
+circulaţie internaţională (518 kHz)",,,EN 300 065,,,,,
+,,,"Aplicaţii inductive (în banda 148,5 kHz–30 MHz; RFID doar în banda 400–600 kHz)",,,"ERC REC 70–03
+EN 300 330
+EN 302 536
+Decizia 2008/432/CE (Nota 2)",,,,,
+,,,Sisteme militare aeronautice,,,,,,,,
+,,,Sisteme militare maritim,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+"526,50 – 1606,50","RADIODIFUZIUNE
+5.87  5.87A",RADIODIFUZIUNE,Radiodifuziune sonoră (Plan de asignări de frecvenţe - Geneva 1975. Vor fi introduse sisteme digitale.),,,"EN 302 017
+EN 302 245",,,,NG,
+,,,"Aplicaţii inductive (în banda 148,5 kHz–30 MHz; RFID doar în banda 400–600 kHz)",,,"ERC REC 70–03
+EN 300 330
+EN 302 536
+Decizia 2008/432/CE (Nota 2)",,,,,
+,,,"Aplicaţii căi ferate (în banda 984-7484 kHz, frecvenţă centrală 4234 kHz / sistemul Eurobalise)",,,"ERC REC 70–03
+EN 302 608
+Decizia 2013/752/UE (Nota 6)",,,,,
+"1606,50 – 1625,00","FIX
+MOBIL TERESTRU","FIX
+MOBIL TERESTRU",Radiocomunicaţii maritime (Plan de asignări de frecvenţe - Geneva 1985),,,"EN 303 402
+ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)
+ERC REC 70–03
+EN 302 608
+Decizia 2013/752/UE (Nota 6)",,,,G(A)/NG,
+,MOBIL MARITIM  5.90,"MOBIL MARITIM  5.90
+Radiolocație","Aplicaţii inductive (în banda 148,5 kHz–30 MHz)",,,,,,,,
+,5.92,,,,,,,,,,
+,,ECA36,,,,,,,,,
+,,,"Aplicaţii căi ferate (în banda 984- 7484 kHz, frecvenţă centrală 4234 kHz / sistemul Eurobalise)",,,,,,,,
+,,,Sisteme militare terestre,,,,,,,,
+,,,Sisteme militare maritime,,,,,,,,
+,,,Aplicații radiodeterminare,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+"1625,00 – 1635,00",RADIOLOCAŢIE,RADIOLOCAŢIE,"Aplicaţii inductive (în banda 148,5 kHz–30 MHz)",,,"ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)
+ERC REC 70–03
+EN 302 608
+Decizia 2013/752/UE (Nota 6)",,,,G(A)/NG,
+,5.93,5.93,,,,,,,,,
+,,ECA36,,,,,,,,,
+,,,"Aplicaţii căi ferate (în banda 984- 7484 kHz, frecvenţă centrală 4234 kHz / sistemul Eurobalise)",,,,,,,,
+,,,Aplicații radiodeterminare,,,,,,,,
+,,,Radiolocație (militară),,,,,,,,
+"1635,00 – 1800,00","FIX
+MOBIL TERESTRU","FIX
+MOBIL TERESTRU",Radiocomunicaţii maritime (Plan de asignări de frecvenţe - Geneva 1985),,,EN 303 402,,,,G(A)/NG,
+,MOBIL MARITIM  5.90,MOBIL MARITIM  5.90,,,,,,,,,
+,5.92  5.96,"5.96
+ECA36","Aplicaţii inductive (în banda 148,5 kHz–30 MHz)",,,"ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)",,,,,
+,,,"Aplicaţii căi ferate (în banda 984- 7484 kHz, frecvenţă centrală 4234 kHz / sistemul Eurobalise)",,,"ERC REC 70–03
+EN 302 608
+Decizia 2013/752/UE (Nota 6)",,,,,
+,,,Sisteme militare terestre,,,,,,,,
+,,,Sisteme militare maritime,,,,,,,,
+,,,Aplicații radiodeterminare,,,,,,,,
+"1800,00 – 1810,00",RADIOLOCAŢIE,RADIOLOCAŢIE,"Aplicaţii inductive (în banda 148,5 kHz–30 MHz)",,,"ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)
+ERC REC 70–03
+EN 302 608
+Decizia 2013/752/UE (Nota 6)",,,,G(A)/NG,
+,5.93,5.93,,,,,,,,,
+,,ECA36,,,,,,,,,
+,,,"Aplicaţii căi ferate (în banda 984- 7484 kHz, frecvenţă centrală 4234 kHz / sistemul Eurobalise)",,,,,,,,
+,,,Aplicații radiodeterminare,,,,,,,,
+,,,Radiolocație (militară),,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+"1810,00 – 1830,00",AMATOR,AMATOR,Amator,,,EN 301 783,,,,G(A)/G/NG,
+,5.98  5.99  5.100,"FIX
+MOBIL cu excepţia mobil
+aeronautic","Aplicaţii inductive (în banda 148,5 kHz–30 MHz)",,,"ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)",,,,,
+,,5.98  5.100,"Aplicaţii căi ferate (în banda 984- 7484 kHz, frecvenţă centrală 4234 kHz / sistemul Eurobalise)",,,"ERC REC 70–03
+EN 302 608
+Decizia 2013/752/UE (Nota 6)",,,,,
+"1830,00 – 1850,00",AMATOR,AMATOR,Amator,,,EN 301 783,,,,NG,
+,5.98  5.99  5.100,5.98 5.100,"Aplicaţii inductive (în banda 148,5 kHz–30 MHz)",,,"ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)",,,,,
+,,,"Aplicaţii căi ferate (în banda 984- 7484 kHz, frecvenţă centrală 4234 kHz / sistemul Eurobalise)",,,"ERC REC 70–03
+EN 302 608
+Decizia 2013/752/UE (Nota 6)",,,,,
+"1850,00 – 2000,00",FIX,FIX,Amator,,,EN 301 783,,,,G(A)/NG,
+,"MOBIL cu excepţia mobil
+aeronautic","MOBIL cu excepţia mobil
+aeronautic",Radiocomunicații maritime,,,EN 303 402,,,,,
+,5.92  5.96  5.103,5.92  5.96  5.103,Aplicaţii militare,,,,,,,,
+,,ECA36,"Aplicaţii inductive (în banda 148,5 kHz–30 MHz)",,,"ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)",,,,,
+,,,"Aplicaţii căi ferate (în banda 984- 7484 kHz, frecvenţă centrală 4234 kHz / sistemul Eurobalise)",,,"ERC REC 70–03
+EN 302 608
+Decizia 2013/752/UE (Nota 6)",,,,,
+,,,Sisteme militare terestre,,,,,,,,
+,,,Sisteme militare maritime,,,,,,,,
+,,,Aplicații radiodeterminare,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+"2000,00 – 2025,00",FIX,FIX,Radiocomunicații maritime,,,EN 303 402,,,,G(A)/NG,
+,"MOBIL cu excepţia mobil
+aeronautic (R)
+5.92  5.103","MOBIL cu excepţia mobil
+aeronautic (R)
+5.103","Aplicaţii inductive (în banda 148,5 kHz–30 MHz)",,,"ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)",,,,,
+,,ECA36,"Aplicaţii căi ferate (în banda 984- 7484 kHz, frecvenţă centrală 4234 kHz / sistemul Eurobalise)",,,"ERC REC 70–03
+EN 302 608
+Decizia 2013/752/UE (Nota 6)",,,,,
+,,,Sisteme militare terestre,,,,,,,,
+,,,Sisteme militare maritime,,,,,,,,
+,,,Aplicații radiodeterminare,,,,,,,,
+"2025,00 – 2045,00",FIX,FIX,Radiocomunicații maritime,,,EN 303 402,,,,G(A)/NG,
+,"MOBIL cu excepţia mobil
+aeronautic (R)
+Auxiliar meteorologic  5.104","MOBIL cu excepţia mobil
+aeronautic (R)
+Auxiliar meteorologic  5.104",Radiobalize oceanografice pentru meteorologie,,,,,,,,
+,5.92  5.103,"5.92  5.103
+ECA36","Aplicaţii inductive (în banda 148,5 kHz–30 MHz)",,,"ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)",,,,,
+,,,"Aplicaţii căi ferate (în banda 984- 7484 kHz, frecvenţă centrală 4234 kHz / sistemul Eurobalise)",,,"ERC REC 70–03
+EN 302 608
+Decizia 2013/752/UE (Nota 6)",,,,,
+,,,Sisteme militare terestre,,,,,,,,
+,,,Sisteme militare maritime,,,,,,,,
+,,,Aplicații radiodeterminare,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+"2045,00 – 2160,00","FIX
+MOBIL TERESTRU","FIX
+MOBIL TERESTRU",Radiocomunicaţii maritime (Plan de asignări de frecvenţe - Geneva 1985),,,"EN 303 402
+ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)
+ERC REC 70–03
+EN 302 608
+Decizia 2013/752/UE (Nota 6)",,,,G(A)/NG,
+,MOBIL MARITIM,MOBIL MARITIM,"Aplicaţii inductive (în banda 148,5 kHz–30 MHz)",,,,,,,,
+,5.92,5.92,,,,,,,,,
+,,ECA 36,,,,,,,,,
+,,,"Aplicaţii căi ferate (în banda 984- 7484 kHz, frecvenţă centrală 4234 kHz / sistemul Eurobalise)",,,,,,,,
+,,,Sisteme militare terestre,,,,,,,,
+,,,Sisteme militare maritime,,,,,,,,
+"2160,00 – 2170,00",RADIOLOCAŢIE,RADIOLOCAŢIE,"Aplicaţii inductive (în banda 148,5 kHz–30 MHz)",,,"ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)
+ERC REC 70–03
+EN 302 608
+Decizia 2013/752/UE (Nota 6)",,,,G(A)/NG,
+,5.93  5.107,5.93,,,,,,,,,
+,,ECA36,,,,,,,,,
+,,,"Aplicaţii căi ferate (în banda 984- 7484 kHz, frecvenţă centrală 4234 kHz / sistemul Eurobalise)",,,,,,,,
+,,,Aplicații radiodeterminare,,,,,,,,
+,,,Radiolocație (militară),,,,,,,,
+"2170,00 – 2173,50",MOBIL MARITIM,MOBIL MARITIM,Radiocomunicaţii maritime,,,EN 303 402,,,,G(A)/NG,
+,,ECA36,"Aplicaţii inductive (în banda 148,5 kHz–30 MHz)",,,"ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)",,,,,
+,,,"Aplicaţii căi ferate (în banda 984- 7484 kHz, frecvenţă centrală 4234 kHz / sistemul Eurobalise)",,,"ERC REC 70–03
+EN 302 608
+Decizia 2013/752/UE (Nota 6)",,,,,
+,,,Sisteme militare maritime,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+"2173,50 – 2190,50",MOBIL (primejdie şi apel),MOBIL (primejdie şi apel),"DSC pentru primejdie şi apel (2187,5
+kHz)",,,"EN 302 885
+EN 303 402",,,,G(A)/NG,
+,5.108  5.109  5.110  5.111,"5.108  5.109  5.110  5.111
+ECA36","Radiocomunicații maritime (radiotelefonie pentru primejdie şi apel (2182 kHz); trafic telex de primejdie (2174,5 kHz)",,,,,,,,
+,,,"Aplicaţii inductive (în banda 148,5 kHz–30 MHz)",,,"ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)",,,,,
+,,,"Aplicaţii căi ferate (în banda 984- 7484 kHz, frecvenţă centrală 4234 kHz / sistemul Eurobalise)",,,"ERC REC 70–03
+EN 302 608
+Decizia 2013/752/UE (Nota 6)",,,,,
+"2190,50 – 2194,00",MOBIL MARITIM,MOBIL MARITIM,Radiocomunicații maritime,,,EN 303 402,,,,G(A)/NG,
+,,ECA36,"Aplicaţii inductive (în banda 148,5 kHz–30 MHz)",,,"ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)",,,,,
+,,,"Aplicaţii căi ferate (în banda 984- 7484 kHz, frecvenţă centrală 4234 kHz / sistemul Eurobalise)",,,"ERC REC 70–03
+EN 302 608
+Decizia 2013/752/UE (Nota 6)",,,,,
+,,,Sisteme militare maritime,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+"2194,00 – 2300,00",FIX,FIX,Radiocomunicații maritime,,,EN 303 402,,,,G(A)/NG,
+,"MOBIL cu excepţia mobil
+aeronautic (R)","MOBIL cu excepţia mobil
+aeronautic (R)",Aplicaţii militare,,,,,,,,
+,5.92  5.103  5.112,"5.103
+ECA36","Aplicaţii inductive (în banda 148,5 kHz–30 MHz)",,,"ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)",,,,,
+,,,"Aplicaţii căi ferate (în banda 984- 7484 kHz, frecvenţă centrală 4234 kHz / sistemul Eurobalise)",,,"ERC REC 70–03
+EN 302 608
+Decizia 2013/752/UE (Nota 6)",,,,,
+,,,Sisteme militare terestre,,,,,,,,
+,,,Sisteme militare maritime,,,,,,,,
+,,,Aplicații radiodeterminare,,,,,,,,
+"2300,00 – 2498,00",RADIODIFUZIUNE  5.113,FIX,Radiocomunicații maritime,,,EN 303 402,,,,G(A)/G/NG,
+,"FIX
+MOBIL cu excepţia mobil
+aeronautic (R)","MOBIL cu excepţia mobil
+aeronautic (R)
+5.103","Aplicaţii inductive (în banda 148,5
+kHz–30 MHz)",,,"ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)",,,,,
+,5.103,ECA36,"Aplicaţii căi ferate (în banda 984- 7484 kHz, frecvenţă centrală 4234 kHz / sistemul Eurobalise)",,,"ERC REC 70–03
+EN 302 608
+Decizia 2013/752/UE (Nota 6)",,,,,
+,,,Sisteme militare terestre,,,,,,,,
+,,,Sisteme militare maritime,,,,,,,,
+"2498,00 – 2501,00","FRECVENŢE ETALON ŞI
+SEMNALE ORARE (2500 kHz)","FRECVENŢE ETALON ŞI
+SEMNALE ORARE (2500 kHz)","Aplicaţii inductive (în banda 148,5
+kHz–30 MHz)",,,"ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)",,,,NG,
+,,,"Aplicaţii căi ferate (în banda 984- 7484 kHz, frecvenţă centrală 4234 kHz / sistemul Eurobalise)",,,"ERC REC 70–03
+EN 302 608
+Decizia 2013/752/UE (Nota 6)",,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+"2501,00 – 2502,00","FRECVENŢE ETALON ŞI
+SEMNALE ORARE
+Cercetare spaţială","FRECVENŢE ETALON ŞI
+SEMNALE ORARE
+Cercetare spaţială","Aplicaţii inductive (în banda 148,5
+kHz–30 MHz)",,,"ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)",,,,NG,
+,,,"Aplicaţii căi ferate (în banda 984- 7484 kHz, frecvenţă centrală 4234 kHz / sistemul Eurobalise)",,,"ERC REC 70–03
+EN 302 608
+Decizia 2013/752/UE (Nota 6)",,,,,
+"2502,00 – 2625,00","FIX
+MOBIL cu excepţia mobil
+aeronautic (R)","FIX
+MOBIL cu excepţia mobil
+aeronautic (R)","Aplicaţii inductive (în banda 148,5
+kHz–30 MHz)",,,"ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)",,,,G(A)/NG,
+,5.92  5.103  5.114,"5.92 5.103
+ECA36","Aplicaţii căi ferate (în banda 984- 7484 kHz, frecvenţă centrală 4234 kHz / sistemul Eurobalise)",,,"ERC REC 70–03
+EN 302 608
+Decizia 2013/752/UE (Nota 6)",,,,,
+,,,Sisteme militare terestre,,,,,,,,
+,,,Sisteme militare maritime,,,,,,,,
+,,,Aplicații radiodeterminare,,,,,,,,
+"2625,00 – 2650,00",MOBIL MARITIM,MOBIL MARITIM,Radiocomunicații maritime,,,EN 303 402,,,,G(A)/G/NG,
+,"RADIONAVIGAŢIE MARITIMĂ
+5.92","RADIONAVIGAŢIE MARITIMĂ
+5.92
+ECA36","Aplicaţii inductive (în banda 148,5
+kHz–30 MHz)",,,"ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)",,,,,
+,,,"Aplicaţii căi ferate (în banda 984- 7484 kHz, frecvenţă centrală 4234 kHz / sistemul Eurobalise)",,,"ERC REC 70–03
+EN 302 608
+Decizia 2013/752/UE (Nota 6)",,,,,
+,,,Sisteme militare maritime,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+"2650,00 – 2850,00","FIX
+MOBIL cu excepţia mobil
+aeronautic (R)","FIX
+MOBIL cu excepţia mobil
+aeronautic (R)","Aplicaţii inductive (în banda 148,5
+kHz–30 MHz)",,,"ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)",,,,G(A)/NG,
+,5.92 5.103,5.92 5.103,"Aplicaţii căi ferate (în banda 984- 7484 kHz, frecvenţă centrală 4234 kHz / sistemul Eurobalise)",,,"ERC REC 70–03
+EN 302 608
+Decizia 2013/752/UE (Nota 6)",,,,,
+,,,Sisteme militare terestre,,,,,,,,
+,,,Sisteme militare maritime,,,,,,,,
+,,,Aplicații radiodeterminare,,,,,,,,
+"2850,00 – 3025,00",MOBIL AERONAUTIC (R),MOBIL AERONAUTIC (R),Radiocomunicații aeronautice (Plan alocări de frecvenţe - Apendicele 27),,,,,,,G(A)/NG,
+,5.111  5.115,"5.111  5.115
+ECA36","Căutare și salvare (Radiocomunicații
+Search and Rescue – SAR)",,,EN 303 402,,,,,
+,,,Coordonare SAR radiotelefonică pentru aeronautic / maritim (3023 kHz),,,EN 303 402,,,,,
+,,,"Aplicaţii inductive (în banda 148,5
+kHz–30 MHz)",,,"ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)",,,,,
+,,,"Aplicaţii căi ferate (în banda 984- 7484 kHz, frecvenţă centrală 4234 kHz / sistemul Eurobalise)",,,"ERC REC 70–03
+EN 302 608
+Decizia 2013/752/UE (Nota 6)",,,,,
+,,,Sisteme militare aeronautice,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+"3025,00 – 3155,00",MOBIL AERONAUTIC (OR),MOBIL AERONAUTIC (OR),Radiocomunicații aeronautice (Plan alocări de frecvenţe - Apendicele 26),,,,,,,G(A)/NG,
+,,ECA36,"Aplicaţii inductive (în banda 148,5 kHz–30 MHz)",,,"ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)",,,,,
+,,,"Aplicaţii căi ferate (în banda 984- 7484 kHz, frecvenţă centrală 4234 kHz / sistemul Eurobalise)",,,"ERC REC 70–03
+EN 302 608
+Decizia 2013/752/UE (Nota 6)",,,,,
+,,,Sisteme militare aeronautice,,,,,,,,
+"3155,00 – 3200,00","FIX
+MOBIL cu excepţia mobil
+aeronautic (R)","FIX
+MOBIL cu excepţia mobil
+aeronautic (R)","Aplicaţii inductive (în banda 148,5 kHz–30 MHz şi în banda 3155–3400 kHz conform deciziei Comisiei Europene)",,,"ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)",,,,G(A)/G/NG,
+,5.116  5.117,"5.116
+ECA36","Aplicaţii căi ferate (în banda 984- 7484 kHz, frecvenţă centrală 4234 kHz / sistemul Eurobalise)",,,"ERC REC 70–03
+EN 302 608
+Decizia 2013/752/UE (Nota 6)",,,,,
+,,,Radiocomunicații maritime,,,EN 303 402,,,,,
+,,,Sisteme militare terestre,,,,,,,,
+,,,Sisteme militare maritime,,,,,,,,
+"3200,00 – 3230,00","RADIODIFUZIUNE  5.113 FIX
+MOBIL cu excepţia mobil
+aeronautic (R)","FIX
+MOBIL cu excepţia mobil
+aeronautic (R)","Aplicaţii inductive (în banda 148,5 kHz–30 MHz şi în banda 3155–3400 kHz conform deciziei Comisiei Europene)",,,"ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)",,,,G(A)/G/NG,
+,5.116,"5.116
+ECA36","Aplicaţii căi ferate (în banda 984- 7484 kHz, frecvenţă centrală 4234 kHz / sistemul Eurobalise)",,,"ERC REC 70–03
+EN 302 608
+Decizia 2013/752/UE (Nota 6)",,,,,
+,,,Radiocomunicații maritime,,,EN 303 402,,,,,
+,,,Sisteme militare terestre,,,,,,,,
+,,,Sisteme militare maritime,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+"3230,00 – 3400,00","RADIODIFUZIUNE  5.113 FIX
+MOBIL cu excepţia mobil
+aeronautic","FIX
+MOBIL cu excepţia mobil
+aeronautic","Aplicaţii inductive (în banda 148,5 kHz–30 MHz şi în banda 3155–3400 kHz conform deciziei Comisiei Europene)",,,"ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)",,,,G(A)/G/NG,
+,5.116  5.118,"5.116
+ECA36","Aplicaţii căi ferate (în banda 984- 7484 kHz, frecvenţă centrală 4234 kHz / sistemul Eurobalise)",,,"ERC REC 70–03
+EN 302 608
+Decizia 2013/752/UE (Nota 6)",,,,,
+,,,Radiocomunicații maritime,,,EN 303 402,,,,,
+,,,Sisteme militare terestre,,,,,,,,
+,,,Sisteme militare maritime,,,,,,,,
+"3400,00 – 3500,00",MOBIL AERONAUTIC (R),"MOBIL AERONAUTIC (R)
+ECA36","Radiocomunicații aeronautice (Plan alocări de frecvenţe - Apendicele 27, inclusiv legăturile de date în HF)",,,,,,,G(A)/NG,
+,,,"Aplicaţii inductive (în banda 148,5
+kHz–30 MHz)",,,"ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)",,,,,
+,,,"Aplicaţii căi ferate (în banda 984- 7484 kHz, frecvenţă centrală 4234 kHz / sistemul Eurobalise)",,,"ERC REC 70–03
+EN 302 608
+Decizia 2013/752/UE (Nota 6)",,,,,
+,,,Sisteme militare aeronautice,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+"3500,00 – 3800,00",AMATOR,AMATOR,Amator,,,"EN 301 783
+EN 303 402
+ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)
+ERC REC 70–03
+EN 302 608
+Decizia 2013/752/UE (Nota 6)",,,,G(A)/G/NG,
+,"FIX
+MOBIL cu excepţia mobil
+aeronautic","FIX
+MOBIL cu excepţia mobil
+aeronautic","Radiocomunicații maritime
+Aplicaţii inductive (în banda 148,5
+kHz–30 MHz)",,,,,,,,
+,5.92,5.92,,,,,,,,,
+,,ECA36,,,,,,,,,
+,,,"Aplicaţii căi ferate (în banda 984- 7484 kHz, frecvenţă centrală 4234 kHz / sistemul Eurobalise)",,,,,,,,
+,,,Sisteme militare terestre,,,,,,,,
+,,,Sisteme militare maritime,,,,,,,,
+"3800,00 – 3900,00","MOBIL AERONAUTIC (OR)
+FIX","MOBIL AERONAUTIC (OR)
+FIX",Radiocomunicații aeronautice (Plan alocări de frecvenţe - Apendicele 26),,,,,,,G(A)/NG,
+,MOBIL TERESTRU,"MOBIL TERESTRU
+ECA36","Aplicaţii inductive (în banda 148,5
+kHz–30 MHz)",,,"ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)",,,,,
+,,,"Aplicaţii căi ferate (în banda 984- 7484 kHz, frecvenţă centrală 4234 kHz / sistemul Eurobalise)",,,"ERC REC 70–03
+EN 302 608
+Decizia 2013/752/UE (Nota 6)",,,,,
+,,,Sisteme militare terestre,,,,,,,,
+,,,Sisteme militare aeronautice,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+"3900,00 – 3950,00","MOBIL AERONAUTIC (OR)
+5.123","MOBIL AERONAUTIC (OR)
+ECA36",Radiocomunicații aeronautice (Plan alocări de frecvenţe - Apendicele 26),,,,,,,G(A)/NG,
+,,,"Aplicaţii inductive (în banda 148,5
+kHz–30 MHz)",,,"ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)",,,,,
+,,,"Aplicaţii căi ferate (în banda 984- 7484 kHz, frecvenţă centrală 4234 kHz / sistemul Eurobalise)",,,"ERC REC 70–03
+EN 302 608
+Decizia 2013/752/UE (Nota 6)",,,,,
+,,,Sisteme militare aeronautice,,,,,,,,
+"3950,00 – 4000,00","FIX
+RADIODIFUZIUNE","FIX
+RADIODIFUZIUNE",Radiodifuziune (vor fi introduse sisteme digitale),,,"EN 302 017
+EN 302 245",,,,G(A)/NG,
+,,ECA36,"Aplicaţii inductive (în banda 148,5
+kHz–30 MHz)",,,"ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)",,,,,
+,,,"Aplicaţii căi ferate (în banda 984- 7484 kHz, frecvenţă centrală 4234 kHz / sistemul Eurobalise)",,,"ERC REC 70–03
+EN 302 608
+Decizia 2013/752/UE (Nota 6)",,,,,
+,,,Sisteme militare terestre,,,,,,,,
+"4000,00 – 4063,00","FIX
+MOBIL MARITIM  5.127
+5.126","FIX
+MOBIL MARITIM  5.127",Radiocomunicații maritime (Plan de canale - Apendicele 17; Plan de alocări de frecvenţe - Apendicele 25),,,EN 303 402,,,,G(A)/NG,
+,,ECA36,"Aplicaţii inductive (în banda 148,5
+kHz–30 MHz)",,,"ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)",,,,,
+,,,"Aplicaţii căi ferate (în banda 984- 7484 kHz, frecvenţă centrală 4234 kHz / sistemul Eurobalise)",,,"ERC REC 70–03
+EN 302 608
+Decizia 2013/752/UE (Nota 6)",,,,,
+,,,Sisteme militare terestre,,,,,,,,
+,,,Sisteme militare maritime,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+"4063,00 – 4438,00","MOBIL MARITIM  5.79A  5.109 5.110 5.128  5.130  5.131
+5.132",MOBIL MARITIM  5.79A  5.109 5.110  5.130  5.131  5.132,"Alertă DSC (stații de navă: 4208;
+4208,5; 4209 kHz; stații de coastă
+4219,5; 4220; 4220,5 kHz)",,,"EN 302 885
+EN 303 402",,,,G(A)/NG,
+,,ECA36,"Trafic de primejdie DSC (4207,5 kHz)",,,"EN 302 885
+EN 303 402",,,,,
+,,,"Radiocomunicații maritime (Plan de canale - Apendicele 17; Plan de alocări de frecvenţe - Apendicele 25) Informaţii pentru siguranţă maritimă (MSI) (4210 kHz)
+Avertizări meteorologice şi de navigaţie (4209,5 kHz)
+Coordonare radiotelefonică SAR pentru maritim/aeronautic (4125 kHz) Trafic telex de primejdie (4177,5 kHz)",,,"EN 303 402
+EN 303 402
+EN 303 402
+EN 303 402
+EN 303 402",,,,,
+,,,NAVTEX,,,EN 300 365,,,,,
+,,,"Aplicaţii căi ferate (în banda 984- 7484 kHz, frecvenţă centrală 4234 kHz / sistemul Eurobalise)",,,"ERC REC 70–03
+EN 302 608
+Decizia 2013/752/UE (Nota 6)",,,,,
+,,,"Aplicaţii inductive (în banda 148,5
+kHz–30 MHz)",,,"ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)",,,,,
+,,,Sisteme militare maritime,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+"4438,00 – 4488,00","FIX
+MOBIL cu excepţia mobil
+aeronautic (R)
+Radiolocație 5.132A","FIX
+MOBIL cu excepţia mobil
+aeronautic (R)
+Radiolocație 5.132A","Aplicaţii inductive (în banda 148,5
+kHz–30 MHz)",,,"ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)",,,,G(A)/G/NG,
+,5.132B,ECA36,"Aplicaţii căi ferate (în banda 984- 7484 kHz, frecvenţă centrală 4234 kHz / sistemul Eurobalise)",,,"ERC REC 70–03
+EN 302 608
+Decizia 2013/752/UE (Nota 6)",,,,,
+,,,Sisteme militare terestre,,,,,,,,
+,,,Sisteme militare maritime,,,,,,,,
+,,,Radiolocație (militară),,,,,,,,
+"4488,00 – 4650,00","FIX
+MOBIL cu excepţia mobil
+aeronautic (R)","FIX
+MOBIL cu excepţia mobil
+aeronautic (R)","Aplicaţii inductive (în banda 148,5
+kHz–30 MHz)",,,"ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)",,,,G(A)/G/NG,
+,,ECA36,"Aplicaţii căi ferate (în banda 984- 7484 kHz, frecvenţă centrală 4234 kHz / sistemul Eurobalise)",,,"ERC REC 70–03
+EN 302 608
+Decizia 2013/752/UE (Nota 6)",,,,,
+,,,Sisteme militare terestre,,,,,,,,
+,,,Sisteme militare maritime,,,,,,,,
+"4650,00 – 4700,00",MOBIL AERONAUTIC (R),"MOBIL AERONAUTIC (R)
+ECA36","Radiocomunicații aeronautice (Plan alocări de frecvenţe - Apendicele 27, inclusiv legăturile de date în HF)",,,,,,,G(A)/NG,
+,,,"Aplicaţii inductive (în banda 148,5
+kHz–30 MHz)",,,"ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)",,,,,
+,,,"Aplicaţii căi ferate (în banda 984- 7484 kHz, frecvenţă centrală 4234 kHz / sistemul Eurobalise)",,,"ERC REC 70–03
+EN 302 608
+Decizia 2013/752/UE (Nota 6)",,,,,
+,,,Sisteme militare aeronautice,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+"4700,00 – 4750,00",MOBIL AERONAUTIC (OR),MOBIL AERONAUTIC (OR),Radiocomunicații aeronautice (Plan alocări de frecvenţe - Apendicele 26),,,,,,,G(A)/NG,
+,,ECA36,"Aplicaţii inductive (în banda 148,5
+kHz–30 MHz)",,,"ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)",,,,,
+,,,"Aplicaţii căi ferate (în banda 984- 7484 kHz, frecvenţă centrală 4234 kHz / sistemul Eurobalise)",,,"ERC REC 70–03
+EN 302 608
+Decizia 2013/752/UE (Nota 6)",,,,,
+,,,Sisteme militare aeronautice,,,,,,,,
+"4750,00 – 4850,00",MOBIL AERONAUTIC (OR),MOBIL AERONAUTIC (OR),Radiocomunicații aeronautice,,,,,,,G(A)/NG,
+,"RADIODIFUZIUNE  5.113 FIX
+MOBIL TERESTRU","FIX
+MOBIL TERESTRU
+ECA36","Aplicaţii inductive (în banda 148,5
+kHz–30 MHz)",,,"ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)",,,,,
+,,,"Aplicaţii căi ferate (în banda 984- 7484 kHz, frecvenţă centrală 4234 kHz / sistemul Eurobalise)",,,"ERC REC 70–03
+EN 302 608
+Decizia 2013/752/UE (Nota 6)",,,,,
+,,,Sisteme militare terestre,,,,,,,,
+,,,Sisteme militare aeronautice,,,,,,,,
+"4850,00 – 4995,00","RADIODIFUZIUNE  5.113 FIX
+MOBIL TERESTRU","FIX
+MOBIL TERESTRU
+ECA36","Aplicaţii inductive (în banda 148,5
+kHz–30 MHz)",,,"ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)",,,,G(A)/G/NG,
+,,,"Aplicaţii căi ferate (în banda 984- 7484 kHz, frecvenţă centrală 4234 kHz / sistemul Eurobalise)",,,"ERC REC 70–03
+EN 302 608
+Decizia 2013/752/UE (Nota 6)",,,,,
+,,,Sisteme militare terestre,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+"4995,00 – 5003,00","FRECVENŢE ETALON ŞI
+SEMNALE ORARE (5000 kHz)","FRECVENŢE ETALON ŞI
+SEMNALE ORARE (5000 kHz)","Aplicaţii inductive (în banda 148,5
+kHz–30 MHz)",,,"ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)",,,,NG,
+,,,"Aplicaţii căi ferate (în banda 984- 7484 kHz, frecvenţă centrală 4234 kHz / sistemul Eurobalise)",,,"ERC REC 70–03
+EN 302 608
+Decizia 2013/752/UE (Nota 6)",,,,,
+"5003,00 – 5005,00","FRECVENŢE ETALON ŞI
+SEMNALE ORARE
+Cercetare spaţială","FRECVENŢE ETALON ŞI
+SEMNALE ORARE
+Cercetare spaţială","Aplicaţii inductive (în banda 148,5
+kHz–30 MHz)",,,"ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)",,,,NG,
+,,,"Aplicaţii căi ferate (în banda 984- 7484 kHz, frecvenţă centrală 4234 kHz / sistemul Eurobalise)",,,"ERC REC 70–03
+EN 302 608
+Decizia 2013/752/UE (Nota 6)",,,,,
+"5005,00 – 5060,00",RADIODIFUZIUNE  5.113 FIX,"FIX
+ECA36","Aplicaţii inductive (în banda 148,5
+kHz–30 MHz)",,,"ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)",,,,G(A)/G/NG,
+,,,"Aplicaţii căi ferate (în banda 984- 7484 kHz, frecvenţă centrală 4234 kHz / sistemul Eurobalise)",,,"ERC REC 70–03
+EN 302 608
+Decizia 2013/752/UE (Nota 6)",,,,,
+,,,Sisteme militare terestre,,,,,,,,
+"5060,00 – 5250,00","FIX
+Mobil cu excepţia mobil
+aeronautic","FIX
+Mobil cu excepţia mobil
+aeronautic","Aplicaţii inductive (în banda 148,5
+kHz–30 MHz)",,,"ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)",,,,G(A)/G/NG,
+,5.133,ECA36,"Aplicaţii căi ferate (în banda 984- 7484 kHz, frecvenţă centrală 4234 kHz / sistemul Eurobalise)",,,"ERC REC 70–03
+EN 302 608
+Decizia 2013/752/UE (Nota 6)",,,,,
+,,,Sisteme militare terestre,,,,,,,,
+,,,Sisteme militare maritime,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+"5250,00 – 5275,00","FIX
+MOBIL cu excepţia mobil
+aeronautic
+Radiolocație 5.132A","FIX
+MOBIL cu excepţia mobil
+aeronautic
+Radiolocație 5.132A","Aplicaţii inductive (în banda 148,5
+kHz–30 MHz)",,,"ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)",,,,G(A)/G/NG,
+,5.133A,ECA36,"Aplicaţii căi ferate (în banda 984- 7484 kHz, frecvenţă centrală 4234 kHz / sistemul Eurobalise)",,,"ERC REC 70–03
+EN 302 608
+Decizia 2013/752/UE (Nota 6)",,,,,
+,,,Sisteme militare terestre,,,,,,,,
+,,,Sisteme militare maritime,,,,,,,,
+,,,Radiolocație (militară),,,,,,,,
+"5275,00 – 5351,50","FIX
+MOBIL cu excepţia mobil
+aeronautic","FIX
+MOBIL cu excepţia mobil
+aeronautic","Aplicaţii inductive (în banda 148,5
+kHz–30 MHz)",,,"ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)",,,,G(A)/G/NG,
+,,ECA36,"Aplicaţii căi ferate (în banda 984- 7484 kHz, frecvenţă centrală 4234 kHz / sistemul Eurobalise)",,,"ERC REC 70–03
+EN 302 608
+Decizia 2013/752/UE (Nota 6)",,,,,
+,,,Sisteme militare terestre,,,,,,,,
+,,,Sisteme militare maritime,,,,,,,,
+"5351,50 – 5366,50",FIX,FIX,Amator,,,EN 301 783,,,,G(A)/G/NG,
+,"MOBIL cu excepţia mobil
+aeronautic Amator 5.133B","MOBIL cu excepţia mobil
+aeronautic Amator 5.133B","Aplicaţii inductive (în banda 148,5
+kHz–30 MHz)",,,"ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)",,,,,
+,,ECA36,"Aplicaţii căi ferate (în banda 984- 7484 kHz, frecvenţă centrală 4234 kHz / sistemul Eurobalise)",,,"ERC REC 70–03
+EN 302 608
+Decizia 2013/752/UE (Nota 6)",,,,,
+,,,Sisteme militare terestre,,,,,,,,
+,,,Sisteme militare maritime,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+"5366,50 – 5450,00","FIX
+MOBIL cu excepţia mobil
+aeronautic","FIX
+MOBIL cu excepţia mobil
+aeronautic","Aplicaţii inductive (în banda 148,5
+kHz–30 MHz)",,,"ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)",,,,G(A)/G/NG,
+,,ECA36,"Aplicaţii căi ferate (în banda 984- 7484 kHz, frecvenţă centrală 4234 kHz / sistemul Eurobalise)",,,"ERC REC 70–03
+EN 302 608
+Decizia 2013/752/UE (Nota 6)",,,,,
+,,,Sisteme militare terestre,,,,,,,,
+,,,Sisteme militare maritime,,,,,,,,
+"5450,00 – 5480,00",FIX,FIX,Radiocomunicații aeronautice,,,,,,,G(A)/NG,
+,MOBIL AERONAUTIC (OR) MOBIL TERESTRU,"MOBIL AERONAUTIC (OR) MOBIL TERESTRU
+ECA36","Aplicaţii inductive (în banda 148,5
+kHz–30 MHz)",,,"ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)",,,,,
+,,,"Aplicaţii căi ferate (în banda 984- 7484 kHz, frecvenţă centrală 4234 kHz / sistemul Eurobalise)",,,"ERC REC 70–03
+EN 302 608
+Decizia 2013/752/UE (Nota 6)",,,,,
+,,,Sisteme militare terestre,,,,,,,,
+,,,Sisteme militare aeronautice,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+"5480,00 – 5680,00","MOBIL AERONAUTIC (R)
+5.111  5.115","MOBIL AERONAUTIC (R)
+5.111  5.115","Radiocomunicații aeronautice (Plan alocări de frecvenţe - Apendicele 27, inclusiv legăturile de date în HF)",,,,,,,G(A)/NG,
+,,ECA36,"Coordonare SAR radiotelefonică
+pentru aeronautic/maritim (5680 kHz)",,,EN 303 402,,,,,
+,,,"Aplicaţii inductive (în banda 148,5
+kHz–30 MHz)",,,"ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)",,,,,
+,,,"Aplicaţii căi ferate (în banda 984- 7484 kHz, frecvenţă centrală 4234 kHz / sistemul Eurobalise)",,,"ERC REC 70–03
+EN 302 608
+Decizia 2013/752/UE (Nota 6)",,,,,
+,,,Sisteme militare aeronautice,,,,,,,,
+"5680,00 – 5730,00",MOBIL AERONAUTIC (OR),MOBIL AERONAUTIC (OR),Radiocomunicații aeronautice (Plan alocări de frecvenţe - Apendicele 26),,,,,,,G(A)/NG,
+,5.111  5.115,"5.111  5.115
+ECA36","Coordonare SAR radiotelefonică
+pentru aeronautic/maritim (5680 kHz)",,,EN 303 402,,,,,
+,,,"Aplicaţii inductive (în banda 148,5
+kHz–30 MHz)",,,"ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)",,,,,
+,,,"Aplicaţii căi ferate (în banda 984- 7484 kHz, frecvenţă centrală 4234 kHz / sistemul Eurobalise)",,,"ERC REC 70–03
+EN 302 608
+Decizia 2013/752/UE (Nota 6)",,,,,
+,,,Sisteme militare aeronautice,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+"5730,00 – 5900,00","FIX
+MOBIL TERESTRU","FIX
+MOBIL TERESTRU
+ECA36","Aplicaţii inductive (în banda 148,5
+kHz–30 MHz)",,,"ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)",,,,G(A)/G/NG,
+,,,"Aplicaţii căi ferate (în banda 984- 7484 kHz, frecvenţă centrală 4234 kHz / sistemul Eurobalise)",,,"ERC REC 70–03
+EN 302 608
+Decizia 2013/752/UE (Nota 6)",,,,,
+,,,Sisteme militare terestre,,,,,,,,
+"5900,00 – 5950,00","RADIODIFUZIUNE  5.134
+5.136","RADIODIFUZIUNE  5.134
+5.136",Radiodifuziune sonoră (Procedura de planificare din Articolul 12. Vor fi introduse sisteme digitale.),,,"EN 302 017
+EN 302 245",,,,NG,
+,,,"Aplicaţii inductive (în banda 148,5 kHz–30 MHz)",,,"ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)",,,,,
+,,,"Aplicaţii căi ferate (în banda 984- 7484 kHz, frecvenţă centrală 4234 kHz / sistemul Eurobalise)",,,"ERC REC 70–03
+EN 302 608
+Decizia 2013/752/UE (Nota 6)",,,,,
+"5950,00 – 6200,00",RADIODIFUZIUNE,RADIODIFUZIUNE,Radiodifuziune sonoră (Procedura de planificare din Articolul 12. Vor fi introduse sisteme digitale.),,,"EN 302 017
+EN 302 245",,,,NG,
+,,,"Aplicaţii inductive (în banda 148,5
+kHz–30 MHz)",,,"ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)",,,,,
+,,,"Aplicaţii căi ferate (în banda 984- 7484 kHz, frecvenţă centrală 4234 kHz / sistemul Eurobalise)",,,"ERC REC 70–03
+EN 302 608
+Decizia 2013/752/UE (Nota 6)",,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+"6200,00 – 6525,00","MOBIL MARITIM  5.109  5.110
+5.130  5.132","MOBIL MARITIM  5.109  5.110
+5.130  5.132","Apel DSC (6312,5; 6313; 6313,5;
+6331; 6331,5; 6332 kHz)",,,"EN 302 885
+EN 303 402",,,,G(A)/NG,
+,5.137,"5.137
+ECA36",Trafic DSC de primejdie (6312 kHz),,,"EN 302 885
+EN 303 402",,,,,
+,,,"Radiocomunicații maritime (Plan de canale - Apendicele 17; Plan de alocări de frecvenţe - Apendicele 25) Informaţii pentru siguranţă maritimă (MSI) (6314 kHz)
+Trafic telefonic de primejdie şi apel cu centrele de salvare (6215 kHz) Trafic telex de primejdie (6268 kHz)",,,"EN 303 402
+EN 303 402
+EN 303 402
+EN 303 402",,,,,
+,,,"Aplicaţii inductive (în banda 148,5
+kHz–30 MHz)",,,"ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)",,,,,
+,,,"Aplicaţii căi ferate (în banda 984- 7484 kHz, frecvenţă centrală 4234 kHz / sistemul Eurobalise)",,,"ERC REC 70–03
+EN 302 608
+Decizia 2013/752/UE (Nota 6)",,,,,
+,,,Sisteme militare maritime,,,,,,,,
+"6525,00 – 6685,00",MOBIL AERONAUTIC (R),"MOBIL AERONAUTIC (R)
+ECA36","Comunicații aeronautice (Planul de alocare din Apendicele 27, inclusiv planul pentru legăturile de date HF)",,,,,,,G(A)/NG,
+,,,"Aplicaţii inductive (în banda 148,5 kHz–30 MHz)",,,"ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)",,,,,
+,,,"Aplicaţii căi ferate (în banda 984- 7484 kHz, frecvenţă centrală 4234 kHz / sistemul Eurobalise)",,,"ERC REC 70–03
+EN 302 608
+Decizia 2013/752/UE (Nota 6)",,,,,
+,,,Sisteme militare aeronautice,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+"6685,00 – 6765,00",MOBIL AERONAUTIC (OR),MOBIL AERONAUTIC (OR),"Comunicații aeronautice (Planul de
+alocare din Apendicele 26)",,,,,,,G(A)/NG,
+,,ECA36,"Aplicaţii inductive (în banda 148,5
+kHz–30 MHz)",,,"ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)",,,,,
+,,,"Aplicaţii căi ferate (în banda 984- 7484 kHz, frecvenţă centrală 4234 kHz / sistemul Eurobalise)",,,"ERC REC 70–03
+EN 302 608
+Decizia 2013/752/UE (Nota 6)",,,,,
+,,,Sisteme militare aeronautice,,,,,,,,
+"6765,00 – 6795,00","FIX
+MOBIL cu excepţia mobil
+aeronautic (R)","FIX
+MOBIL cu excepţia mobil
+aeronautic","Aplicaţii inductive (în banda 148,5 kHz–30 MHz şi în banda 6765–6795 kHz conform deciziei Comisiei Europene)",,,"ERC REC 70–03
+EN 300 330
+Decizia 2006/771/CE (Nota 1)",,,,G(A)/G/NG,
+,5.138,"5.138
+ECA36","Aplicaţii căi ferate (în banda 984- 7484 kHz, frecvenţă centrală 4234 kHz / sistemul Eurobalise)",,,"ERC REC 70–03
+EN 302 608
+Decizia 2013/752/UE (Nota 6)",,,,,
+,,,ISM (în banda 6765–6795 kHz),,,,,,,,
+,,,Sisteme militare terestre,,,,,,,,
+,,,Sisteme militare maritime,,,,,,,,
+"6795,00 – 7000,00","FIX
+MOBIL cu excepţia mobil aeronautic (R)","FIX
+MOBIL cu excepţia mobil
+aeronautic","Aplicaţii inductive (în banda 148,5 kHz–30 MHz)",,,"ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)",,,,G(A)/G/NG,
+,5.138A,5.128A ECA36,"Aplicaţii căi ferate (în banda 984- 7484 kHz, frecvenţă centrală 4234 kHz / sistemul Eurobalise)",,,"ERC REC 70–03
+EN 302 608
+Decizia 2013/752/UE (Nota 6)",,,,,
+,,,Sisteme militare terestre,,,,,,,,
+,,,Sisteme militare maritime,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+"7000,00 – 7100,00",AMATOR,AMATOR,Amator,,,EN 301 783,,,,NG,
+,"AMATOR PRIN SATELIT
+5.140  5.141  5.141A",AMATOR PRIN SATELIT,"Aplicaţii inductive (în banda 148,5 kHz–30 MHz)",,,"ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)",,,,,
+,,,"Aplicaţii căi ferate (în banda 984- 7484 kHz, frecvenţă centrală 4234 kHz / sistemul Eurobalise)",,,"ERC REC 70–03
+EN 302 608
+Decizia 2013/752/UE (Nota 6)",,,,,
+"7100,00 – 7200,00",AMATOR,AMATOR,Amator,,,EN 301 783,,,,NG,
+,5.141A  5.141B,,"Aplicaţii inductive (în banda 148,5 kHz–30 MHz)",,,"ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)",,,,,
+,,,"Aplicaţii căi ferate (în banda 984- 7484 kHz, frecvenţă centrală 4234 kHz / sistemul Eurobalise)",,,"ERC REC 70–03
+EN 302 608
+Decizia 2013/752/UE (Nota 6)",,,,,
+"7200,00 – 7300,00",RADIODIFUZIUNE,RADIODIFUZIUNE,Radiodifuziune sonoră (Procedura de planificare din Articolul 12. Vor fi introduse sisteme digitale.),,,"EN 302 017
+EN 302 245",,,,NG,
+,,,"Aplicaţii inductive (în banda 148,5 kHz–30 MHz)",,,"ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)",,,,,
+,,,"Aplicaţii căi ferate (în banda 984- 7484 kHz, frecvenţă centrală 4234 kHz / sistemul Eurobalise)",,,"ERC REC 70–03
+EN 302 608
+Decizia 2013/752/UE (Nota 6)",,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+"7300,00 – 7400,00",RADIODIFUZIUNE  5.134,RADIODIFUZIUNE  5.134,Radiodifuziune sonoră (Procedura de planificare din Articolul 12. Vor fi introduse sisteme digitale),,,"EN 302 017
+EN 302 245",,,,NG,
+,"5.143  5.143A  5.143B  5.143C
+5.143D",5.143,"Aplicaţii inductive (în banda 148,5 kHz–30 MHz)",,,"ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)",,,,,
+,,,"Aplicaţii căi ferate (în banda 984- 7484 kHz, frecvenţă centrală 4234 kHz / sistemul Eurobalise)",,,"ERC REC 70–03
+EN 302 608
+Decizia 2013/752/UE (Nota 6)",,,,,
+,,,"Aplicaţii căi ferate (în banda 7300- 23000 kHz, frecvenţă centrală
+13.547 MHz / sistemul Euroloop)",,,"ERC REC 70–03
+EN 302 609
+Decizia 2013/752/UE (Nota 6)",,,,,
+"7400,00 – 7450,00",RADIODIFUZIUNE,RADIODIFUZIUNE,Radiodifuziune sonoră (Procedura de planificare din Articolul 12. Vor fi introduse sisteme digitale.),,,"EN 302 017
+EN 302 245",,,,NG,
+,5.143B  5.143C,5.143B,"Aplicaţii inductive (în banda 7400– 8800 kHz şi în banda 148,5 kHz–30 MHz conform deciziei Comisiei Europene)",,,"ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)",,,,,
+,,,"Aplicaţii căi ferate (în banda 984- 7484 kHz, frecvenţă centrală 4234 kHz / sistemul Eurobalise)",,,"ERC REC 70–03
+EN 302 608
+Decizia 2013/752/UE (Nota 6)",,,,,
+,,,"Aplicaţii căi ferate (în banda 7300- 23000 kHz, frecvenţă centrală
+13.547 MHz / sistemul Euroloop)",,,"ERC REC 70–03
+EN 302 609
+Decizia 2013/752/UE (Nota 6)",,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+"7450,00 – 8100,00","FIX
+MOBIL cu excepţia mobil
+aeronautic (R)","FIX
+MOBIL cu excepţia mobil
+aeronautic (R)","Aplicaţii inductive (în banda 7400– 8800 kHz şi în banda 148,5 kHz–30 MHz conform deciziei Comisiei Europene)",,,"ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)",,,,G(A)/G/NG,
+,5.143E  5.144,ECA36,"Aplicaţii căi ferate (în banda 984- 7484 kHz, frecvenţă centrală 4234 kHz / sistemul Eurobalise)",,,"ERC REC 70–03
+EN 302 608
+Decizia 2013/752/UE (Nota 6)",,,,,
+,,,"Aplicaţii căi ferate (în banda 7300- 23000 kHz, frecvenţă centrală
+13.547 MHz / sistemul Euroloop)",,,"ERC REC 70–03
+EN 302 609
+Decizia 2013/752/UE (Nota 6)",,,,,
+,,,Sisteme militare terestre,,,,,,,,
+,,,Sisteme militare maritime,,,,,,,,
+"8100,00 – 8195,00","FIX
+MOBIL MARITIM","FIX
+MOBIL MARITIM
+ECA36","Aplicaţii inductive (în banda 7400– 8800 kHz şi în banda 148,5 kHz–30 MHz conform deciziei Comisiei Europene)",,,"ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)",,,,G(A)/NG,
+,,,"Aplicaţii căi ferate (în banda 7300- 23000 kHz, frecvenţă centrală
+13.547 MHz / sistemul Euroloop)",,,"ERC REC 70–03
+EN 302 609
+Decizia 2013/752/UE (Nota 6)",,,,,
+,,,Comunicații maritime (Planul de canalizare din Apendicele 17),,,EN 303 402,,,,,
+,,,Sisteme militare terestre,,,,,,,,
+,,,Sisteme militare maritime,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+"8195,00 – 8815,00","MOBIL MARITIM  5.109  5.110
+5.132  5.145","MOBIL MARITIM  5.109  5.110
+5.132  5.145","Apel DSC (8415; 8415.5;8416;
+8436,5; 8437; 8437,5 kHz)",,,"EN302 885
+EN 303 402",,,,G(A)/NG,
+,5.111,5.111,"Trafic DSC de primejdie (8414,5 kHz)",,,,,,,,
+,,ECA36,"Aplicaţii inductive (în banda 7400– 8800 kHz şi în banda 148,5 kHz–30 MHz conform deciziei Comisiei Europene)",,,"ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)",,,,,
+,,,"Aplicaţii căi ferate (în banda 7300- 23000 kHz, frecvenţă centrală
+13.547 MHz / sistemul Euroloop)",,,"ERC REC 70–03
+EN 302 609
+Decizia 2013/752/UE (Nota 6)",,,,,
+,,,Comunicații maritime (Planul de canalizare din Apendicele 17; Planul de alocare din Apendicele 25),,,EN 303 402,,,,,
+,,,"Informaţii pentru siguranţă maritimă
+(8416,5 kHz)",,,,,,,,
+,,,Trafic radiotelefonic de primejdie şi siguranță (8291 kHz),,,EN 303 402,,,,,
+,,,"Trafic telex de primejdie (8376,5 kHz)",,,,,,,,
+"8815,00 – 8965,00",MOBIL AERONAUTIC (R),MOBIL AERONAUTIC (R) ECA36,"Comunicații aeronautice (Planul de alocare din Apendicele 27, inclusiv legăturile de date în HF)",,,,,,,G(A)/NG,
+,,,"Aplicaţii inductive (în banda 148,5 kHz–30 MHz)",,,"ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)",,,,,
+,,,"Aplicaţii căi ferate (în banda 7300- 23000 kHz, frecvenţă centrală
+13.547 MHz / sistemul Euroloop)",,,"ERC REC 70–03
+EN 302 609
+Decizia 2013/752/UE (Nota 6)",,,,,
+,,,Sisteme militare aeronautice,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+"8965,00 – 9040,00",MOBIL AERONAUTIC (OR),"MOBIL AERONAUTIC (OR)
+ECA36","Comunicații aeronautice (Planul de
+alocare din Apendicele 26)",,,,,,,G(A)/NG,
+,,,Aplicaţii militare,,,,,,,,
+,,,"Aplicaţii inductive (în banda 148,5 kHz–30 MHz)",,,"ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)",,,,,
+,,,"Aplicaţii căi ferate (în banda 7300- 23000 kHz, frecvenţă centrală
+13.547 MHz / sistemul Euroloop)",,,"ERC REC 70–03
+EN 302 609
+Decizia 2013/752/UE (Nota 6)",,,,,
+,,,Sisteme militare aeronautice,,,,,,,,
+"9040,00 – 9305,00",FIX,"FIX
+ECA36","Aplicaţii inductive (în banda 148,5 kHz–30 MHz)",,,"ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)",,,,G(A)/NG,
+,,,"Aplicaţii căi ferate (în banda 7300- 23000 kHz, frecvenţă centrală
+13.547 MHz / sistemul Euroloop)",,,"ERC REC 70–03
+EN 302 609
+Decizia 2013/752/UE (Nota 6)",,,,,
+,,,Sisteme militare terestre,,,,,,,,
+"9305,00 – 9355,00","FIX
+Radiolocație 5.145A","FIX
+Radiolocație 5.145A","Aplicaţii inductive (în banda 148,5
+kHz–30 MHz)",,,"ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)
+ERC REC 70–03
+EN 302 609
+Decizia 2013/752/UE (Nota 6)",,,,G(A)/NG,
+,5.145B,,,,,,,,,,
+,,ECA36,,,,,,,,,
+,,,"Aplicaţii căi ferate (în banda 7300- 23000 kHz, frecvenţă centrală
+13.547 MHz / sistemul Euroloop)",,,,,,,,
+,,,Sisteme militare terestre,,,,,,,,
+"9355,00 – 9400,00",FIX,"FIX
+ECA36","Aplicaţii inductive (în banda 148,5
+kHz–30 MHz)",,,"ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)",,,,G(A)/NG,
+,,,"Aplicaţii căi ferate (în banda 7300-
+23000 kHz, frecvenţă centrală
+13.547 MHz / sistemul Euroloop)",,,"ERC REC 70–03
+EN 302 609
+Decizia 2013/752/UE (Nota 6)",,,,,
+,,,Sisteme militare terestre,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+"9400,00 – 9500,00","RADIODIFUZIUNE  5.134
+5.146","RADIODIFUZIUNE  5.134
+5.146",Radiodifuziune (Procedura de planificare din Articolul 12; Bandă WARC 92; schimbarea de utilizare a benzii este efectivă de la 01.04.2007; vor fi introduse sisteme digitale),,,"EN 302 017
+EN 302 245",,,,NG,
+,,,"Aplicaţii inductive (în banda 148,5 kHz–30 MHz)",,,"ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)",,,,,
+,,,"Aplicaţii căi ferate (în banda 7300- 23000 kHz, frecvenţă centrală
+13.547 MHz / sistemul Euroloop)",,,"ERC REC 70–03
+EN 302 609
+Decizia 2013/752/UE (Nota 6)",,,,,
+"9500,00 – 9900,00","RADIODIFUZIUNE
+5.147","RADIODIFUZIUNE
+5.147",Radiodifuziune sonoră (Procedura de planificare din Articolul 12.Vor fi introduse sisteme digitale),,,"EN 302 017
+EN 302 245",,,,NG,
+,,,"Aplicaţii inductive (în banda 148,5
+kHz–30 MHz)",,,"ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)",,,,,
+,,,"Aplicaţii căi ferate (în banda 7300- 23000 kHz, frecvenţă centrală
+13.547 MHz / sistemul Euroloop)",,,"ERC REC 70–03
+EN 302 609
+Decizia 2013/752/UE (Nota 6)",,,,,
+"9900,00 – 9995,00",FIX,"FIX
+ECA36","Aplicaţii inductive (în banda 148,5 kHz–30 MHz)",,,"ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)",,,,G(A)/G/NG,
+,,,"Aplicaţii căi ferate (în banda 7300- 23000 kHz, frecvenţă centrală
+13.547 MHz / sistemul Euroloop)",,,"ERC REC 70–03
+EN 302 609
+Decizia 2013/752/UE (Nota 6)",,,,,
+,,,Sisteme militare terestre,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+"9995,00 – 10003,00","FRECVENŢE ETALON ŞI
+SEMNALE ORARE (10000
+kHz)","FRECVENŢE ETALON ŞI
+SEMNALE ORARE (10000
+kHz)","Aplicaţii inductive (în banda 148,5
+kHz–30 MHz)",,,"ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)",,,,NG,
+,5.111,5.111,"Aplicaţii căi ferate (în banda 7300- 23000 kHz, frecvenţă centrală
+13.547 MHz / sistemul Euroloop)",,,"ERC REC 70–03
+EN 302 609
+Decizia 2013/752/UE (Nota 6)",,,,,
+"10003,00 – 10005,00","FRECVENŢE ETALON ŞI
+SEMNALE ORARE
+Cercetare spaţială","FRECVENŢE ETALON ŞI
+SEMNALE ORARE
+Cercetare spaţială","Comunicaţii de căutare şi salvare (SAR) (10003 kHz ± 3 kHz, pentru vehicule spaţiale cu echipaj uman)",,,,,,,NG,
+,5.111,5.111,"Aplicaţii inductive (în banda 148,5
+kHz–30 MHz)",,,"ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)",,,,,
+,,,"Aplicaţii căi ferate (în banda 7300- 23000 kHz, frecvenţă centrală
+13.547 MHz / sistemul Euroloop)",,,"ERC REC 70–03
+EN 302 609
+Decizia 2013/752/UE (Nota 6)",,,,,
+"10005,00 – 10100,00","MOBIL AERONAUTIC (R)
+5.111","MOBIL AERONAUTIC (R)
+5.111","Comunicații aeronautice (Planul de alocare din Apendicele 27, inclusiv legăturile de date în HF)",,,,,,,G(A)/NG,
+,,ECA36,"Aplicaţii inductive (în banda 148,5
+kHz–30 MHz)",,,"ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)",,,,,
+,,,"Aplicaţii căi ferate (în banda 7300- 23000 kHz, frecvenţă centrală
+13.547 MHz / sistemul Euroloop)",,,"ERC REC 70–03
+EN 302 609
+Decizia 2013/752/UE (Nota 6)",,,,,
+,,,Sisteme militare aeronautice,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+"10100,00 – 10150,00",FIX,FIX,Amator,,,EN 301 783,,,,G(A)/NG,
+,Amator,"Amator
+ECA36","Aplicaţii inductive (în banda 148,5
+kHz–30 MHz)",,,"ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)",,,,,
+,,,"Aplicaţii căi ferate (în banda 7300-
+23000 kHz, frecvenţă centrală
+13.547 MHz / sistemul Euroloop)",,,"ERC REC 70–03
+EN 302 609
+Decizia 2013/752/UE (Nota 6)",,,,,
+,,,Sisteme militare terestre,,,,,,,,
+"10150,00 – 11175,00","FIX
+Mobil cu excepţia mobil
+aeronautic (R)","FIX
+Mobil cu excepţia mobil
+aeronautic (R)","Aplicaţii căi ferate (în banda 7300- 23000 kHz, frecvenţă centrală
+13.547 MHz / sistemul Euroloop)",,,"ERC REC 70–03
+EN 302 609
+Decizia 2013/752/UE (Nota 6)",,,,G(A)/G/NG,
+,,ECA36,"Aplicaţii inductive (în banda 10200– 11000 kHz şi în banda 148,5 kHz–30 MHz conform deciziei Comisiei Europene)",,,"ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)",,,,,
+,,,Sisteme militare terestre,,,,,,,,
+,,,Sisteme militare maritime,,,,,,,,
+"11175,00 – 11275,00",MOBIL AERONAUTIC (OR),MOBIL AERONAUTIC (OR),"Comunicații aeronautice (Planul de
+alocare din Apendicele 26)",,,,,,,G(A)/NG,
+,,ECA36,"Aplicaţii inductive (în banda 148,5
+kHz–30 MHz)",,,"ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)",,,,,
+,,,"Aplicaţii căi ferate (în banda 7300- 23000 kHz, frecvenţă centrală
+13.547 MHz / sistemul Euroloop)",,,"ERC REC 70–03
+EN 302 609
+Decizia 2013/752/UE (Nota 6)",,,,,
+,,,Sisteme militare aeronautice,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+"11275,00 – 11400,00",MOBIL AERONAUTIC (R),"MOBIL AERONAUTIC (R)
+ECA36","Comunicații aeronautice (Planul de alocare din Apendicele 27, inclusiv legăturile de date în HF)",,,,,,,G(A)/NG,
+,,,"Aplicaţii inductive (în banda 148,5
+kHz–30 MHz)",,,"ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)",,,,,
+,,,"Aplicaţii căi ferate (în banda 7300- 23000 kHz, frecvenţă centrală
+13.547 MHz / sistemul Euroloop)",,,"ERC REC 70–03
+EN 302 609
+Decizia 2013/752/UE (Nota 6)",,,,,
+,,,Sisteme militare aeronautice,,,,,,,,
+"11400,00 – 11600,00",FIX,FIX,Aplicaţii militare,,,,,,,G(A)/G/NG,
+,,ECA36,"Aplicaţii inductive (în banda 148,5
+kHz–30 MHz)",,,"ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)",,,,,
+,,,"Aplicaţii căi ferate (în banda 7300- 23000 kHz, frecvenţă centrală
+13.547 MHz / sistemul Euroloop)",,,"ERC REC 70–03
+EN 302 609
+Decizia 2013/752/UE (Nota 6)",,,,,
+,,,Sisteme militare terestre,,,,,,,,
+"11600,00 – 11650,00","RADIODIFUZIUNE  5.134
+5.146","RADIODIFUZIUNE  5.134
+5.146",Radiodifuziune sonoră (Procedura de planificare din Articolul 12. Vor fi introduse sisteme digitale.)),,,"EN 302 017
+EN 302 245",,,,NG,
+,,,"Aplicaţii inductive (în banda 148,5
+kHz–30 MHz)",,,"ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)",,,,,
+,,,"Aplicaţii căi ferate (în banda 7300- 23000 kHz, frecvenţă centrală
+13.547 MHz / sistemul Euroloop)",,,"ERC REC 70–03
+EN 302 609
+Decizia 2013/752/UE (Nota 6)",,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+"11650,00 – 12050,00","RADIODIFUZIUNE
+5.147","RADIODIFUZIUNE
+5.147",Radiodifuziune (Procedura de planificare din Articolul 12.Vor fi introduse sisteme digitale.),,,"EN 302 017
+EN 302 245",,,,NG,
+,,,"Aplicaţii inductive (în banda 148,5
+kHz–30 MHz)",,,"ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)",,,,,
+,,,"Aplicaţii căi ferate (în banda 7300- 23000 kHz, frecvenţă centrală
+13.547 MHz / sistemul Euroloop)",,,"ERC REC 70–03
+EN 302 609
+Decizia 2013/752/UE (Nota 6)",,,,,
+"12050,00 – 12100,00","RADIODIFUZIUNE  5.134
+5.146","RADIODIFUZIUNE  5.134
+5.146",Radiodifuziune sonoră (Procedura de planificare din Articolul 12. Vor fi introduse sisteme digitale),,,"EN 302 017
+EN 302 245",,,,NG,
+,,,"Aplicaţii inductive (în banda 148,5
+kHz–30 MHz)",,,"ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)",,,,,
+,,,"Aplicaţii căi ferate (în banda 7300- 23000 kHz, frecvenţă centrală
+13.547 MHz / sistemul Euroloop)",,,"ERC REC 70–03
+EN 302 609
+Decizia 2013/752/UE (Nota 6)",,,,,
+"12100,00 – 12230,00",FIX,"FIX
+ECA36","Aplicaţii inductive (în banda 148,5
+kHz–30 MHz)",,,"ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)",,,,G(A)/G/NG,
+,,,"Aplicaţii căi ferate (în banda 7300- 23000 kHz, frecvenţă centrală
+13.547 MHz / sistemul Euroloop)",,,"ERC REC 70–03
+EN 302 609
+Decizia 2013/752/UE (Nota 6)",,,,,
+,,,Sisteme militare terestre,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+"12230,00 – 13200,00","MOBIL MARITIM 5.109 5.110
+5.132 5.145","MOBIL MARITIM 5.109 5.110
+5.132 5.145","Apel DSC (12577,5; 12578; 12578,5;
+12657; 12657,5;12658 kHz)",,,"EN 302 885
+EN 303 402",,,,G(A)/NG,
+,,,DSC trafic de primejdie (12577 kHz),,,,,,,,
+,,ECA36,Comunicații maritime (Planul de canalizare din Apendicele 17; Planul de alocare din Apendicele 25),,,EN 303 402,,,,,
+,,,"Informaţii pentru siguranţă maritimă
+(12579 kHz)",,,,,,,,
+,,,Trafic radiotelefonic de primejdie şi siguranță (12290 kHz),,,EN 303 402,,,,,
+,,,Trafic telex de primejdie (12520 kHz),,,,,,,,
+,,,"Aplicaţii inductive (în banda 148,5
+kHz–30 MHz)",,,"ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)",,,,,
+,,,"Aplicaţii căi ferate (în banda 7300- 23000 kHz, frecvenţă centrală
+13.547 MHz / sistemul Euroloop)",,,"ERC REC 70–03
+EN 302 609
+Decizia 2013/752/UE (Nota 6)",,,,,
+,,,Sisteme militare maritime,,,,,,,,
+"13200,00 – 13260,00",MOBIL AERONAUTIC (OR),MOBIL AERONAUTIC (OR),Comunicații aeronautice (Planul de alocare din Apendicele 26),,,,,,,G(A)/NG,
+,,ECA36,"Aplicaţii inductive (în banda 148,5
+kHz–30 MHz)",,,"ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)",,,,,
+,,,"Aplicaţii căi ferate (în banda 7300- 23000 kHz, frecvenţă centrală
+13.547 MHz / sistemul Euroloop)",,,"ERC REC 70–03
+EN 302 609
+Decizia 2013/752/UE (Nota 6)",,,,,
+,,,Sisteme militare aeronautice,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+"13260,00 – 13360,00",MOBIL AERONAUTIC (R),"MOBIL AERONAUTIC (R)
+ECA36","Comunicații aeronautice (Planul de alocare din Apendicele 27, inclusiv legăturile de date în HF)",,,,,,,G(A)/NG,
+,,,"Aplicaţii inductive (în banda 148,5
+kHz–30 MHz)",,,"ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)",,,,,
+,,,"Aplicaţii căi ferate (în banda 7300- 23000 kHz, frecvenţă centrală
+13.547 MHz / sistemul Euroloop)",,,"ERC REC 70–03
+EN 302 609
+Decizia 2013/752/UE (Nota 6)",,,,,
+,,,Sisteme militare aeronautice,,,,,,,,
+"13360,00 – 13410,00",FIX,FIX,Aplicaţii militare,,,,,,,G(A)/G/NG,
+,RADIOASTRONOMIE,RADIOASTRONOMIE,"Radioastronomie (observații
+continue)",,,,,,,,
+,5.149,"5.149
+ECA36","Aplicaţii inductive (în banda 148,5
+kHz–30 MHz)",,,"ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)",,,,,
+,,,"Aplicaţii căi ferate (în banda 7300- 23000 kHz, frecvenţă centrală
+13.547 MHz / sistemul Euroloop)",,,"ERC REC 70–03
+EN 302 609
+Decizia 2013/752/UE (Nota 6)",,,,,
+,,,Sisteme militare terestre,,,,,,,,
+"13410,00 – 13450,00","FIX
+Mobil cu excepţia mobil
+aeronautic (R)","FIX
+Mobil cu excepţia mobil
+aeronautic (R)","Aplicaţii inductive (în banda 148,5
+kHz–30 MHz)",,,"ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)",,,,G(A)/G/NG,
+,,ECA36,"Aplicaţii căi ferate (în banda 7300- 23000 kHz, frecvenţă centrală
+13.547 MHz / sistemul Euroloop)",,,"ERC REC 70–03
+EN 302 609
+Decizia 2013/752/UE (Nota 6)",,,,,
+,,,Sisteme militare terestre,,,,,,,,
+,,,Sisteme militare maritime,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+"13450,00 – 13550,00",FIX,FIX,"Aplicaţii inductive (în banda 148,5
+kHz–30 MHz)
+Aplicaţii căi ferate (în banda 7300- 23000 kHz, frecvenţă centrală
+13.547 MHz / sistemul Euroloop) Sisteme militare terestre
+Sisteme militare maritime",,,"ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)
+ERC REC 70–03
+EN 302 609
+Decizia 2013/752/UE (Nota 6)",,,,G(A)/G/NG,
+,"Mobil cu excepţia mobil
+aeronautic (R)","Mobil cu excepţia mobil
+aeronautic (R)",,,,,,,,,
+,Radiolocație 5.132A,Radiolocație 5.132A,,,,,,,,,
+,5.149A,,,,,,,,,,
+,,5.149A,,,,,,,,,
+,,ECA36,,,,,,,,,
+"13550,00 – 13570,00","FIX
+Mobil cu excepţia mobil
+aeronautic (R)","FIX
+Mobil cu excepţia mobil aeronautic (R)","Aplicaţii inductive (în banda 13553– 13567 kHz şi în banda 148,5 kHz–30 MHz; RFID în banda 13553–13567 kHz, conform Deciziei Comisie Europene 2013/752/UE )",,,"ERC REC 70–03
+EN 300 330
+Decizia 2006/771/CE (Nota 1)",,,,G(A)/G/NG,
+,5.150,5.150,ISM (în banda 13553–13567 kHz),,,,,,,,
+,,ECA36,Aplicaţii militare,,,,,,,,
+,,,SRD nespecifice (în banda 13553– 13567 kHz),,,"ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)",,,,,
+,,,"Aplicaţii căi ferate (în banda 7300- 23000 kHz, frecvenţă centrală
+13.547 MHz / sistemul Euroloop)",,,"ERC REC 70–03
+EN 302 609
+Decizia 2013/752/UE (Nota 6)",,,,,
+,,,Sisteme militare terestre,,,,,,,,
+,,,Sisteme militare maritime,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+"13570,00 – 13600,00","RADIODIFUZIUNE  5.134
+5.151","RADIODIFUZIUNE  5.134
+5.151",Radiodifuziune sonoră (Procedura de planificare din Articolul 12. Vor fi introduse sisteme digitale.),,,"EN 302 017
+EN 302 245",,,,NG,
+,,,"Aplicaţii inductive (în banda 148,5
+kHz–30 MHz)",,,"ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)",,,,,
+,,,"Aplicaţii căi ferate (în banda 7300- 23000 kHz, frecvenţă centrală
+13.547 MHz / sistemul Euroloop)",,,"ERC REC 70–03
+EN 302 609
+Decizia 2013/752/UE (Nota 6)",,,,,
+"13600,00 – 13800,00",RADIODIFUZIUNE,RADIODIFUZIUNE,Radiodifuziune sonoră (Procedura de planificare din Articolul 12.Vor fi introduse sisteme digitale.),,,"EN 302 017
+EN 302 245",,,,NG,
+,,,"Aplicaţii inductive (în banda 148,5 kHz–30 MHz)",,,"ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)",,,,,
+,,,"Aplicaţii căi ferate (în banda 7300- 23000 kHz, frecvenţă centrală
+13.547 MHz / sistemul Euroloop)",,,"ERC REC 70–03
+EN 302 609
+Decizia 2013/752/UE (Nota 6)",,,,,
+"13800,00 – 13870,00","RADIODIFUZIUNE  5.134
+5.151","RADIODIFUZIUNE  5.134
+5.151",Radiodifuziune sonoră (Procedura de planificare din Articolul 12. Vor fi introduse sisteme digitale.),,,"EN 302 017
+EN 302 245",,,,NG,
+,,,"Aplicaţii inductive (în banda 148,5 kHz–30 MHz)",,,"ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)",,,,,
+,,,"Aplicaţii căi ferate (în banda 7300-
+23000 kHz, frecvenţă centrală
+13.547 MHz / sistemul Euroloop)",,,"ERC REC 70–03
+EN 302 609
+Decizia 2013/752/UE (Nota 6)",,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+"13870,00 – 14000,00","FIX
+Mobil cu excepţia mobil aeronautic (R)","FIX
+Mobil cu excepţia mobil
+aeronautic (R)","Aplicaţii inductive (în banda 148,5 kHz–30 MHz)",,,"ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)",,,,G(A)/G/NG,
+,,ECA36,"Aplicaţii căi ferate (în banda 7300- 23000 kHz, frecvenţă centrală
+13.547 MHz / sistemul Euroloop)",,,"ERC REC 70–03
+EN 302 609
+Decizia 2013/752/UE (Nota 6)",,,,,
+,,,Sisteme militare terestre,,,,,,,,
+,,,Sisteme militare maritime,,,,,,,,
+"14000,00 – 14250,00",AMATOR,AMATOR,Amator,,,EN 301 783,,,,NG,
+,AMATOR PRIN SATELIT,AMATOR PRIN SATELIT,Amator prin satelit,,,,,,,,
+,,,"Aplicaţii inductive (în banda 148,5 kHz–30 MHz)",,,"ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)",,,,,
+,,,"Aplicaţii căi ferate (în banda 7300- 23000 kHz, frecvenţă centrală
+13.547 MHz / sistemul Euroloop)",,,"ERC REC 70–03
+EN 302 609
+Decizia 2013/752/UE (Nota 6)",,,,,
+"14250,00 – 14350,00",AMATOR,AMATOR,Amator,,,EN 301 783,,,,NG,
+,5.152,5.152,"Aplicaţii inductive (în banda 148,5 kHz–30 MHz)",,,"ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)",,,,,
+,,,"Aplicaţii căi ferate (în banda 7300- 23000 kHz, frecvenţă centrală
+13.547 MHz / sistemul Euroloop)",,,"ERC REC 70–03
+EN 302 609
+Decizia 2013/752/UE (Nota 6)",,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+"14350,00 – 14990,00","FIX
+Mobil cu excepţia mobil
+aeronautic (R)","FIX
+Mobil cu excepţia mobil
+aeronautic (R)","Aplicaţii inductive (în banda 148,5 kHz–30 MHz)",,,"ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)",,,,G(A)/G/NG,
+,,ECA36,"Aplicaţii căi ferate (în banda 7300- 23000 kHz, frecvenţă centrală
+13.547 MHz / sistemul Euroloop)",,,"ERC REC 70–03
+EN 302 609
+Decizia 2013/752/UE (Nota 6)",,,,,
+,,,Sisteme militare terestre,,,,,,,,
+,,,Sisteme militare maritime,,,,,,,,
+"14990,00 – 15005,00","FRECVENŢE ETALON ŞI
+SEMNALE ORARE (15000
+kHz)","FRECVENŢE ETALON ŞI
+SEMNALE ORARE (15000
+kHz)","SAR - Comunicaţii de căutare şi salvare (14993 kHz ± 3 kHz, pentru vehicule spaţiale cu echipaj uman)",,,,,,,NG,
+,5.111,5.111,"Aplicaţii inductive (în banda 148,5 kHz–30 MHz)",,,"ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)",,,,,
+,,,"Aplicaţii căi ferate (în banda 7300- 23000 kHz, frecvenţă centrală
+13.547 MHz / sistemul Euroloop)",,,"ERC REC 70–03
+EN 302 609
+Decizia 2013/752/UE (Nota 6)",,,,,
+"15005,00 – 15010,00","FRECVENŢE ETALON ŞI
+SEMNALE ORARE
+Cercetare spaţială","FRECVENŢE ETALON ŞI
+SEMNALE ORARE
+Cercetare spaţială","Aplicaţii inductive (în banda 148,5 kHz–30 MHz)",,,"ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)",,,,NG,
+,,,"Aplicaţii căi ferate (în banda 7300- 23000 kHz, frecvenţă centrală
+13.547 MHz / sistemul Euroloop)",,,"ERC REC 70–03
+EN 302 609
+Decizia 2013/752/UE (Nota 6)",,,,,
+,,,Implanturi medicale active,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+"15010,00 – 15100,00",MOBIL AERONAUTIC (OR),MOBIL AERONAUTIC (OR),"Comunicații aeronautice (Planul de
+alocare din Apendicele 26)",,,,,,,G(A)/NG,
+,,ECA36,"Aplicaţii inductive (în banda 148,5 kHz–30 MHz)",,,"ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)",,,,,
+,,,"Aplicaţii căi ferate (în banda 7300- 23000 kHz, frecvenţă centrală
+13.547 MHz / sistemul Euroloop)",,,"ERC REC 70–03
+EN 302 609
+Decizia 2013/752/UE (Nota 6)",,,,,
+,,,Sisteme aeronautice terestre,,,,,,,,
+"15100,00 – 15600,00",RADIODIFUZIUNE,RADIODIFUZIUNE,Radiodifuziune sonoră (Procedura de planificare din Articolul 12. Vor fi introduse sisteme digitale.),,,"EN 302 017
+EN 302 245",,,,NG,
+,,,"Aplicaţii inductive (în banda 148,5 kHz–30 MHz)",,,"ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)",,,,,
+,,,"Aplicaţii căi ferate (în banda 7300- 23000 kHz, frecvenţă centrală
+13.547 MHz / sistemul Euroloop)",,,"ERC REC 70–03
+EN 302 609
+Decizia 2013/752/UE (Nota 6)",,,,,
+"15600,00 – 15800,00",RADIODIFUZIUNE  5.134,RADIODIFUZIUNE  5.134,Radiodifuziune sonoră (Procedura de planificare din Articolul 12. Vor fi introduse sisteme digitale.),,,"EN 302 017
+EN 302 245",,,,NG,
+,5.146,5.146,"Aplicaţii inductive (în banda 148,5 kHz–30 MHz)",,,"ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)",,,,,
+,,,"Aplicaţii căi ferate (în banda 7300- 23000 kHz, frecvenţă centrală
+13.547 MHz / sistemul Euroloop)",,,"ERC REC 70–03
+EN 302 609
+Decizia 2013/752/UE (Nota 6)",,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+"15800,00 – 16100,00",FIX,"FIX
+ECA36","Aplicaţii inductive (în banda 148,5 kHz–30 MHz)",,,"ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)",,,,G(A)/G/NG,
+,,,"Aplicaţii căi ferate (în banda 7300- 23000 kHz, frecvenţă centrală
+13.547 MHz / sistemul Euroloop)",,,"ERC REC 70–03
+EN 302 609
+Decizia 2013/752/UE (Nota 6)",,,,,
+,,,Sisteme militare terestre,,,,,,,,
+"16100,00 – 16200,00","FIX
+Radiolocatie 5.145A","FIX
+Radiolocatie 5.145A","Aplicaţii inductive (în banda 148,5 kHz–30 MHz)",,,"ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)
+ERC REC 70–03
+EN 302 609
+Decizia 2013/752/UE (Nota 6)",,,,G(A)/G/NG,
+,5.145B,,,,,,,,,,
+,,ECA36,,,,,,,,,
+,,,"Aplicaţii căi ferate (în banda 7300- 23000 kHz, frecvenţă centrală
+13.547 MHz / sistemul Euroloop)",,,,,,,,
+,,,Sisteme militare terestre,,,,,,,,
+"16200,00 – 16360,00",FIX,"FIX
+ECA36","Aplicaţii inductive (în banda 148,5 kHz–30 MHz)",,,"ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)",,,,G(A)/G/NG,
+,,,"Aplicaţii căi ferate (în banda 7300- 23000 kHz, frecvenţă centrală
+13.547 MHz / sistemul Euroloop)",,,"ERC REC 70–03
+EN 302 609
+Decizia 2013/752/UE (Nota 6)",,,,,
+,,,Sisteme militare terestre,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+"16360,00 – 17410,00","MOBIL MARITIM 5.109 5.110
+5.132 5.145","MOBIL MARITIM 5.109 5.110
+5.132 5.145","ApelDSC (16805; 16805,5; 16806;
+16903; 16903,5;16904 kHz)",,,"EN 302 885
+EN 303 402",,,,G(A)/NG,
+,,ECA36,"Trafic  DSC de primejdie (16804,5 kHz)",,,EN 303 402,,,,,
+,,,Comunicații maritime (Planul de canalizare din Apendicele 17; Planul de alocare din Apendicele 25),,,,,,,,
+,,,"Informaţii pentru siguranţă maritimă
+(16806,5 kHz)",,,EN 303 402,,,,,
+,,,Trafic radiotelefonic de primejdie şi siguranță (16420 kHz),,,,,,,,
+,,,Trafic telex de primejdie (16695 kHz),,,,,,,,
+,,,"Aplicaţii inductive (în banda 148,5 kHz–30 MHz)",,,"ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)",,,,,
+,,,"Aplicaţii căi ferate (în banda 7300- 23000 kHz, frecvenţă centrală
+13.547 MHz / sistemul Euroloop)",,,"ERC REC 70–03
+EN 302 609
+Decizia 2013/752/UE (Nota 6)",,,,,
+,,,Sisteme militare maritime,,,,,,,,
+"17410,00 – 17480,00",FIX,"FIX
+ECA36","Aplicaţii inductive (în banda 148,5 kHz–30 MHz)",,,"ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)",,,,G(A)/G/NG,
+,,,"Aplicaţii căi ferate (în banda 7300- 23000 kHz, frecvenţă centrală
+13.547 MHz / sistemul Euroloop)",,,"ERC REC 70–03
+EN 302 609
+Decizia 2013/752/UE (Nota 6)",,,,,
+,,,Sisteme militare terestre,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+"17480,00 – 17550,00","RADIODIFUZIUNE  5.134
+5.146","RADIODIFUZIUNE  5.134
+5.146",Radiodifuziune sonoră (Procedura de planificare din Articolul 12. Vor fi introduse sisteme digitale.),,,"EN 302 017
+EN 302 245",,,,NG,
+,,,"Aplicaţii inductive (în banda 148,5 kHz–30 MHz)",,,"ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)",,,,,
+,,,"Aplicaţii căi ferate (în banda 7300- 23000 kHz, frecvenţă centrală
+13.547 MHz / sistemul Euroloop)",,,"ERC REC 70–03
+EN 302 609
+Decizia 2013/752/UE (Nota 6)",,,,,
+"17550,00 – 17900,00",RADIODIFUZIUNE,RADIODIFUZIUNE,Radiodifuziune sonoră (Procedura de planificare din Articolul 12. Vor fi introduse sisteme digitale.),,,"EN 302 017
+EN 302 245",,,,NG,
+,,,"Aplicaţii inductive (în banda 148,5 kHz–30 MHz)",,,"ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)",,,,,
+,,,"Aplicaţii căi ferate (în banda 7300- 23000 kHz, frecvenţă centrală
+13.547 MHz / sistemul Euroloop)",,,"ERC REC 70–03
+EN 302 609
+Decizia 2013/752/UE (Nota 6)",,,,,
+"17900,00 – 17970,00",MOBIL AERONAUTIC (R),"MOBIL AERONAUTIC (R)
+ECA36","Comunicații aeronautice (Planul de alocare din Apendicele 27, inclusiv legăturile de date în HF)",,,,,,,G(A)/NG,
+,,,"Aplicaţii inductive (în banda 148,5 kHz–30 MHz)",,,"ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)",,,,,
+,,,"Aplicaţii căi ferate (în banda 7300- 23000 kHz, frecvenţă centrală
+13.547 MHz / sistemul Euroloop)",,,"ERC REC 70–03
+EN 302 609
+Decizia 2013/752/UE (Nota 6)",,,,,
+,,,Sisteme militare aeronautice,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+"17970,00 – 18030,00",MOBIL AERONAUTIC (OR),MOBIL AERONAUTIC (OR),"Comunicații aeronautice (Planul de
+alocare din Apendicele 26)",,,,,,,G(A)/NG,
+,,ECA36,"Aplicaţii inductive (în banda 148,5
+kHz–30 MHz)",,,"ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)",,,,,
+,,,"Aplicaţii căi ferate (în banda 7300- 23000 kHz, frecvenţă centrală
+13.547 MHz / sistemul Euroloop)",,,"ERC REC 70–03
+EN 302 609
+Decizia 2013/752/UE (Nota 6)",,,,,
+,,,Sisteme militare aeronautice,,,,,,,,
+"18030,00 – 18052,00",FIX,"FIX
+ECA36","Aplicaţii inductive (în banda 148,5 kHz–30 MHz)",,,"ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)",,,,G(A)/G/NG,
+,,,"Aplicaţii căi ferate (în banda 7300- 23000 kHz, frecvenţă centrală
+13.547 MHz / sistemul Euroloop)",,,"ERC REC 70–03
+EN 302 609
+Decizia 2013/752/UE (Nota 6)",,,,,
+,,,Sisteme militare terestre,,,,,,,,
+"18052,00 – 18068,00","FIX
+Cercetare spaţială","FIX
+Cercetare spaţială","Aplicaţii inductive (în banda 148,5
+kHz–30 MHz)",,,"ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)",,,,G(A)/G/NG,
+,,ECA36,"Aplicaţii căi ferate (în banda 7300- 23000 kHz, frecvenţă centrală
+13.547 MHz / sistemul Euroloop)",,,"ERC REC 70–03
+EN 302 609
+Decizia 2013/752/UE (Nota 6)",,,,,
+,,,Sisteme militare terestre,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+"18068,00 – 18168,00",AMATOR,AMATOR,Amator,,,EN 301 783,,,,NG,
+,AMATOR PRIN SATELIT,AMATOR PRIN SATELIT,Amator prin satelit,,,,,,,,
+,5.154,5.154,"Aplicaţii inductive (în banda 148,5 kHz–30 MHz)",,,"ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)",,,,,
+,,,"Aplicaţii căi ferate (în banda 7300- 23000 kHz, frecvenţă centrală
+13.547 MHz / sistemul Euroloop)",,,"ERC REC 70–03
+EN 302 609
+Decizia 2013/752/UE (Nota 6)",,,,,
+"18168,00 – 18780,00","FIX
+Mobil cu excepţia mobil
+aeronautic","FIX
+Mobil cu excepţia mobil
+aeronautic
+ECA36","Apel DSC (18898,5;18899;18899,5
+kHz)
+Aplicaţii inductive (în banda 148,5
+kHz–30 MHz)",,,"EN 302 885
+EN 303 402
+ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)",,,,G(A)/NG,
+,,,"Aplicaţii căi ferate (în banda 7300- 23000 kHz, frecvenţă centrală
+13.547 MHz / sistemul Euroloop)",,,"ERC REC 70–03
+EN 302 609
+Decizia 2013/752/UE (Nota 6)",,,,,
+,,,Sisteme militare terestre,,,,,,,,
+,,,Sisteme militare maritime,,,,,,,,
+"18780,00 – 18900,00",MOBIL MARITIM,MOBIL MARITIM,"Comunicații maritime (Planul de
+canalizare din Apendicele 17)",,,EN 303 402,,,,G(A)/NG,
+,,ECA36,"Aplicaţii inductive (în banda 148,5
+kHz–30 MHz)",,,"ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)",,,,,
+,,,"Aplicaţii căi ferate (în banda 7300- 23000 kHz, frecvenţă centrală
+13.547 MHz / sistemul Euroloop)",,,"ERC REC 70–03
+EN 302 609
+Decizia 2013/752/UE (Nota 6)",,,,,
+,,,Sisteme militare maritime,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+"18900,00 – 19020,00","RADIODIFUZIUNE  5.134
+5.146","RADIODIFUZIUNE  5.134
+5.146",Radiodifuziune sonoră (Procedura de planficare din Articolul 12.Vor fi introduse sisteme digitale.),,,"EN 302 017
+EN 302 245",,,,NG,
+,,,"Aplicaţii inductive (în banda 148,5
+kHz–30 MHz)",,,"ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)",,,,,
+,,,"Aplicaţii căi ferate (în banda 7300- 23000 kHz, frecvenţă centrală
+13.547 MHz / sistemul Euroloop)",,,"ERC REC 70–03
+EN 302 609
+Decizia 2013/752/UE (Nota 6)",,,,,
+"19020,00 – 19680,00",FIX,"FIX
+ECA36","Aplicaţii inductive (în banda 148,5
+kHz–30 MHz)",,,"ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)",,,,G(A)/G/NG,
+,,,"Aplicaţii căi ferate (în banda 7300- 23000 kHz, frecvenţă centrală
+13.547 MHz / sistemul Euroloop)",,,"ERC REC 70–03
+EN 302 609
+Decizia 2013/752/UE (Nota 6)",,,,,
+,,,Sisteme militare terestre,,,,,,,,
+"19680,00 – 19800,00",MOBIL MARITIM 5.132,MOBIL MARITIM 5.132,"Apel DSC (19703,5; 19704; 19704,5
+kHz)",,,"EN 302 885
+EN 303 402",,,,G(A)/NG,
+,,ECA36,"Comunicații maritime (Planul de canalizare din Apendicele 17, Planul de alocare din Apendicele 25)",,,EN 303 402,,,,,
+,,,"Informaţii pentru siguranţă maritimă
+(19680,5 kHz)",,,,,,,,
+,,,"Aplicaţii inductive (în banda 148,5
+kHz–30 MHz)",,,"ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)",,,,,
+,,,"Aplicaţii căi ferate (în banda 7300-
+23000 kHz, frecvenţă centrală
+13.547 MHz / sistemul Euroloop)",,,"ERC REC 70–03
+EN 302 609
+Decizia 2013/752/UE (Nota 6)",,,,,
+,,,Sisteme militare maritime,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+"19800,00 – 19990,00",FIX,"FIX
+ECA36","Aplicaţii inductive (în banda 148,5
+kHz–30 MHz)",,,"ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)",,,,G(A)/G/NG,
+,,,"Aplicaţii căi ferate (în banda 7300- 23000 kHz, frecvenţă centrală
+13.547 MHz / sistemul Euroloop)",,,"ERC REC 70–03
+EN 302 609
+Decizia 2013/752/UE (Nota 6)",,,,,
+,,,Sisteme militare terestre,,,,,,,,
+"19990,00 – 19995,00","FRECVENŢE ETALON ŞI
+SEMNALE ORARE
+Cercetare spaţială","FRECVENŢE ETALON ŞI
+SEMNALE ORARE
+Cercetare spaţială","Comunicaţii de căutare şi salvare (19993 kHz ± 3 kHz, pentru vehicule spaţiale cu echipaj uman)",,,,,,,NG,
+,5.111,5.111,"Aplicaţii inductive (în banda 148,5
+kHz–30 MHz)",,,"ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)",,,,,
+,,,"Aplicaţii căi ferate (în banda 7300- 23000 kHz, frecvenţă centrală
+13.547 MHz / sistemul Euroloop)",,,"ERC REC 70–03
+EN 302 609
+Decizia 2013/752/UE (Nota 6)",,,,,
+"19995,00 – 20010,00","FRECVENŢE ETALON ŞI
+SEMNALE ORARE (20000
+kHz)","FRECVENŢE ETALON ŞI
+SEMNALE ORARE (20000
+kHz)","Aplicaţii inductive (în banda 148,5 kHz–30 MHz)",,,"ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)",,,,NG,
+,5.111,5.111,"Aplicaţii căi ferate (în banda 7300- 23000 kHz, frecvenţă centrală
+13.547 MHz / sistemul Euroloop)",,,"ERC REC 70–03
+EN 302 609
+Decizia 2013/752/UE (Nota 6)",,,,,
+"20010,00 – 21000,00","FIX
+Mobil","FIX
+Mobil
+ECA36","Aplicaţii inductive (în banda 148,5
+kHz–30 MHz)",,,"ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)",,,,G(A)/G/NG,
+,,,"Aplicaţii căi ferate (în banda 7300- 23000 kHz, frecvenţă centrală
+13.547 MHz / sistemul Euroloop)",,,"ERC REC 70–03
+EN 302 609
+Decizia 2013/752/UE (Nota 6)",,,,,
+,,,Sisteme militare terestre,,,,,,,,
+,,,Sisteme militare maritime,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+"21000,00 – 21450,00",AMATOR,AMATOR,Amator,,,EN 301 783,,,,NG,
+,AMATOR PRIN SATELIT,AMATOR PRIN SATELIT,Amator prin satelit,,,,,,,,
+,,,"Aplicaţii inductive (în banda 148,5
+kHz–30 MHz)",,,"ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)",,,,,
+,,,"Aplicaţii căi ferate (în banda 7300-
+23000 kHz, frecvenţă centrală
+13.547 MHz / sistemul Euroloop)",,,"ERC REC 70–03
+EN 302 609
+Decizia 2013/752/UE (Nota 6)",,,,,
+"21450,00 – 21850,00",RADIODIFUZIUNE,RADIODIFUZIUNE,Radiodifuziune sonoră (Procedura de planificare din Articolul 12.Vor fi introduse sisteme digitale.),,,"EN 302 017
+EN 302 245",,,,NG,
+,,,"Aplicaţii inductive (în banda 148,5
+kHz–30 MHz)",,,"ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)",,,,,
+,,,"Aplicaţii căi ferate (în banda 7300- 23000 kHz, frecvenţă centrală
+13.547 MHz / sistemul Euroloop)",,,"ERC REC 70–03
+EN 302 609
+Decizia 2013/752/UE (Nota 6)",,,,,
+"21850,00 – 21870,00","FIX  5.155A
+5.155","FIX
+ECA36","Aplicaţii inductive (în banda 148,5
+kHz–30 MHz)",,,"ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)",,,,G(A)/G/NG,
+,,,"Aplicaţii căi ferate (în banda 7300- 23000 kHz, frecvenţă centrală
+13.547 MHz / sistemul Euroloop)",,,"ERC REC 70–03
+EN 302 609
+Decizia 2013/752/UE (Nota 6)",,,,,
+,,,Sisteme militare terestre,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+"21870,00 – 21924,00",FIX  5.155B,"FIX  5.155B
+ECA36","Aplicaţii inductive (în banda 148,5
+kHz–30 MHz)",,,"ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)",,,,G(A)/G/NG,
+,,,"Aplicaţii căi ferate (în banda 7300- 23000 kHz, frecvenţă centrală
+13.547 MHz / sistemul Euroloop)",,,"ERC REC 70–03
+EN 302 609
+Decizia 2013/752/UE (Nota 6)",,,,,
+,,,Sisteme militare terestre,,,,,,,,
+"21924,00 – 22000,00",MOBIL AERONAUTIC (R),"MOBIL AERONAUTIC (R)
+ECA36","Comunicații aeronautice (Planul de alocare din Apendicele 27, inclusiv legăturile de date în HF)",,,,,,,G(A)/NG,
+,,,"Aplicaţii inductive (în banda 148,5 kHz–30 MHz)",,,"ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)",,,,,
+,,,"Aplicaţii căi ferate (în banda 7300- 23000 kHz, frecvenţă centrală
+13.547 MHz / sistemul Euroloop)",,,"ERC REC 70–03
+EN 302 609
+Decizia 2013/752/UE (Nota 6)",,,,,
+,,,Sisteme militare aeronautice,,,,,,,,
+"22000,00 – 22855,00",MOBIL MARITIM  5.132,MOBIL MARITIM  5.132,"Apel DSC (22374,5; 22375; 22375.5;
+22444; 22444,5; 22445 kHz)",,,"EN 302 885
+EN 303 402",,,,G(A)/NG,
+,5.156,ECA36,Comunicații maritime (Planul de canalizare din Apendicele 17 şi planul de alocare din Apendicele 25),,,EN 303 402,,,,,
+,,,"Informaţii pentru siguranţă maritimă
+(MSI) (22376 kHz)",,,,,,,,
+,,,"Aplicaţii inductive (în banda 148,5
+kHz–30 MHz)",,,"ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)",,,,,
+,,,"Aplicaţii căi ferate (în banda 7300- 23000 kHz, frecvenţă centrală
+13.547 MHz / sistemul Euroloop)",,,"ERC REC 70–03
+EN 302 609
+Decizia 2013/752/UE (Nota 6)",,,,,
+,,,Sisteme militare maritime,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+"22855,00 – 23000,00",FIX 5.156,FIX ECA36,"Aplicaţii inductive (în banda 148,5
+kHz–30 MHz)
+Aplicaţii căi ferate (în banda 7300- 23000 kHz, frecvenţă centrală
+13.547 MHz / sistemul Euroloop)
+Sisteme militare terestre",,,"ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)
+ERC REC 70–03
+EN 302 609
+Decizia 2013/752/UE (Nota 6)",,,,G(A)/G/NG,
+"23000,00 – 23200,00","FIX
+Mobil cu excepţia mobil
+aeronautic (R) 5.156","FIX
+Mobil cu excepţia mobil
+aeronautic (R)
+ECA36","Aplicaţii inductive (în banda 148,5
+kHz–30 MHz)
+Sisteme militare terestre Sisteme militare maritime",,,"ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)",,,,G(A)/G/NG,
+"23200,00 – 23350,00","FIX  5.156A
+MOBIL AERONAUTIC (OR)","FIX  5.156A
+MOBIL AERONAUTIC (OR)","Comunicații aeronautice
+Aplicaţii inductive (în banda 148,5
+kHz–30 MHz)
+Sisteme militare terestre Sisteme militare aeronautice",,,"ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)",,,,G(A)/NG,
+"23350,00 – 24000,00","FIX
+MOBIL cu excepţia mobil
+aeronautic 5.157","FIX
+MOBIL cu excepţia mobil
+aeronautic 5.157
+ECA36","Aplicaţii inductive (în banda 148,5
+kHz–30 MHz)
+Sisteme militare terestre Sisteme militare maritime",,,"ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)",,,,G(A)/G/NG,
+"24000,00 – 24450,00","FIX
+MOBIL TERESTRU","FIX
+MOBIL TERESTRU
+ECA36","Aplicaţii inductive (în banda 148,5
+kHz–30 MHz)
+Sisteme militare terestre",,,"ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)",,,,G(A)/G/NG,
+"24450,00 – 24600,00","FIX
+MOBIL TERESTRU
+Radiolocație 5.132A
+5.158","FIX
+MOBIL TERESTRU
+Radiolocație 5.132A
+ECA36","Aplicaţii inductive (în banda 148,5
+kHz–30 MHz)
+Sisteme militare terestre",,,"ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)",,,,G(A)/G/NG,
+,,,,,,,,,,,
+,,,,,,,,,,,
+"24600,00 – 24890,00","FIX
+MOBIL TERESTRU","FIX
+MOBIL TERESTRU
+ECA36","Aplicaţii inductive (în banda 148,5
+kHz–30 MHz)
+Sisteme militare terestre",,,"ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)",,,,G(A)/G/NG,
+"24890,00 – 24990,00","AMATOR
+AMATOR PRIN SATELIT","AMATOR
+AMATOR PRIN SATELIT","Amator
+Amator prin satelit
+Aplicaţii inductive (în banda 148,5
+kHz–30 MHz)",,,"EN 301 783
+ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)",,,,NG,
+"24990,00 – 25005,00","FRECVENŢE ETALON ŞI
+SEMNALE ORARE (25000
+kHz)","FRECVENŢE ETALON ŞI
+SEMNALE ORARE (25000
+kHz)","Aplicaţii inductive (în banda 148,5
+kHz–30 MHz)",,,"ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)",,,,NG,
+"25005,00 – 25010,00","FRECVENŢE ETALON ŞI
+SEMNALE ORARE
+Cercetare spaţială","FRECVENŢE ETALON ŞI
+SEMNALE ORARE
+Cercetare spaţială","Cercetare spaţială
+Aplicaţii inductive (în banda 148,5
+kHz–30 MHz)",,,"ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)",,,,NG,
+"25010,00 – 25070,00","FIX
+MOBIL cu excepţia mobil
+aeronautic","FIX
+MOBIL cu excepţia mobil
+aeronautic
+ECA36","Aplicaţii inductive (în banda 148,5
+kHz–30 MHz)
+Sisteme militare terestre Sisteme militare maritime",,,"ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)",,,,G(A)/G/NG,
+"25070,00 – 25210,00",MOBIL MARITIM,MOBIL MARITIM ECA36,"Apel DSC (25208,5; 25209; 25209,5
+kHz)
+Comunicații maritime (Planul de
+canalizare din Apendicele 17)
+Aplicaţii inductive (în banda 148,5
+kHz–30 MHz)
+Sisteme militare maritime",,,"EN 302 885
+EN 303 402
+EN 303 402
+ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)",,,,G(A)/NG,
+,,,,,,,,,,,
+,,,,,,,,,,,
+"25210,00 – 25550,00","FIX
+MOBIL cu excepţia mobil
+aeronautic","FIX
+MOBIL cu excepţia mobil
+aeronautic
+ECA36","Aplicaţii inductive (în banda 148,5
+kHz–30 MHz)
+Sisteme militare terestre Sisteme militare maritime",,,"ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)",,,,G(A)/G/NG,
+"25550,00 – 25670,00",RADIOASTRONOMIE 5.149,RADIOASTRONOMIE 5.149,"Radioastronomie (observații
+continue)
+Aplicaţii inductive (în banda 148,5
+kHz–30 MHz)",,,"ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)",,,,NG,
+"25670,00 – 26100,00",RADIODIFUZIUNE,RADIODIFUZIUNE,Radiodifuziune sonoră (Procedura de planificare din Articolul 12.Vor fi introduse sisteme digitale.),,,"EN 302 017
+EN 302 245",,,,NG,
+,,,"Aplicaţii inductive (în banda 148,5
+kHz–30 MHz)",,,"ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)",,,,,
+"26100,00 – 26175,00",MOBIL MARITIM 5.132,MOBIL MARITIM 5.132,"Apel DSC (26121; 26121,5; 26122
+kHz)",,,"EN 302 885
+EN 303 402",,,,G(A)/NG,
+,,ECA36,Comunicații maritime (Planul de canalizare din Apendicele 17 şi planul de alocare din Apendicele 25),,,EN 303 402,,,,,
+,,,"Informaţii pentru siguranţă maritimă
+(MSI) (26100,5 kHz)",,,,,,,,
+,,,"Aplicaţii inductive (în banda 148,5
+kHz–30 MHz)",,,"ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)",,,,,
+,,,Sisteme militare maritime,,,,,,,,
+"26175,00 – 26200,00","FIX
+MOBIL cu excepţia mobil aeronautic","FIX
+MOBIL cu excepţia mobil
+aeronautic
+ECA36","Aplicaţii inductive (în banda 148,5
+kHz–30 MHz)
+Sisteme militare terestre Sisteme militare maritime",,,"ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)",,,,G(A)/NG,
+,,,,,,,,,,,
+,,,,,,,,,,,
+"26200,00 – 26350,00",FIX,FIX,"Aplicaţii inductive (în banda 148,5
+kHz–30 MHz)
+Sisteme militare terestre Sisteme militare maritime",,,"ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)",,,,G(A)/NG,
+,MOBIL cu excepţia mobil aeronautic,"MOBIL cu excepţia mobil
+aeronautic",,,,,,,,,
+,Radiolocație 5.132A,Radiolocație 5.132A,,,,,,,,,
+,5.133A,,,,,,,,,,
+,,ECA36,,,,,,,,,
+"26350,00 – 27500,00","FIX
+MOBIL cu excepţia mobil
+aeronautic 5.150","FIX
+MOBIL cu excepţia mobil
+aeronautic 5.150","Aplicaţii radio în „banda civică” CB
+(CEPT PR 27) (în banda 26,960–
+27,410 MHz)",,,"ECC DEC (11)03
+ERC REC 70–03
+EN 300 433",,,,G(A)/NG,
+,,ECA36,"Aplicaţii inductive (în banda 148,5 kHz–30 MHz)",,,"ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)",,,,,
+,,,"ISM (26,957–27,283 MHz)",,,,,,,,
+,,,"Controlul modelelor (în benzile 26990-27000 kHz, 27040-27050
+kHz, 27090-27100 kHz, 27140-
+27150 kHz şi 27190-27200 kHz)",,,"ERC REC 70–03
+EN 300 220
+Decizia 2009/381/CE (Nota 3)",,,,,
+,,,"SRD nespecifice (în banda 26957– 27283 kHz, conform Deciziei 2006/771/CE şi în benzile 26990- 27000 kHz, 27040-27050 kHz,
+27090-27100 kHz, 27140-27150 kHz
+şi 27190-27200 kHz conform Deciziei 2013/752/UE)",,,"ERC REC 70–03
+EN 300 220
+Decizia 2006/771/CE (Nota 1)
+Decizia 2013/752/UE (Nota 6)",,,,,
+,,,"Aplicaţii pentru căi ferate (în banda 27,090-27,100 MHz, frecvenţă centrală 27,095 MHz / sistemul Eurobalise)",,,"ERC REC 70–03
+EN 302 608
+Decizia 1999/569/CE",,,,,
+,,,Sisteme militare terestre,,,,,,,,
+,,,Sisteme militare maritime,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+"27500,00 – 28000,00","FIX
+AUXILIAR METEOROLOGIC MOBIL","FIX
+AUXILIAR METEOROLOGIC MOBIL
+ECA36","Aplicaţii inductive (în banda 148,5
+kHz–30 MHz)
+Sisteme militare terestre Sisteme militare maritime Sisteme militare aeronautice",,,"ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)",,,,G(A)/G/NG,
+"28000,00 – 29700,00",AMATOR,AMATOR,Amator,,,EN 301 783,,,,NG,
+,AMATOR PRIN SATELIT,AMATOR PRIN SATELIT,Amator prin satelit,,,,,,,,
+,,,"Aplicaţii inductive (în banda 148,5
+kHz–30 MHz)",,,"ERC REC 70–03
+EN 300 330
+Decizia 2008/432/CE (Nota 2)",,,,,
