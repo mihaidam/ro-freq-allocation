@@ -16,5 +16,11 @@ What you can find in the repo:
 - [plotly](https://pypi.org/project/plotly/)
 
 ---
+## Live test
+- [kHz frequencies graph](./khz_graph.html)
+- [MHz frequencies graph](./mhz_graph.html)
+- [GHz frequencies graph](./ghz_graph.html)
+
+---
 
 *Mihai Damian, Marian Neagul, FMI@UVT, Spring 2021*
