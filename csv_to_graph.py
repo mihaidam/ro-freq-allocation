@@ -13,6 +13,6 @@ data = dict_from_csv
 
 df = pandas.DataFrame(data)
 
-fig = px.sunburst(df, path=['usess', 'freqs'])
+fig = px.sunburst(df, path=['usess', 'freqs'], hover_name = 'usess', hover_data={'value' : False})
 
 fig.show()
