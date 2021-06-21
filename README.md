@@ -2,6 +2,9 @@
 
 This project presents some data extracted from the frequency allocation chart of Romania, that can be found [here](https://www.ancom.ro/tnabf_3998).
 
+## Interactive version
+- [here](https://mihaidam.github.io/ro-freq-allocation/)
+
 What you can find in the repo:
 - [pdf_data.pdf](./pdf_data.pdf) -> the PDF used to extract data, **latest version at the time of writing, may not be accurate in the future**
 - [raw_csv_to_clean.py](./raw_csv_to_clean.py) -> takes just certain columns from input_sanitized_\*.csv, tries to clean them and creates a new csv with the name \*hz_clean_aux.csv
